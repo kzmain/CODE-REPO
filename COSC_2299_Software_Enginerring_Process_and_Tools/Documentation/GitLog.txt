@@ -1,0 +1,2121 @@
+* commit f8bd3d2e7f86207111423e43508d8c164cbce89e
+| Author: arthur <arthur@192-168-1-3.tpgi.com.au>
+| Date:   Tue Apr 25 07:33:28 2017 -0400
+| 
+|     Added validation for 'name' and 'city' to check for only letters and spaces
+|     Added logging
+| 
+|  app/Employee.php                                |  7 +-
+|  app/Http/Controllers/AvailabilityController.php |  7 ++
+|  app/Http/Controllers/BookingController.php      | 15 ++++
+|  app/Http/Controllers/EmployeeController.php     |  7 ++
+|  app/Http/Controllers/HomeController.php         |  3 +
+|  app/Providers/AppServiceProvider.php            |  6 ++
+|  app/Service.php                                 |  4 +-
+|  app/User.php                                    |  7 +-
+|  log.unit.junit.xml                              | 80 ++++++++++-----------
+|  report-unit-tests/phpunit-noframes.html         | 84 +++++++++++------------
+|  resources/views/home.blade.php                  |  1 +
+|  11 files changed, 133 insertions(+), 88 deletions(-)
+|    
+*   commit 58f527606f845f3c343435b7a297dbb6f3971df1
+|\  Merge: 6fe271f 5face99
+| | Author: chen0067 <whye9433@gmail.com>
+| | Date:   Tue Apr 25 01:57:32 2017 -0400
+| | 
+| |     Merge pull request #36 from kzmain/partB_addService
+| |     
+| |     Did add services function(to have different length of time)
+| |   
+| * commit 5face992d0075512a7c19d77b532581bdd0524d3
+|/  Author: Wayne <wayne@arthurs-MacBook-Air.local>
+|   Date:   Tue Apr 25 01:51:30 2017 -0400
+|   
+|       Did add services function(to have different length of time)
+|   
+|    app/Http/Controllers/ServiceController.php |  70 +++++++++++++++++
+|    resources/views/add-service.blade.php      | 103 +++++++++++++++++++++++++
+|    routes/web.php                             |   2 +
+|    3 files changed, 175 insertions(+)
+|  
+* commit 6fe271f2970fb89f90ad5e38fd1571b13039a835
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Sat Apr 8 00:06:43 2017 -0400
+| 
+|     Removed unnecessary dependency and did composer update
+| 
+|  composer.json |   3 +-
+|  composer.lock | 405 ++++++++++++++------------------------------------------
+|  2 files changed, 98 insertions(+), 310 deletions(-)
+|  
+* commit 993f6c26657c8453a11764ce6e53776bcdf8aec0
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 23:30:53 2017 -0400
+| 
+|     Removed HOWTO.md
+| 
+|  HOWTO.md | 33 ---------------------------------
+|  1 file changed, 33 deletions(-)
+|  
+* commit 15930d7f686b46e584a4675f746dbe5c52047c5d
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 23:22:07 2017 -0400
+| 
+|     Added HOWTO
+| 
+|  Documentation/HOWTO.pdf | Bin 0 -> 583235 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+|  
+* commit 708317ae1b86e6fc7c4b3df8455f452d040208a4
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 11:20:52 2017 -0400
+| 
+|     Git log documentation
+| 
+|  Documentation/GitLog.txt | 1203 ++++++++++++++++++++++++++++++++++++++++++++
+|  1 file changed, 1203 insertions(+)
+|  
+* commit 41623eba2e6e9b0570e15174802993b92e9f42e7
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 10:58:45 2017 -0400
+| 
+|     README
+| 
+|  README.md  |  43 +++++++++++++++++++++++++++++++++++++++++++
+|  README.pdf | Bin 65520 -> 0 bytes
+|  2 files changed, 43 insertions(+)
+|  
+* commit 201e56b2312e0edc72d84a51a249ff2eb4314ebe
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 10:46:35 2017 -0400
+| 
+|     README and PeerAssessment
+| 
+|  Documentation/PeerAssessment.pdf | Bin 0 -> 65520 bytes
+|  Documentation/README.pdf         | Bin 0 -> 65520 bytes
+|  2 files changed, 0 insertions(+), 0 deletions(-)
+|  
+* commit 11391bee207a5aee93218376b83bb9292d6afe83
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 10:43:19 2017 -0400
+| 
+|     Moved MeetingMinutes file to Documentation folder
+| 
+|  Documentation/MeetingMinutes.pdf | Bin 0 -> 288793 bytes
+|  MeetingMinutes.pdf               | Bin 288793 -> 0 bytes
+|  2 files changed, 0 insertions(+), 0 deletions(-)
+|  
+* commit f9e707762ce5aef04122c9dc8959068e0bb185da
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 10:41:40 2017 -0400
+| 
+|     Wrong file
+| 
+|  Documentation/MeetingMinutes.pdf | Bin 288918 -> 0 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+|  
+* commit f126aea3b63cd8e97caa477744d7c46ce791b758
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Fri Apr 7 10:29:02 2017 -0400
+| 
+|     Slack Chat Logs and Test Results Documentation
+| 
+|  Documentation/Mockups.pdf              | Bin 0 -> 2497677 bytes
+|  Documentation/SlackExport2017Apr06.pdf | Bin 0 -> 1162293 bytes
+|  Documentation/TestResults.pdf          | Bin 0 -> 131954 bytes
+|  Documentation/allMockups.pdf           | Bin 2497677 -> 0 bytes
+|  4 files changed, 0 insertions(+), 0 deletions(-)
+|    
+*   commit b00e31eb59960a0671cd6b6b93511c57502efd09
+|\  Merge: 85f94ae a35c24c
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Fri Apr 7 08:40:32 2017 -0400
+| | 
+| |     Merge pull request #35 from kzmain/week6debug
+| |     
+| |     For debugging, changed APP_DEBUG to DEBUG_USER_EMAIL
+| |   
+| * commit a35c24cf8eb2c137f99800fdf67a58e08be1e88b
+| | Author: arthur <arthur@arthurthegreat.com>
+| | Date:   Fri Apr 7 12:39:57 2017 -0400
+| | 
+| |     For debugging, changed APP_DEBUG to DEBUG_USER_EMAIL
+| | 
+| |  HOWTO.md                          |  4 ++--
+| |  database/seeds/DatabaseSeeder.php | 13 ++++++++++++-
+| |  resources/views/home.blade.php    |  2 +-
+| |  3 files changed, 15 insertions(+), 4 deletions(-)
+| |     
+* |   commit 85f94ae5b8e2f40f371dd3a2cfd408e3568eee35
+|\ \  Merge: f94b23a c0f3b3e
+| |/  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+|/|   Date:   Fri Apr 7 08:39:12 2017 -0400
+| |   
+| |       Merge pull request #34 from kzmain/week6testDocument
+| |       
+| |       Test script now generates a test report in HTML
+| |   
+| * commit c0f3b3e0d83164c39fda717e425ef03f33176c39
+|/  Author: arthur <arthur@arthurthegreat.com>
+|   Date:   Fri Apr 7 11:29:03 2017 -0400
+|   
+|       Test script now generates a test report in HTML
+|       slack2html (modified from original to make it printable) converts Slack exported JSON to HTML
+|   
+|    composer.json                                    |   4 +-
+|    composer.lock                                    | 416 +++++++++++++++---
+|    log.feature.junit.xml                            |  41 ++
+|    log.unit.junit.xml                               |  49 +++
+|    phing-test-report-feature.xml                    |  10 +
+|    phing-test-report-unit.xml                       |  10 +
+|    report-feature-tests/phpunit-noframes.html       | 413 ++++++++++++++++++
+|    report-unit-tests/phpunit-noframes.html          | 426 +++++++++++++++++++
+|    run-feature-tests.sh                             |   5 +-
+|    run-unit-tests.sh                                |   5 +-
+|    slack2html.php                                   | 273 ++++++++++++
+|    tests/Feature/B2_Register_CanRegisterTest.php    |   3 +-
+|    .../B3_Register_DetectDuplicateUseridTest.php    |   3 +-
+|    .../B4_Register_DetectPasswordMismatchTest.php   |   3 +-
+|    .../B5_Register_DetectPasswordTooShortTest.php   |   3 +-
+|    .../B6_Register_DetectInvalidEmailTest.php       |   3 +-
+|    tests/Feature/C1_Login_CanSeeLoginPageTest.php   |   3 +-
+|    tests/Feature/C2_Login_CanLoginTest.php          |   3 +-
+|    tests/Feature/C3_Login_DetectFailedLoginTest.php |   3 +-
+|    ...n_CanNavigateToForgotYourPasswordPageTest.php |   3 +-
+|    .../C5_Login_CanNavigateToRegisterPageTest.php   |   3 +-
+|    tests/Unit/AvailabilityTest.php                  |  41 ++
+|    22 files changed, 1644 insertions(+), 79 deletions(-)
+|  
+* commit f94b23a985d91946b53cb74760a0b1ef1089d811
+| Author: arthur <arthur@arthurthegreat.com>
+| Date:   Fri Apr 7 09:58:57 2017 -0400
+| 
+|     Fixed typo
+| 
+|  Documentation/UserStoryDocumentation.pdf | Bin 0 -> 92767 bytes
+|  Documentation/UserStroyDocumentation.pdf | Bin 92767 -> 0 bytes
+|  2 files changed, 0 insertions(+), 0 deletions(-)
+|    
+*   commit 77310713c02d8f10726feadd51ce6c700d8f5058
+|\  Merge: 661d4b2 178a753
+| | Author: 实验台边吃早饭 <kzmain@users.noreply.github.com>
+| | Date:   Fri Apr 7 17:00:26 2017 +1000
+| | 
+| |     Merge pull request #33 from kzmain/Week5View_Test
+| |     
+| |     Week5View Test
+| |   
+| * commit 178a7535134788af9bd10859034e00efbcddfb2f
+| | Author: chen0067 <whye9433@gmail.com>
+| | Date:   Fri Apr 7 16:59:56 2017 +1000
+| | 
+| |     Documentation
+| | 
+| |  MeetingMinutes.pdf | Bin 0 -> 288793 bytes
+| |  README.pdf         | Bin 0 -> 65520 bytes
+| |  2 files changed, 0 insertions(+), 0 deletions(-)
+| |     
+| *   commit 2e6a535ef2230aa9ceb924524f56fcf93616ef9c
+| |\  Merge: 7932b55 661d4b2
+| |/  Author: chen0067 <whye9433@gmail.com>
+|/|   Date:   Fri Apr 7 16:59:43 2017 +1000
+| |   
+| |       Merge branch 'master' into Week5View_Test
+| |     
+* |   commit 661d4b202ef1b15c4051cec642f8e6eb20fd583c
+|\ \  Merge: 9384df2 7932b55
+| |/  Author: 实验台边吃早饭 <kzmain@users.noreply.github.com>
+| |   Date:   Fri Apr 7 16:59:00 2017 +1000
+| |   
+| |       Merge pull request #32 from kzmain/Week5View_Test
+| |       
+| |       Merge branch 'master' into Week5View_Test
+| |     
+| *   commit 7932b55a26e80ee1d3c03f04962b131b51e6a287
+| |\  Merge: ada98f9 9111b1e
+| | | Author: chen0067 <whye9433@gmail.com>
+| | | Date:   Fri Apr 7 15:21:01 2017 +1000
+| | | 
+| | |     Merge branch 'master' into Week5View_Test
+| | |    
+* | | commit 9384df264449d5ecc584a44dbb8afd442360e13f
+| | | Author: kzmain <main@kzvip.net>
+| | | Date:   Fri Apr 7 16:52:34 2017 +1000
+| | | 
+| | |     Update
+| | | 
+| | |  app/Http/Controllers/BookingController.php      | 17 ++++++
+| | |  .../bookingPannel/bookingFilterPannel.blade.php | 56 +++----------------
+| | |  2 files changed, 26 insertions(+), 47 deletions(-)
+| | |    
+* | | commit 1befe2b1454f3051a238c5d51e4e2c1903df3800
+| | | Author: kzmain <main@kzvip.net>
+| | | Date:   Fri Apr 7 16:01:36 2017 +1000
+| | | 
+| | |     Documentation
+| | | 
+| | |  Documentation/Class_Diagram.pdf              | Bin 0 -> 17669 bytes
+| | |  Documentation/MeetingMinutes.pdf             | Bin 0 -> 288918 bytes
+| | |  Documentation/Trello_Activity.txt            | 736 +++++++++++++++++++++
+| | |  Documentation/Trello_Board.pdf               | Bin 0 -> 714209 bytes
+| | |  Documentation/URL_of_GitHub_Trello_Slack.txt |   3 +
+| | |  Documentation/UserStroyDocumentation.pdf     | Bin 0 -> 92767 bytes
+| | |  6 files changed, 739 insertions(+)
+| | |    
+* | | commit 28ef8ded6443fa280c575294b4ae9654fc41fe30
+| |/  Author: kzmain <main@kzvip.net>
+|/|   Date:   Fri Apr 7 13:18:57 2017 +1000
+| |   
+| |       .
+| |   
+| |    .../views/bookingPannel/bookingFilterPannel.blade.php   | 11 +++++++----
+| |    1 file changed, 7 insertions(+), 4 deletions(-)
+| |   
+* | commit 9111b1eb51064845d3cc903cad640967d3cd0013
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Fri Apr 7 00:05:08 2017 -0400
+| | 
+| |     All Mockups in a single pdf
+| | 
+| |  Documentation/allMockups.pdf | Bin 0 -> 2497677 bytes
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+* | commit 03e57130f2817f5dcd785b48bdbbd7aa4f6c61dd
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Thu Apr 6 05:49:55 2017 -0400
+| | 
+| |     Moved README to HOWTO
+| | 
+| |  HOWTO.md  | 33 +++++++++++++++++++++++++++++++++
+| |  README.md | 33 ---------------------------------
+| |  2 files changed, 33 insertions(+), 33 deletions(-)
+| |   
+* | commit fa388e9cb7dbc33a7462df6d5482b502086f3e22
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Thu Apr 6 05:43:32 2017 -0400
+| | 
+| |     Added install for Linux
+| |     Updated welcome page test
+| | 
+| |  README.md                                        |  8 +++-
+| |  env-local-osx                                    | 39 --------------------
+| |  env-local-osx-or-linux                           | 39 ++++++++++++++++++++
+| |  setup-osx-or-linux.sh                            | 10 +++++
+| |  setup-osx.sh                                     | 10 -----
+| |  .../Browser/A1_Welcome_CanSeeWelcomePageTest.php |  2 +-
+| |  .../Feature/A1_Welcome_CanSeeWelcomePageTest.php |  2 +-
+| |  7 files changed, 57 insertions(+), 53 deletions(-)
+| |   
+* | commit 8b10c7bfbb9ffe25e84215850c0c097d5ce9b0a2
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Thu Apr 6 05:27:00 2017 -0400
+| | 
+| |     Updated README
+| | 
+| |  README.md | 8 ++++++++
+| |  1 file changed, 8 insertions(+)
+| |     
+* |   commit 4bde268398905866bfc090515914aa1ae5438d12
+|\ \  Merge: 1a2dbcd 9768b46
+| | | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | | Date:   Thu Apr 6 05:11:50 2017 -0400
+| | | 
+| | |     Merge pull request #31 from kzmain/week6polish
+| | |     
+| | |     Week6polish
+| | |    
+| * | commit 9768b46147302840f89f62e6fa5df95cd57d35b1
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Thu Apr 6 05:10:44 2017 -0400
+| | | 
+| | |     Validation for new booking
+| | | 
+| | |  app/Booking.php                            |  5 ++-
+| | |  app/Employee.php                           | 14 ++++++++
+| | |  app/Http/Controllers/BookingController.php | 44 ++++++++++++++----------
+| | |  3 files changed, 44 insertions(+), 19 deletions(-)
+| | |    
+| * | commit 61c31fb6cd6693f9a3ad4975a6b10d4511cec47d
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Thu Apr 6 04:46:27 2017 -0400
+| | | 
+| | |     Formatting of README
+| | | 
+| | |  README.md | 2 ++
+| | |  1 file changed, 2 insertions(+)
+| | |    
+| * | commit fd3bbc928ec0b238df106e95f9252042137e361a
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Thu Apr 6 04:42:55 2017 -0400
+| | | 
+| | |     Added a README
+| | | 
+| | |  README.md | 19 +++++++++++++++++++
+| | |  1 file changed, 19 insertions(+)
+| | |      
+* | |   commit 1a2dbcdf029270961fcbfdf2c4607b302102f758
+|\ \ \  Merge: 8ec3a6f 26cabbc
+| |/ /  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | |   Date:   Thu Apr 6 04:27:14 2017 -0400
+| | |   
+| | |       Merge pull request #30 from kzmain/week6polish
+| | |       
+| | |       Added Past Summary of Bookings
+| | |    
+| * | commit 26cabbcb4ab52abc1a08237d39b70e7a36911b39
+|/ /  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| |   Date:   Thu Apr 6 04:24:42 2017 -0400
+| |   
+| |       Added Past Summary of Bookings
+| |       Added comments
+| |       General clean up of code
+| |   
+| |    app/Availability.php                            |  33 +++--
+| |    app/Booking.php                                 |  67 +++++++---
+| |    app/Business.php                                |  16 +++
+| |    app/Employee.php                                |  87 +++++++------
+| |    app/Http/Controllers/AvailabilityController.php |  10 ++
+| |    app/Http/Controllers/BookingController.php      |  89 ++++++++-----
+| |    app/Http/Controllers/DebugController.php        |  55 +++++---
+| |    app/Http/Controllers/EmployeeController.php     |  17 ++-
+| |    app/Http/Controllers/HomeController.php         |  23 ++--
+| |    app/Providers/AppServiceProvider.php            | 117 ++++++++++++------
+| |    app/Service.php                                 |   8 ++
+| |    app/User.php                                    |  20 ++-
+| |    config/database.php                             |   1 +
+| |    .../2017_03_29_100118_create_bookings_table.php |   3 +-
+| |    database/seeds/DatabaseSeeder.php               |   5 +-
+| |    env-local-osx                                   |   4 +-
+| |    public/images/Dr._Riviera.png                   | Bin 65895 -> 0 bytes
+| |    public/images/logo.png                          | Bin 0 -> 8724 bytes
+| |    resources/views/admin-new-booking.blade.php     |  14 +--
+| |    resources/views/booking-confirmation.blade.php  |   4 +-
+| |    .../bookingPannel/bookingFilterPannel.blade.php |   4 +-
+| |    resources/views/debug/booking.blade.php         |  22 +++-
+| |    .../views/debug/confirm-new-booking.blade.php   |   4 +-
+| |    resources/views/debug/view-available.blade.php  |  10 +-
+| |    resources/views/home.blade.php                  |  16 ++-
+| |    ...w-availabilities-for-each-employee.blade.php |  16 +--
+| |    resources/views/summary-of-bookings.blade.php   |  73 -----------
+| |    .../views/summary-of-current-bookings.blade.php |  69 +++++++++++
+| |    .../views/summary-of-past-bookings.blade.php    |  67 ++++++++++
+| |    resources/views/update-availability.blade.php   |  18 +--
+| |    resources/views/view-availability.blade.php     |  65 ----------
+| |    .../views/view-booking-availability.blade.php   |  72 +++++++++++
+| |    resources/views/welcome.blade.php               |  16 ++-
+| |    routes/web.php                                  |  13 +-
+| |    setup-osx.sh                                    |   5 +-
+| |    tests/Unit/BookingTest.php                      |  34 +++--
+| |    36 files changed, 702 insertions(+), 375 deletions(-)
+| |   
+* | commit 8ec3a6f9fd7a3b087222a19f1591b3b288a3726b
+| | Author: kzmain <main@kzvip.net>
+| | Date:   Wed Apr 5 16:26:20 2017 +1000
+| | 
+| |     Second Edition of booking filter.
+| | 
+| |  app/Employee.php                                 |  5 ++++
+| |  app/Http/Controllers/BookingController.php       | 11 ++++++++
+| |  app/Providers/AppServiceProvider.php             |  3 +++
+| |  .../bookingPannel/bookingFilterPannel.blade.php  | 27 +++++++-------------
+| |  routes/web.php                                   |  1 +
+| |  5 files changed, 29 insertions(+), 18 deletions(-)
+| |   
+* | commit 54255ec7d5b96f7b200abe1d3bc96d90afa63b89
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Tue Apr 4 07:43:17 2017 -0400
+| | 
+| |     Updated the database seeder
+| | 
+| |  database/seeds/DatabaseSeeder.php | 10 +++++-----
+| |  1 file changed, 5 insertions(+), 5 deletions(-)
+| |     
+* |   commit 9f0bb1bfb964416c4e24fc5d4637518466ff3f95
+|\ \  Merge: f97eedb d3db1cd
+| | | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | | Date:   Tue Apr 4 07:37:49 2017 -0400
+| | | 
+| | |     Merge pull request #29 from kzmain/week5views
+| | |     
+| | |     Cleaned up the views a bit for new bookings
+| | |    
+| * | commit d3db1cd729c23c21670429b33811b3a143fa51db
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Tue Apr 4 07:36:09 2017 -0400
+| | | 
+| | |     Cleaned up the views a bit for new bookings
+| | | 
+| | |  app/Http/Controllers/BookingController.php      | 54 +++++++++++++++
+| | |  app/Providers/AppServiceProvider.php            | 12 ++++
+| | |  resources/views/admin-new-booking.blade.php     | 61 +++++++++++++++++
+| | |  resources/views/booking-confirmation.blade.php  | 53 +++++++++++++++
+| | |  resources/views/home.blade.php                  | 14 ++--
+| | |  ...w-availabilities-for-each-employee.blade.php | 24 +++----
+| | |  resources/views/summary-of-bookings.blade.php   | 17 ++++-
+| | |  resources/views/update-availability.blade.php   | 30 ++++-----
+| | |  resources/views/view-availability.blade.php     | 65 +++++++++++++++++++
+| | |  routes/web.php                                  |  4 ++
+| | |  10 files changed, 296 insertions(+), 38 deletions(-)
+| | |      
+* | |   commit f97eedbe2e1ef63abb44bb204b6b7d905eadd5b7
+|\ \ \  Merge: 95dca19 7014cfe
+| |/ /  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | |   Date:   Tue Apr 4 05:22:25 2017 -0400
+| | |   
+| | |       Merge pull request #28 from kzmain/week5intdiv
+| | |       
+| | |       Removed usage of intdiv since it is only in php7
+| | |    
+| * | commit 7014cfef5af095ee43c08c1f036eb9bb93478527
+|/ /  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| |   Date:   Tue Apr 4 05:20:24 2017 -0400
+| |   
+| |       Removed usage of intdiv since it is only in php7
+| |   
+| |    app/Providers/AppServiceProvider.php | 3 ++-
+| |    1 file changed, 2 insertions(+), 1 deletion(-)
+| |     
+* |   commit 95dca197891d14f974cf80247108c350fe840d6d
+|\ \  Merge: 7e4de8c ada98f9
+| |/  Author: chen0067 <whye9433@gmail.com>
+| |   Date:   Tue Apr 4 17:02:26 2017 +1000
+| |   
+| |       Merge pull request #27 from kzmain/Week5View_Test
+| |       
+| |       Week5Task
+| |   
+| * commit ada98f98c67b8c16c36651c0f7a26b3d1f52cbd8
+|/  Author: chen0067 <whye9433@gmail.com>
+|   Date:   Tue Apr 4 17:01:25 2017 +1000
+|   
+|       Week5Task
+|       
+|       Improved the interface of Services. Did some tests for bookings and
+|       services.
+|   
+|    app/Booking.php                | 15 ++++--
+|    app/Service.php                |  8 ++++
+|    resources/views/home.blade.php | 18 ++++---
+|    tests/Unit/BookingTest.php     | 96 ++++++++++++++++++++++++++++++++++++++
+|    tests/Unit/ServiceTest.php     | 69 +++++++++++++++++++++++++++
+|    5 files changed, 197 insertions(+), 9 deletions(-)
+|  
+* commit 7e4de8c40ae6a4e236aa28652c7e3347f903158e
+| Author: kzmain <main@kzvip.net>
+| Date:   Mon Apr 3 17:20:08 2017 +1000
+| 
+|     Second Edition of Customer's booking view
+| 
+|  app/Providers/AppServiceProvider.php              |  6 +-
+|  .../bookingPannel/bookingChoosePannel.blade.php   | 27 +++++++
+|  .../bookingPannel/bookingFilterPannel.blade.php   | 88 +++++++++++++++++++++
+|  resources/views/bookingPannel/pannel.blade.php    | 88 ---------------------
+|  resources/views/home.blade.php                    |  9 ++-
+|  5 files changed, 127 insertions(+), 91 deletions(-)
+|  
+* commit 2ec50a6c07fdead0c89a11196d83190b6bb67180
+| Author: kzmain <main@kzvip.net>
+| Date:   Mon Apr 3 01:05:29 2017 +1000
+| 
+|     First Edition of Customer Booking Form View
+| 
+|  app/Providers/AppServiceProvider.php           |  4 ++
+|  public/css/pannel.css                          | 18 +++++
+|  resources/views/bookingPannel/pannel.blade.php | 88 ++++++++++++++++++++++++
+|  resources/views/home.blade.php                 |  9 +--
+|  4 files changed, 111 insertions(+), 8 deletions(-)
+|    
+*   commit 74b44c39776ef303c62ae7cc87a8beeafab519e1
+|\  Merge: 2787d18 3f197d4
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Thu Mar 30 13:07:57 2017 -0400
+| | 
+| |     Merge pull request #26 from kzmain/week5databaseSeed
+| |     
+| |     Added some seed data for initialising the database
+| |   
+| * commit 3f197d46919198ca7520ef42a34bf41a596e68b9
+|/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+|   Date:   Thu Mar 30 13:06:50 2017 -0400
+|   
+|       Added some seed data for initialising the database
+|   
+|    database/seeds/DatabaseSeeder.php | 77 +++++++++++++++++++++++++++++------
+|    1 file changed, 64 insertions(+), 13 deletions(-)
+|    
+*   commit 2787d18790ae4d84fafd3495e21922873f8bfd07
+|\  Merge: c8e2842 46955c2
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Thu Mar 30 12:49:52 2017 -0400
+| | 
+| |     Merge pull request #25 from kzmain/week5frontendSummaryOfBookings
+| |     
+| |     Minor re-ordering of table columns for Summary of Bookings
+| |   
+| * commit 46955c2026da8a7d2c73a3941814adc1abea8c9a
+|/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+|   Date:   Thu Mar 30 12:48:41 2017 -0400
+|   
+|       Minor re-ordering of table columns for Summary of Bookings
+|   
+|    resources/views/summary-of-bookings.blade.php | 21 ++++++++-------------
+|    1 file changed, 8 insertions(+), 13 deletions(-)
+|    
+*   commit c8e2842aaeb41d1bfed72ff8822bf716093ef079
+|\  Merge: 8ea4883 9995889
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Thu Mar 30 12:32:45 2017 -0400
+| | 
+| |     Merge pull request #24 from kzmain/week5backendDebug
+| |     
+| |     Backend code and debugging views for New Booking and Customer View Av…
+| |   
+| * commit 99958892eeb518aaeec9ba49a169db7ed8d3794c
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Thu Mar 30 12:31:06 2017 -0400
+| | 
+| |     Backend code and debugging views for New Booking and Customer View Available
+| | 
+| |  app/Employee.php                                 | 74 ++++++++++++++++
+| |  app/Http/Controllers/DebugController.php         | 90 ++++++++++++++++++++
+| |  app/Http/Controllers/HomeController.php          |  6 +-
+| |  app/Providers/AppServiceProvider.php             | 37 ++++++++
+| |  database/seeds/DatabaseSeeder.php                | 30 ++++---
+| |  resources/views/debug/booking.blade.php          |  2 +
+| |  .../views/debug/choose-view-available.blade.php  | 55 ++++++++++++
+| |  .../views/debug/confirm-new-booking.blade.php    | 75 ++++++++++++++++
+| |  resources/views/debug/employee.blade.php         |  2 +-
+| |  resources/views/debug/user.blade.php             |  1 +
+| |  resources/views/debug/view-available.blade.php   | 59 +++++++++++++
+| |  resources/views/home.blade.php                   |  9 ++
+| |  routes/web.php                                   |  8 ++
+| |  13 files changed, 433 insertions(+), 15 deletions(-)
+| |     
+* |   commit 8ea48834477da069d45eeab6cece4e631881bd02
+|\ \  Merge: 4e92765 f9e4cd0
+| |/  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| |   Date:   Thu Mar 30 06:43:11 2017 -0400
+| |   
+| |       Merge pull request #23 from kzmain/week5DatabaseSeeder
+| |       
+| |       Some data to initialise the database
+| |   
+| * commit f9e4cd02b115b2294680347b683621758b320ea4
+|/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+|   Date:   Thu Mar 30 06:41:30 2017 -0400
+|   
+|       Some data to initialise the database
+|       
+|       Command: php artisan db:seed
+|   
+|    database/seeds/DatabaseSeeder.php | 106 +++++++++++++++++++++++++++++++++-
+|    1 file changed, 105 insertions(+), 1 deletion(-)
+|    
+*   commit 4e927653dad9a1bed59dd92353cf7dfa4d6f095d
+|\  Merge: 302e127 c27793c
+| | Author: bryan250295 <bryankokhou950@gmail.com>
+| | Date:   Thu Mar 30 15:06:54 2017 +1100
+| | 
+| |     Merge pull request #22 from kzmain/WindowsFix
+| |     
+| |     added Summary Of Bookings
+| |   
+| * commit c27793cf9083efac27039828357824537987af56
+| | Author: bryan250295 <bryankokhou950@gmail.com>
+| | Date:   Thu Mar 30 15:03:41 2017 +1100
+| | 
+| |     added Summary Of Bookings
+| | 
+| |  app/Booking.php                                  | 27 ++++++++-
+| |  app/Http/Controllers/BookingController.php       | 26 ++++++++
+| |  app/Http/Controllers/DebugController.php         |  3 +-
+| |  .../2017_03_29_100118_create_bookings_table.php  |  1 +
+| |  resources/views/debug/booking.blade.php          | 15 +++++
+| |  resources/views/home.blade.php                   |  1 +
+| |  resources/views/summary-of-bookings.blade.php    | 63 ++++++++++++++++++++
+| |  routes/web.php                                   |  1 +
+| |  8 files changed, 135 insertions(+), 2 deletions(-)
+| |     
+* |   commit 302e1274520d5745c2a4f7ee977a6f1881a3d92f
+|\ \  Merge: 49b501a e6441aa
+| |/  Author: bryan250295 <bryankokhou950@gmail.com>
+| |   Date:   Thu Mar 30 14:15:22 2017 +1100
+| |   
+| |       Merge pull request #21 from kzmain/WindowsFix
+| |       
+| |       This is for window fix
+| |   
+| * commit e6441aa47a688085c417455a08fee7de5e710fdf
+|/  Author: bryan250295 <bryankokhou950@gmail.com>
+|   Date:   Thu Mar 30 14:06:53 2017 +1100
+|   
+|       Merge remote-tracking branch 'refs/remotes/origin/First-Branch-by-Kai' into LaravelLoginTest(Bryan)
+|       
+|       # Conflicts:
+|       #	htdocs/account.db
+|       #	htdocs/css/register.css
+|       #	htdocs/mvc/view/UserClass.php
+|       #	htdocs/mvc/view/page-register.php
+|       #	htdocs/register.php
+|   
+|    app/Providers/AppServiceProvider.php | 3 +++
+|    1 file changed, 3 insertions(+)
+|    
+*   commit 49b501a16022f7e14137678e5b5d2d9c511aa0a7
+|\  Merge: ed3b92a c9055a0
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 29 09:36:52 2017 -0400
+| | 
+| |     Merge pull request #20 from kzmain/week5backend
+| |     
+| |     Minor change to Debug make user admin function
+| |   
+| * commit c9055a0ed6778c5aad70c17d607700d3baf463ea
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Wed Mar 29 09:34:49 2017 -0400
+| | 
+| |     Minor change to Debug make user admin function
+| | 
+| |  app/Http/Controllers/DebugController.php | 3 +++
+| |  1 file changed, 3 insertions(+)
+| |     
+* |   commit ed3b92ace9159491db2037398dfee4bb9ec11685
+|\ \  Merge: c33937c 0c2b6cb
+| |/  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| |   Date:   Wed Mar 29 08:08:26 2017 -0400
+| |   
+| |       Merge pull request #19 from kzmain/week5backend
+| |       
+| |       Backend code for Week 5
+| |   
+| * commit 0c2b6cb619535f6f8d6ed656545296a2971262b4
+|/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+|   Date:   Wed Mar 29 08:01:19 2017 -0400
+|   
+|       Backend code for Week 5
+|       Added model for Service and Booking
+|       Added debug views for modifying database for Service and Booking
+|       Added migration scripts for services and bookings database table
+|       Updated home debug menu
+|       Added relevant debugging web routes
+|   
+|    app/Booking.php                                  | 23 +++++
+|    app/Http/Controllers/DebugController.php         | 58 ++++++++++++
+|    app/Service.php                                  | 12 +++
+|    .../2017_03_29_095526_create_services_table.php  | 33 +++++++
+|    .../2017_03_29_100118_create_bookings_table.php  | 35 ++++++++
+|    resources/views/debug/booking.blade.php          | 95 ++++++++++++++++++++
+|    resources/views/debug/employee.blade.php         |  1 +
+|    resources/views/debug/service.blade.php          | 59 ++++++++++++
+|    resources/views/home.blade.php                   |  4 +-
+|    routes/web.php                                   |  6 ++
+|    10 files changed, 325 insertions(+), 1 deletion(-)
+|    
+*   commit c33937c3f6ca47e3a1782791b417cf38e547f874
+|\  Merge: b8c78e4 0414ec3
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Mon Mar 27 06:57:14 2017 -0400
+| | 
+| |     Merge branch 'master' of https://github.com/kzmain/SEPT_KBWA
+| |   
+| * commit 0414ec303b722a265e8c54e95ce3d27521c52c57
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Mon Mar 27 06:55:44 2017 -0400
+| | 
+| |     Delete show-all-users.blade.php
+| | 
+| |  resources/views/show-all-users.blade.php | 9 ---------
+| |  1 file changed, 9 deletions(-)
+| |   
+| * commit 6f2880ae386d66957ab73a9e3622ba63c3b35781
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Mon Mar 27 06:55:26 2017 -0400
+| | 
+| |     Delete show-all-employees.blade.php
+| | 
+| |  resources/views/show-all-employees.blade.php | 9 ---------
+| |  1 file changed, 9 deletions(-)
+| |     
+* |   commit b8c78e42ed68fde7d5821a191bde738608aefb67
+|\ \  Merge: cff73a2 99224c7
+| |/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| |   Date:   Mon Mar 27 06:51:23 2017 -0400
+| |   
+| |       Merge branch 'master' of https://github.com/kzmain/SEPT_KBWA
+| |     
+| *   commit 99224c7c79821a35af500f4337be5d6ad5c36754
+| |\  Merge: b1079ed ece2ff7
+| | | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | | Date:   Mon Mar 27 06:48:26 2017 -0400
+| | | 
+| | |     Merge pull request #18 from kzmain/week4availability
+| | |     
+| | |     Week4availability
+| | |    
+| | * commit ece2ff7f78c4b92ed58a5937f8201204d535bdbf
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Mon Mar 27 06:38:21 2017 -0400
+| | | 
+| | |     Tests for availability
+| | | 
+| | |  tests/Unit/AvailabilityTest.php | 75 +++++++++++++++++++++++++++++++++++
+| | |  1 file changed, 75 insertions(+)
+| | |    
+| | * commit 4d142a90dc5ac3580017f9a284881b5ff3e2dcc2
+| |/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| |   Date:   Mon Mar 27 06:33:38 2017 -0400
+| |   
+| |       Functionality for Availabilities
+| |       - Show all employees and their availabilities
+| |       - Update availability
+| |   
+| |    app/Availability.php                            |  53 +++++++
+| |    app/Http/Controllers/AvailabilityController.php |  57 ++++++++
+| |    app/Http/Controllers/DebugController.php        |  22 +++
+| |    app/Providers/AppServiceProvider.php            |  28 +++-
+| |    ...03_25_083950_create_availabilities_table.php |  35 +++++
+| |    resources/views/debug/availability.blade.php    |  74 ++++++++++
+| |    resources/views/home.blade.php                  |   2 +
+| |    ...w-availabilities-for-each-employee.blade.php |  67 +++++++++
+| |    resources/views/update-availability.blade.php   | 134 ++++++++++++++++++
+| |    routes/web.php                                  |   7 +
+| |    10 files changed, 478 insertions(+), 1 deletion(-)
+| |     
+| *   commit b1079ed538e0df0fb3d8367d435d911e82489bc7
+| |\  Merge: 4e04b43 3a0c1a0
+| | | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | | Date:   Mon Mar 27 06:30:53 2017 -0400
+| | | 
+| | |     Merge pull request #17 from kzmain/W_4employeemigration
+| | |     
+| | |     Migration for employee
+| | |    
+| | * commit 3a0c1a03b6b590602700925d41470457a9ce623a
+| |/  Author: chen0067 <whye9433@gmail.com>
+| |   Date:   Mon Mar 27 18:16:23 2017 +1100
+| |   
+| |       Migration for employee
+| |   
+| |    .../2017_03_16_142524_create_employees_table.php        | 11 +++++++----
+| |    1 file changed, 7 insertions(+), 4 deletions(-)
+| |     
+| *   commit 4e04b4379c563c451d416b905e6a5311409c8080
+| |\  Merge: f5b7426 c645611
+| | | Author: chen0067 <whye9433@gmail.com>
+| | | Date:   Mon Mar 27 17:54:41 2017 +1100
+| | | 
+| | |     Merge pull request #16 from kzmain/W_4Tests
+| | |     
+| | |     Registration_AddEmployee
+| | |    
+| | * commit c6456116be7ac8a988c6ac6dca2de7789bf246a2
+| |/  Author: chen0067 <whye9433@gmail.com>
+| |   Date:   Mon Mar 27 17:53:02 2017 +1100
+| |   
+| |       Registration_AddEmployee
+| |   
+| |    tests/Unit/EmployeeTest.php |  90 ++++++++++++++++++++++++++
+| |    tests/Unit/RegisterTest.php | 130 ++++++++++++++++++++++++++++++++++++++
+| |    2 files changed, 220 insertions(+)
+| |     
+| *   commit f5b7426a7c2d21023e751fb87f3fcb2e016537b0
+| |\  Merge: 64bf625 52f4fea
+| | | Author: chen0067 <whye9433@gmail.com>
+| | | Date:   Mon Mar 27 17:43:44 2017 +1100
+| | | 
+| | |     Merge pull request #15 from kzmain/W_4AddEmployee
+| | |     
+| | |     Add Employee
+| | |    
+| | * commit 52f4fea08b0d9187a23a2c5bad9e9e407e9a9fec
+| |/  Author: chen0067 <whye9433@gmail.com>
+| |   Date:   Mon Mar 27 17:41:28 2017 +1100
+| |   
+| |       Add Employee
+| |   
+| |    app/Employee.php                            |  37 +++++++-
+| |    app/Http/Controllers/EmployeeController.php |  58 +++++++++---
+| |    resources/views/add-employee.blade.php      | 102 ++++++++++++++++++----
+| |    resources/views/debug/employee.blade.php    |  26 ++++++
+| |    routes/web.php                              |   2 +
+| |    5 files changed, 193 insertions(+), 32 deletions(-)
+| |     
+| *   commit 64bf625c2cef5e0feb43c3f9262abae8883ba1a3
+| |\  Merge: 4e08217 54282d1
+| | | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | | Date:   Mon Mar 27 00:29:50 2017 -0400
+| | | 
+| | |     Merge pull request #14 from kzmain/week4polish
+| | |     
+| | |     Week4polish
+| | |    
+| | * commit 54282d18705a76ac8e9d08565c422f1da699885a
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Mon Mar 27 00:25:02 2017 -0400
+| | | 
+| | |     Updated setup script
+| | | 
+| | |  setup-osx.sh | 3 ++-
+| | |  1 file changed, 2 insertions(+), 1 deletion(-)
+| | |    
+| | * commit 0f8db432da1a7efa72ce6015b309743fe7b4c7be
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Mon Mar 27 00:20:55 2017 -0400
+| | | 
+| | |     Scripts for setting up and running tests
+| | | 
+| | |  run-browser-tests.sh | 6 ++++++
+| | |  run-feature-tests.sh | 6 ++++++
+| | |  run-unit-tests.sh    | 4 ++++
+| | |  setup-osx.sh         | 8 ++++++++
+| | |  4 files changed, 24 insertions(+)
+| | |    
+| | * commit 07d5c2ec9cdd53b362aa35ed3ccda1c9b44e64bc
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Mon Mar 27 00:03:20 2017 -0400
+| | | 
+| | |     Views for debugging
+| | | 
+| | |  resources/views/debug/business.blade.php | 50 ++++++++++++++++++++++++++
+| | |  resources/views/debug/user.blade.php     | 25 +++++++++++++
+| | |  2 files changed, 75 insertions(+)
+| | |    
+| | * commit e0320540056dd14157fbd24eb35e1476ea36c69c
+| |/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| |   Date:   Sun Mar 26 23:59:50 2017 -0400
+| |   
+| |       Polished the code from last week
+| |       Updated the users model to include address, city, state, postcode
+| |       Added businesses table to distinguish between admin and customer
+| |       Updated the views
+| |       Updated the tests to reflect the changes to the model
+| |   
+| |    app/Business.php                                |  18 +++
+| |    .../Controllers/Auth/RegisterController.php     |  12 +-
+| |    app/Http/Controllers/DebugController.php        |  73 ++++++++++++
+| |    app/Http/Controllers/HomeController.php         |   5 +-
+| |    app/User.php                                    |  20 +++-
+| |    .../2014_10_12_000000_create_users_table.php    |   9 +-
+| |    ...017_03_24_174257_create_businesses_table.php |  32 +++++
+| |    phpunit.feature.xml                             |  28 +++++
+| |    phpunit.xml                                     |   4 -
+| |    public/images/Dr._Riviera.png                   | Bin 0 -> 65895 bytes
+| |    resources/views/auth/register.blade.php         | 111 ++++++++++++++----
+| |    resources/views/home.blade.php                  |  36 ++++--
+| |    resources/views/layouts/app.blade.php           |   2 +-
+| |    resources/views/welcome.blade.php               |   4 +-
+| |    routes/web.php                                  |  34 +++---
+| |    tests/Browser/B2_Register_CanRegisterTest.php   |  12 +-
+| |    .../B3_Register_DetectDuplicateUseridTest.php   |  12 +-
+| |    .../B4_Register_DetectPasswordMismatchTest.php  |  12 +-
+| |    .../B5_Register_DetectPasswordTooShortTest.php  |  12 +-
+| |    .../B6_Register_DetectInvalidEmailTest.php      |  12 +-
+| |    tests/Browser/C2_Login_CanLoginTest.php         |   2 +-
+| |    .../Browser/C3_Login_DetectFailedLoginTest.php  |   2 +-
+| |    tests/Feature/B2_Register_CanRegisterTest.php   |  12 +-
+| |    .../B3_Register_DetectDuplicateUseridTest.php   |  12 +-
+| |    .../B4_Register_DetectPasswordMismatchTest.php  |  12 +-
+| |    .../B5_Register_DetectPasswordTooShortTest.php  |  12 +-
+| |    .../B6_Register_DetectInvalidEmailTest.php      |  12 +-
+| |    tests/Feature/C2_Login_CanLoginTest.php         |   2 +-
+| |    .../Feature/C3_Login_DetectFailedLoginTest.php  |   2 +-
+| |    29 files changed, 399 insertions(+), 117 deletions(-)
+| |   
+* | commit cff73a2f31ff218e9ae92c2c1c57ca5533efb9a3
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Mon Mar 27 00:33:30 2017 -0400
+| | 
+| |     setup script
+| | 
+| |  setup-osx.sh | 9 +++++++++
+| |  1 file changed, 9 insertions(+)
+| |   
+* | commit 7adb71a72719e02d0d32d498b5ad2d14b3d50e37
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Sun Mar 26 11:50:55 2017 -0400
+| | 
+| |     Simple text change
+| | 
+| |  resources/views/update-availability.blade.php | 3 +--
+| |  1 file changed, 1 insertion(+), 2 deletions(-)
+| |   
+* | commit 36ccbd890dc34120d4ccfb61b3eae94a09d9a4d8
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Sun Mar 26 11:41:48 2017 -0400
+| | 
+| |     Validation for availabilities
+| |     Unit tests
+| | 
+| |  app/Availability.php                             |  12 ++
+| |  app/Employee.php                                 |  13 ++
+| |  app/Http/Controllers/Auth/RegisterController.php |  11 +-
+| |  app/Http/Controllers/AvailabilityController.php  |  57 ++++++++
+| |  app/Http/Controllers/DebugController.php         |  95 ++++++++++++++
+| |  app/Http/Controllers/EmployeeController.php      |  31 +++--
+| |  app/Providers/AppServiceProvider.php             |  28 +++-
+| |  app/User.php                                     |  14 ++
+| |  phpunit.feature.xml                              |  28 ++++
+| |  phpunit.xml                                      |   4 -
+| |  resources/views/add-employee.blade.php           |  11 ++
+| |  resources/views/availability.blade.php           |  74 -----------
+| |  resources/views/business.blade.php               |  50 -------
+| |  resources/views/debug/availability.blade.php     |  74 +++++++++++
+| |  resources/views/debug/business.blade.php         |  50 +++++++
+| |  resources/views/debug/employee.blade.php         |  26 ++++
+| |  resources/views/debug/user.blade.php             |  25 ++++
+| |  resources/views/employee.blade.php               |  26 ----
+| |  resources/views/home.blade.php                   |  12 +-
+| |  ...ow-availabilities-for-each-employee.blade.php |   7 +-
+| |  resources/views/update-availability.blade.php    |  28 +++-
+| |  resources/views/user.blade.php                   |  25 ----
+| |  routes/web.php                                   | 129 ++++--------------
+| |  run-browser-tests.sh                             |   6 +
+| |  run-feature-tests.sh                             |   6 +
+| |  run-unit-tests.sh                                |   4 +
+| |  tests/Browser/B2_Register_CanRegisterTest.php    |  12 +-
+| |  .../B3_Register_DetectDuplicateUseridTest.php    |  12 +-
+| |  .../B4_Register_DetectPasswordMismatchTest.php   |  12 +-
+| |  .../B5_Register_DetectPasswordTooShortTest.php   |  12 +-
+| |  .../B6_Register_DetectInvalidEmailTest.php       |  12 +-
+| |  tests/Browser/C2_Login_CanLoginTest.php          |   2 +-
+| |  tests/Browser/C3_Login_DetectFailedLoginTest.php |   2 +-
+| |  tests/Feature/B2_Register_CanRegisterTest.php    |  12 +-
+| |  .../B3_Register_DetectDuplicateUseridTest.php    |  12 +-
+| |  .../B4_Register_DetectPasswordMismatchTest.php   |  12 +-
+| |  .../B5_Register_DetectPasswordTooShortTest.php   |  12 +-
+| |  .../B6_Register_DetectInvalidEmailTest.php       |  12 +-
+| |  tests/Feature/C2_Login_CanLoginTest.php          |   2 +-
+| |  tests/Feature/C3_Login_DetectFailedLoginTest.php |   2 +-
+| |  tests/Unit/AvailabilityTest.php                  |  75 +++++++++++
+| |  tests/Unit/EmployeeTest.php                      |  90 +++++++++++++
+| |  tests/Unit/RegisterTest.php                      | 130 +++++++++++++++++++
+| |  43 files changed, 894 insertions(+), 375 deletions(-)
+| |   
+* | commit 0e359a971271fcf20582db6bf3cc4059df59f1be
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Sat Mar 25 10:23:45 2017 -0400
+| | 
+| |     Added a bit of margin
+| | 
+| |  resources/views/show-availabilities-for-each-employee.blade.php | 4 ++--
+| |  resources/views/update-availability.blade.php                   | 2 +-
+| |  2 files changed, 3 insertions(+), 3 deletions(-)
+| |   
+* | commit 753748fd6571fe71b331b988806995688e19b76f
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Sat Mar 25 10:17:51 2017 -0400
+| | 
+| |     Changed the availability method on the Employee model
+| | 
+| |  app/Employee.php                              | 7 ++++++-
+| |  resources/views/update-availability.blade.php | 5 ++---
+| |  2 files changed, 8 insertions(+), 4 deletions(-)
+| |   
+* | commit 36a03f8de8764e507e42fbd862f5c7e398ca2aee
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Sat Mar 25 10:11:58 2017 -0400
+| | 
+| |     Added some instructions for entering availability times
+| | 
+| |  resources/views/home.blade.php                |  2 +-
+| |  resources/views/update-availability.blade.php | 15 +++++++++++++--
+| |  2 files changed, 14 insertions(+), 3 deletions(-)
+| |   
+* | commit 3d1e2865697677fb9cef954de69ab676e97d99ce
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Sat Mar 25 10:00:38 2017 -0400
+| | 
+| |     Added some instructions on how to enable the Admin Menu
+| | 
+| |  resources/views/availability.blade.php | 4 ++++
+| |  resources/views/business.blade.php     | 4 ++++
+| |  resources/views/employee.blade.php     | 5 +++++
+| |  resources/views/home.blade.php         | 7 ++++++-
+| |  resources/views/user.blade.php         | 5 +++++
+| |  5 files changed, 24 insertions(+), 1 deletion(-)
+| |   
+* | commit 7c4a6083d046a96a39e6626d5399b4f219a0d470
+|/  Author: arthur <arthur@arthurs-MacBook-Air.local>
+|   Date:   Sat Mar 25 09:49:15 2017 -0400
+|   
+|       Added models Business, Employee, Availability
+|       Added views for Employees, Availabilities
+|       Added debugging code to manipulate database
+|   
+|    app/Availability.php                             |  41 +++++++
+|    app/Business.php                                 |  18 +++
+|    app/Employee.php                                 |  19 +++-
+|    app/Http/Controllers/Auth/RegisterController.php |  13 ++-
+|    app/Http/Controllers/EmployeeController.php      |  45 ++++++--
+|    app/Http/Controllers/HomeController.php          |   5 +-
+|    app/User.php                                     |   6 +-
+|    .../2014_10_12_000000_create_users_table.php     |   9 +-
+|    .../2017_03_16_142524_create_employees_table.php |  11 +-
+|    ...2017_03_24_174257_create_businesses_table.php |  32 ++++++
+|    ..._03_25_083950_create_availabilities_table.php |  35 ++++++
+|    public/images/Dr._Riviera.png                    | Bin 0 -> 65895 bytes
+|    resources/views/add-employee.blade.php           |  91 ++++++++++++---
+|    resources/views/auth/register.blade.php          | 111 ++++++++++++++----
+|    resources/views/availability.blade.php           |  70 ++++++++++++
+|    resources/views/business.blade.php               |  46 ++++++++
+|    resources/views/employee.blade.php               |  21 ++++
+|    resources/views/home.blade.php                   |  33 ++++--
+|    resources/views/layouts/app.blade.php            |   2 +-
+|    resources/views/show-all-employees.blade.php     |   9 --
+|    resources/views/show-all-users.blade.php         |   9 --
+|    ...ow-availabilities-for-each-employee.blade.php |  62 ++++++++++
+|    resources/views/update-availability.blade.php    | 105 +++++++++++++++++
+|    resources/views/user.blade.php                   |  20 ++++
+|    resources/views/welcome.blade.php                |   4 +-
+|    routes/web.php                                   | 112 +++++++++++++++++--
+|    26 files changed, 832 insertions(+), 97 deletions(-)
+|  
+* commit 4e08217bbc5782725f0036c17ef946e49e8b7552
+| Author: arthur <arthur@arthurs-MacBook-Air.local>
+| Date:   Wed Mar 22 08:26:42 2017 -0400
+| 
+|     Instructions for setting up local environment on OSX
+| 
+|  .gitignore    | 1 +
+|  env-local-osx | 6 ++++++
+|  2 files changed, 7 insertions(+)
+|    
+*   commit c94a8df6115ff6b682f6b082a47dafbf2a003449
+|\  Merge: 7beb730 cabaf20
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:59:17 2017 -0400
+| | 
+| |     Merge pull request #13 from kzmain/arthur
+| |     
+| |     Arthur
+| |   
+| * commit cabaf2088c9a6e1521687146beade709d2710f5f
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:53:51 2017 -0400
+| | 
+| |     Delete database.sqlite
+| | 
+| |  storage/database.sqlite | Bin 36864 -> 0 bytes
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+| * commit 24bdd55f4d6101c054fa086c21e6c4b4a7d443b3
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:51:14 2017 -0400
+| | 
+| |     Delete readme.md
+| | 
+| |  readme.md | 40 ----------------------------------------
+| |  1 file changed, 40 deletions(-)
+| |   
+| * commit 075b0369d2845564ce38071b164960d633961135
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:49:47 2017 -0400
+| | 
+| |     Delete Kai.php
+| | 
+| |  Kai.php | 1 -
+| |  1 file changed, 1 deletion(-)
+| |   
+| * commit d7e2bbe98fb9722bf62690e24fa00e5f27dc8ef2
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:49:32 2017 -0400
+| | 
+| |     Delete Bryan.php
+| | 
+| |  Bryan.php | 7 -------
+| |  1 file changed, 7 deletions(-)
+| |   
+| * commit 07b0575912a4eae0b06cdcee5f042a6269cc01dd
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Wed Mar 22 03:12:00 2017 -0400
+| | 
+| |     Just debugging link to home page
+| | 
+| |  resources/views/home.blade.php | 1 +
+| |  1 file changed, 1 insertion(+)
+| |   
+| * commit 199c60ccf750eda296809c85657f47ce0ac7cbcc
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Wed Mar 22 03:08:26 2017 -0400
+| | 
+| |     Just some debugging links on the home page
+| | 
+| |  resources/views/home.blade.php               |  10 ++++++++++
+| |  resources/views/show-all-employees.blade.php |   1 +
+| |  resources/views/show-all-users.blade.php     |   1 +
+| |  storage/database.sqlite                      | Bin 36864 -> 36864 bytes
+| |  4 files changed, 12 insertions(+)
+| |   
+* | commit 7beb73075ce9afdc6c2a741246c7638449e0b1f2
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:58:28 2017 -0400
+| | 
+| |     Delete database.sqlite
+| | 
+| |  storage/database.sqlite | Bin 36864 -> 0 bytes
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+* | commit fd16ecc15afde47270ee0394bf81e0c4f8b64b8c
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:50:30 2017 -0400
+| | 
+| |     Delete whye.php
+| | 
+| |  whye.php | 1 -
+| |  1 file changed, 1 deletion(-)
+| |   
+* | commit 4b26e073140e6c245183eab077adbb07989e8f87
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:46:07 2017 -0400
+| | 
+| |     Delete style.css
+| | 
+| |  htdocs/style.css | 243 ---------------------------------------------------
+| |  1 file changed, 243 deletions(-)
+| |   
+* | commit e9e0f4e070c3601135827e6c3bac96ee9152c3c0
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:45:54 2017 -0400
+| | 
+| |     Delete register.php
+| | 
+| |  htdocs/register.php | 5 -----
+| |  1 file changed, 5 deletions(-)
+| |   
+* | commit 8f64caa983bd08d38fd615927a185bef31cf2d7d
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:45:43 2017 -0400
+| | 
+| |     Delete login.php
+| | 
+| |  htdocs/login.php | 5 -----
+| |  1 file changed, 5 deletions(-)
+| |   
+* | commit b15b56b0aad9a1df52f76f4668b27590a9a1ff7b
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:45:33 2017 -0400
+| | 
+| |     Delete index.php
+| | 
+| |  htdocs/index.php | 5 -----
+| |  1 file changed, 5 deletions(-)
+| |   
+* | commit efef1cb6349c76799863e153711bfd8e52c11c5c
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:45:22 2017 -0400
+| | 
+| |     Delete error.php
+| | 
+| |  htdocs/error.php | 4 ----
+| |  1 file changed, 4 deletions(-)
+| |   
+* | commit a4fd9a9893734e9d713bd95a4c48ffde3476a1d2
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:45:12 2017 -0400
+| | 
+| |     Delete debug.php
+| | 
+| |  htdocs/debug.php | 218 ---------------------------------------------------
+| |  1 file changed, 218 deletions(-)
+| |   
+* | commit 4ee0dc6aba773a5ce41801279e60f200c1893dc0
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:44:58 2017 -0400
+| | 
+| |     Delete company.db
+| | 
+| |  htdocs/company.db | 0
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+* | commit de3eb27e923242a5d4bf6946f7f9448a35430b3b
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:44:48 2017 -0400
+| | 
+| |     Delete account.db
+| | 
+| |  htdocs/account.db | 1 -
+| |  1 file changed, 1 deletion(-)
+| |   
+* | commit c5bf96873e05f3b1f71ebd05d91f7fc189e0912f
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:44:38 2017 -0400
+| | 
+| |     Delete TEMPLATE.php
+| | 
+| |  htdocs/TEMPLATE.php | 5 -----
+| |  1 file changed, 5 deletions(-)
+| |   
+* | commit c268669449be9471692b5967ca302558e496f97a
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:44:25 2017 -0400
+| | 
+| |     Delete controller.php
+| | 
+| |  htdocs/mvc/controller.php | 20 --------------------
+| |  1 file changed, 20 deletions(-)
+| |   
+* | commit d3096618a5c6bc402e2c89f543ae4eb6527f05da
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:44:11 2017 -0400
+| | 
+| |     Delete page-register.php
+| | 
+| |  htdocs/mvc/view/page-register.php | 62 -----------------------------------
+| |  1 file changed, 62 deletions(-)
+| |   
+* | commit f15ec29ccaafd1ca0b532ed50c3767a5304fa482
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:43:58 2017 -0400
+| | 
+| |     Delete page-login.php
+| | 
+| |  htdocs/mvc/view/page-login.php | 50 --------------------------------------
+| |  1 file changed, 50 deletions(-)
+| |   
+* | commit c8b1f76d3bce6e6139c275b866a25ba8d0038a8f
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:43:45 2017 -0400
+| | 
+| |     Delete page-TEMPLATE.php
+| | 
+| |  htdocs/mvc/view/page-TEMPLATE.php | 41 -----------------------------------
+| |  1 file changed, 41 deletions(-)
+| |   
+* | commit 1e982e9cfcd4733ad4f6692b987cb6b7897fd818
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:43:34 2017 -0400
+| | 
+| |     Delete fragment-navigation.php
+| | 
+| |  htdocs/mvc/view/fragment-navigation.php | 30 -----------------------------
+| |  1 file changed, 30 deletions(-)
+| |   
+* | commit a6d2d226d7c6584d99156ae8af190f5f32af1edc
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:43:03 2017 -0400
+| | 
+| |     Delete fragment-masthead.php
+| | 
+| |  htdocs/mvc/view/fragment-masthead.php | 3 ---
+| |  1 file changed, 3 deletions(-)
+| |   
+* | commit 1ebd240c8deeacb5e30719687495a016e659abcc
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:42:53 2017 -0400
+| | 
+| |     Delete fragment-header.php
+| | 
+| |  htdocs/mvc/view/fragment-header.php | 12 ------------
+| |  1 file changed, 12 deletions(-)
+| |   
+* | commit 036d64e58c77a9daf4413d10300b32aed5220d1b
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:42:41 2017 -0400
+| | 
+| |     Delete fragment-footer.php
+| | 
+| |  htdocs/mvc/view/fragment-footer.php | 17 -----------------
+| |  1 file changed, 17 deletions(-)
+| |   
+* | commit 3914fded2d5eb8fbfd1b920c99add76a419bbbd5
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:42:27 2017 -0400
+| | 
+| |     Delete UserClass.php
+| | 
+| |  htdocs/mvc/view/UserClass.php | 58 ---------------------------------------
+| |  1 file changed, 58 deletions(-)
+| |   
+* | commit 8eab830248a9b9e8bc31e6b0a0c2467f8bd09ad4
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:42:09 2017 -0400
+| | 
+| |     Delete register.js
+| | 
+| |  htdocs/js/register.js | 13 -------------
+| |  1 file changed, 13 deletions(-)
+| |   
+* | commit 09c184628b2747ec5c019de2d51fad80eb3535c3
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:41:54 2017 -0400
+| | 
+| |     Delete acme-corporation.png
+| | 
+| |  htdocs/images/acme-corporation.png | Bin 57326 -> 0 bytes
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+* | commit 37f55e3280d21197b1a5d77919ee2414c36ceba7
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:41:40 2017 -0400
+| | 
+| |     Delete CircularStd-Bold.otf
+| | 
+| |  htdocs/fonts/CircularStd-Bold.otf | Bin 74368 -> 0 bytes
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+* | commit a5f3e494cd4257de492770fce95b11eda294fc2f
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:41:26 2017 -0400
+| | 
+| |     Delete register.css
+| | 
+| |  htdocs/css/register.css | 21 ---------------------
+| |  1 file changed, 21 deletions(-)
+| |   
+* | commit 73f28709cee234d31c3f81c5f59918f7dd0c07b1
+| | Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | Date:   Wed Mar 22 07:40:41 2017 -0400
+| | 
+| |     Delete README.md
+| | 
+| |  README.md | 85 -----------------------------------------------------------
+| |  1 file changed, 85 deletions(-)
+| |     
+* |   commit 2112fd1c20164354b0982423b029bc2d8ce13153
+|\ \  Merge: b6b19cf fafdb1d
+| | | Author: chen0067 <whye9433@gmail.com>
+| | | Date:   Wed Mar 22 17:46:17 2017 +1100
+| | | 
+| | |     Merge pull request #12 from kzmain/AdditionalLoginTest
+| | |     
+| | |     NewTest
+| | |    
+| * | commit fafdb1de0f71c2a13b6f52df59577307242f545f
+|/ /  Author: chen0067 <whye9433@gmail.com>
+| |   Date:   Wed Mar 22 17:44:19 2017 +1100
+| |   
+| |       NewTest
+| |   
+| |    storage/database.sqlite               | Bin 36864 -> 36864 bytes
+| |    tests/Browser/LoginWrongEmailTest.php |  25 +++++++++++++++++++++++++
+| |    2 files changed, 25 insertions(+)
+| |     
+* |   commit b6b19cfb9ed398964b5add2779d5c6674c30f740
+|\ \  Merge: dfbaba0 0064889
+| |/  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| |   Date:   Wed Mar 22 02:27:28 2017 -0400
+| |   
+| |       Merge pull request #11 from kzmain/arthur
+| |       
+| |       Local environment for Laravel OSX
+| |   
+| * commit 006488978d81e56ba3896e0ebd98f3c902e8f38c
+| | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | Date:   Wed Mar 22 02:24:37 2017 -0400
+| | 
+| |     Local environment for Laravel OSX
+| | 
+| |  env-local-osx           |  33 +++++++++++++++++++++++++++++++++
+| |  storage/database.sqlite | Bin 36864 -> 36864 bytes
+| |  2 files changed, 33 insertions(+)
+| |     
+* |   commit dfbaba001716fe185ea091edb5412964f9d6dd92
+|\ \  Merge: 5a8b0e5 441ef2d
+| | | Author: chen0067 <whye9433@gmail.com>
+| | | Date:   Wed Mar 22 17:07:10 2017 +1100
+| | | 
+| | |     Merge pull request #10 from kzmain/wayne
+| | |     
+| | |     Laravel
+| | |      
+| * |   commit 441ef2dfd26ac54798ac458dc30d8bd5d13162dc
+| |\ \  Merge: 6bf9232 c1f44cf
+| | | | Author: chen0067 <whye9433@gmail.com>
+| | | | Date:   Sat Mar 18 16:11:55 2017 +1100
+| | | | 
+| | | |     Merge branch 'master' into wayne
+| | | |       
+| * | |   commit 6bf9232801efcf69a1387b5ce6abcf1c1aee8fdd
+| |\ \ \  Merge: 3fe131c 2588e03
+| | | | | Author: chen0067 <whye9433@gmail.com>
+| | | | | Date:   Thu Mar 9 23:59:28 2017 +1100
+| | | | | 
+| | | | |     Merge branch 'master' into wayne
+| | | | |      
+| * | | | commit 3fe131c35b2ea87687e16268e86d98796d2c424c
+| | | | | Author: chen0067 <whye9433@gmail.com>
+| | | | | Date:   Tue Mar 7 00:03:36 2017 +1100
+| | | | | 
+| | | | |     first commit
+| | | | | 
+| | | | |  whye.php | 1 +
+| | | | |  1 file changed, 1 insertion(+)
+| | | | |      
+* | | | | commit 5a8b0e5c5b44429c1b6c61e2964b4b256c30c166
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Mon Mar 20 02:08:25 2017 +1100
+| | | | | 
+| | | | |     .
+| | | | | 
+| | | | |  htdocs/account.db              |  1 +
+| | | | |  htdocs/mvc/view/UserClass.php  |  1 +
+| | | | |  htdocs/mvc/view/page-login.php | 11 ++++++++++-
+| | | | |  htdocs/style.css               |  3 +++
+| | | | |  4 files changed, 15 insertions(+), 1 deletion(-)
+| | | | |      
+* | | | | commit dcb25a8fe7c3b703cd85d5da9a77ec1dfff4cea3
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Mon Mar 20 02:01:25 2017 +1100
+| | | | | 
+| | | | |     Register function Update 2
+| | | | |     
+| | | | |     - Give feed back when unsuccessful registration.
+| | | | | 
+| | | | |  htdocs/account.db                 |  2 --
+| | | | |  htdocs/css/register.css           |  7 +++++--
+| | | | |  htdocs/error.php                  |  6 ++----
+| | | | |  htdocs/js/register.js             |  2 +-
+| | | | |  htdocs/mvc/view/UserClass.php     |  1 +
+| | | | |  htdocs/mvc/view/page-register.php | 17 +++++++++++++++--
+| | | | |  6 files changed, 24 insertions(+), 11 deletions(-)
+| | | | |      
+* | | | | commit 8b3b302bc0c8c2030dc9e945a1ad6819c43890cd
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Mon Mar 20 00:07:40 2017 +1100
+| | | | | 
+| | | | |     Register Function Update 1
+| | | | |     
+| | | | |     1.  Update \ problem
+| | | | |     2.  Add more special character in validation of password.
+| | | | | 
+| | | | |  htdocs/account.db                 | 1 +
+| | | | |  htdocs/mvc/view/UserClass.php     | 8 ++++----
+| | | | |  htdocs/mvc/view/page-register.php | 4 ++--
+| | | | |  3 files changed, 7 insertions(+), 6 deletions(-)
+| | | | |      
+* | | | | commit 7e2661f2629c3df8fd202aca8cdd9ff1e70f9968
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Sun Mar 19 21:56:26 2017 +1100
+| | | | | 
+| | | | |     Set up initial account.
+| | | | | 
+| | | | |  htdocs/account.db | 1 +
+| | | | |  1 file changed, 1 insertion(+)
+| | | | |      
+* | | | | commit bba045962292905eba9b07f253bc73166d747ebe
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Sun Mar 19 21:07:38 2017 +1100
+| | | | | 
+| | | | |     Update of register part.
+| | | | |     
+| | | | |     I have already update the register function:
+| | | | |     1. To ensure the user id the the primary key. (If not go back to the
+| | | | |     registration page.)
+| | | | |     2. To validate user's input on server-side. (If not pass go back to the
+| | | | |     registration page.)
+| | | | |     3. To validate user's input on font-side. (If not pass form won't be
+| | | | |     submit.)
+| | | | | 
+| | | | |  htdocs/account.db                 |  4 ---
+| | | | |  htdocs/error.php                  |  6 +++++
+| | | | |  htdocs/mvc/view/UserClass.php     | 38 ++++++++++++++++++++++++++---
+| | | | |  htdocs/mvc/view/page-register.php | 15 ++++++++----
+| | | | |  htdocs/register.php               |  1 -
+| | | | |  5 files changed, 51 insertions(+), 13 deletions(-)
+| | | | |      
+* | | | | commit 98437e5409138ec68741d0c4fa12555392f44006
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Sun Mar 19 19:49:58 2017 +1100
+| | | | | 
+| | | | |     Add JavaScript Validation to User Password.
+| | | | | 
+| | | | |  Bryan.php                         |  7 ---
+| | | | |  README.md                         | 85 +++++++++++++++++++++++++++++
+| | | | |  htdocs/account.db                 |  3 +
+| | | | |  htdocs/js/register.js             | 13 +++++
+| | | | |  htdocs/mvc/view/UserClass.php     |  3 +
+| | | | |  htdocs/mvc/view/page-register.php |  4 +-
+| | | | |  6 files changed, 107 insertions(+), 8 deletions(-)
+| | | | |        
+* | | | |   commit 99d63af8b29558d4187de4ef4a4348ebd5b0538d
+|\ \ \ \ \  Merge: 3983b14 2858f0c
+| | |_|_|/  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| |/| | |   Date:   Sun Mar 19 05:05:48 2017 -0400
+| | | | |   
+| | | | |       Merge pull request #9 from kzmain/arthur
+| | | | |       
+| | | | |       Added numerous Browser tests (dusk) and Feature tests (browser-kit)
+| | | | |      
+| * | | | commit 2858f0ceee8ff7fd2c7bb179c50ed77857cfefc4
+| | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | Date:   Sun Mar 19 04:57:33 2017 -0400
+| | | | | 
+| | | | |     Added numerous Browser tests (dusk) and Feature tests (browser-kit)
+| | | | |     Also added code needed to use dusk
+| | | | |     Changed the font
+| | | | | 
+| | | | |  app/Providers/AppServiceProvider.php         |   5 +-
+| | | | |  bootstrap/cache/.gitignore                   |   0
+| | | | |  composer.json                                |   2 +
+| | | | |  composer.lock                                | 209 ++++++++++++++++-
+| | | | |  config/database.php                          |  10 +-
+| | | | |  phpunit.dusk.xml                             |  21 ++
+| | | | |  public/fonts/CircularStd-Bold.otf            | Bin 0 -> 74368 bytes
+| | | | |  resources/assets/sass/_variables.scss        |   2 +-
+| | | | |  resources/assets/sass/app.scss               |   6 +-
+| | | | |  resources/views/auth/login.blade.php         |   2 +-
+| | | | |  resources/views/auth/register.blade.php      |   2 +-
+| | | | |  resources/views/layouts/app.blade.php        |  10 +
+| | | | |  resources/views/welcome.blade.php            |  14 +-
+| | | | |  storage/app/.gitignore                       |   0
+| | | | |  storage/app/public/.gitignore                |   0
+| | | | |  storage/database.sqlite                      | Bin 0 -> 36864 bytes
+| | | | |  storage/framework/.gitignore                 |   0
+| | | | |  storage/framework/cache/.gitignore           |   0
+| | | | |  storage/framework/sessions/.gitignore        |   0
+| | | | |  storage/framework/testing/.gitignore         |   0
+| | | | |  storage/framework/views/.gitignore           |   0
+| | | | |  storage/logs/.gitignore                      |   0
+| | | | |  tests/.DS_Store                              | Bin 0 -> 6148 bytes
+| | | | |  .../A1_Welcome_CanSeeWelcomePageTest.php     |  21 ++
+| | | | |  .../B1_Register_CanSeeRegisterPageTest.php   |  21 ++
+| | | | |  .../Browser/B2_Register_CanRegisterTest.php  |  29 +++
+| | | | |  ...B3_Register_DetectDuplicateUseridTest.php |  29 +++
+| | | | |  ...4_Register_DetectPasswordMismatchTest.php |  29 +++
+| | | | |  ...5_Register_DetectPasswordTooShortTest.php |  29 +++
+| | | | |  .../B6_Register_DetectInvalidEmailTest.php   |  29 +++
+| | | | |  .../Browser/C1_Login_CanSeeLoginPageTest.php |  21 ++
+| | | | |  tests/Browser/C2_Login_CanLoginTest.php      |  24 ++
+| | | | |  .../C3_Login_DetectFailedLoginTest.php       |  24 ++
+| | | | |  ...nNavigateToForgotYourPasswordPageTest.php |  23 ++
+| | | | |  ...5_Login_CanNavigateToRegisterPageTest.php |  23 ++
+| | | | |  tests/Browser/Pages/HomePage.php             |  40 ++++
+| | | | |  tests/Browser/Pages/Page.php                 |  20 ++
+| | | | |  tests/Browser/console/.gitignore             |   2 +
+| | | | |  tests/Browser/screenshots/.gitignore         |   2 +
+| | | | |  tests/DuskTestCase.php                       |  35 +++
+| | | | |  .../A1_Welcome_CanSeeWelcomePageTest.php     |  22 ++
+| | | | |  .../B1_Register_CanSeeRegisterPageTest.php   |  22 ++
+| | | | |  .../Feature/B2_Register_CanRegisterTest.php  |  30 +++
+| | | | |  ...B3_Register_DetectDuplicateUseridTest.php |  30 +++
+| | | | |  ...4_Register_DetectPasswordMismatchTest.php |  30 +++
+| | | | |  ...5_Register_DetectPasswordTooShortTest.php |  30 +++
+| | | | |  .../B6_Register_DetectInvalidEmailTest.php   |  30 +++
+| | | | |  .../Feature/C1_Login_CanSeeLoginPageTest.php |  22 ++
+| | | | |  tests/Feature/C2_Login_CanLoginTest.php      |  25 ++
+| | | | |  .../C3_Login_DetectFailedLoginTest.php       |  25 ++
+| | | | |  ...nNavigateToForgotYourPasswordPageTest.php |  24 ++
+| | | | |  ...5_Login_CanNavigateToRegisterPageTest.php |  24 ++
+| | | | |  tests/Feature/ExampleTest.php                |  23 --
+| | | | |  tests/TestCase.php                           |   5 +-
+| | | | |  tests/Unit/ExampleTest.php                   |  20 --
+| | | | |  55 files changed, 983 insertions(+), 63 deletions(-)
+| | | | |      
+* | | | | commit 3983b141432cbc73461c04c443048f5842afac41
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Sun Mar 19 19:23:29 2017 +1100
+| | | | | 
+| | | | |     Register Function Prototype
+| | | | | 
+| | | | |  Kai.php                                 |   1 -
+| | | | |  htdocs/TEMPLATE.php                     |   5 +
+| | | | |  htdocs/account.db                       |   1 +
+| | | | |  htdocs/company.db                       |   0
+| | | | |  htdocs/css/register.css                 |  18 ++
+| | | | |  htdocs/debug.php                        | 218 ++++++++++++++++++++
+| | | | |  htdocs/fonts/CircularStd-Bold.otf       | Bin 0 -> 74368 bytes
+| | | | |  htdocs/images/acme-corporation.png      | Bin 0 -> 57326 bytes
+| | | | |  htdocs/index.php                        |   5 +
+| | | | |  htdocs/login.php                        |   5 +
+| | | | |  htdocs/mvc/controller.php               |  20 ++
+| | | | |  htdocs/mvc/view/UserClass.php           |  21 ++
+| | | | |  htdocs/mvc/view/fragment-footer.php     |  17 ++
+| | | | |  htdocs/mvc/view/fragment-header.php     |  12 ++
+| | | | |  htdocs/mvc/view/fragment-masthead.php   |   3 +
+| | | | |  htdocs/mvc/view/fragment-navigation.php |  30 +++
+| | | | |  htdocs/mvc/view/page-TEMPLATE.php       |  41 ++++
+| | | | |  htdocs/mvc/view/page-login.php          |  41 ++++
+| | | | |  htdocs/mvc/view/page-register.php       |  42 ++++
+| | | | |  htdocs/register.php                     |   6 +
+| | | | |  htdocs/style.css                        | 240 ++++++++++++++++++++++
+| | | | |  21 files changed, 725 insertions(+), 1 deletion(-)
+| | | | |      
+* | | | | commit 87a85bcdccb6064995b1c82e5992c32da52a3184
+| | | | | Author: kzmain <main@kzvip.net>
+| | | | | Date:   Sun Mar 19 19:19:48 2017 +1100
+| | | | | 
+| | | | |     .
+| | | | | 
+| | | | |  readme.md | 40 ----------------------------------------
+| | | | |  1 file changed, 40 deletions(-)
+| | | | |        
+* | | | |   commit 5fc5f61125c484b3f789cfae77e5c8f7fe844bdd
+|\ \ \ \ \  Merge: 2674a07 e95e5b1
+| | | | | | Author: 实验台边吃早饭 <kzmain@users.noreply.github.com>
+| | | | | | Date:   Sun Mar 19 19:10:04 2017 +1100
+| | | | | | 
+| | | | | |     Merge pull request #8 from kzmain/First-Branch-by-Kai
+| | | | | |     
+| | | | | |     Merge remote-tracking branch 'refs/remotes/origin/master' into First-Branch-by-Kai
+| | | | | |         
+| * | | | |   commit e95e5b106349cc2db9106fd0b14edb6f5a263793
+| |\ \ \ \ \  Merge: 086f74e b923e39
+| | | | | | | Author: kzmain <main@kzvip.net>
+| | | | | | | Date:   Wed Mar 15 13:49:33 2017 +1100
+| | | | | | | 
+| | | | | | |     Merge remote-tracking branch 'refs/remotes/origin/master' into First-Branch-by-Kai
+| | | | | | |          
+* | | | | | |   commit 2674a0716a5580171510a391d12385e05067c3d4
+|\ \ \ \ \ \ \  Merge: c1f44cf fe55600
+| | |_|/ / / /  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| |/| | | | /   Date:   Sat Mar 18 02:13:12 2017 -0400
+| |_|_|_|_|/    
+|/| | | | |         Merge pull request #7 from kzmain/arthur
+| | | | | |         
+| | | | | |         Arthur
+| | | | | |         
+| * | | | |   commit fe55600e56eb2bf90d3427a4f01cfbae7f7f1218
+| |\ \ \ \ \  Merge: 3f3f113 e316ec0
+| | | | | | | Author: arthur <arthur@192-168-1-6.tpgi.com.au>
+| | | | | | | Date:   Sat Mar 18 02:11:47 2017 -0400
+| | | | | | | 
+| | | | | | |     Merge branch 'arthur' of https://github.com/kzmain/SEPT_KBWA into arthur
+| | | | | | |          
+| | * | | | |   commit e316ec068a61a051ed109bfdd145a86aaf16ae62
+| | |\ \ \ \ \  Merge: d775b1f b923e39
+| | | | |/ / /  Author: chen0067 <whye9433@gmail.com>
+| | | |/| | |   Date:   Sat Mar 18 16:09:31 2017 +1100
+| | | | | | |   
+| | | | | | |       Merge branch 'master' into arthur
+| | | | | | |        
+| * | | | | | commit 3f3f1139314499e05fbde7ffa929a93bde8186fc
+| | | | | | | Author: arthur <arthur@192-168-1-6.tpgi.com.au>
+| | | | | | | Date:   Sat Mar 18 02:09:27 2017 -0400
+| | | | | | | 
+| | | | | | |     Code for Add Employee user story
+| | | | | | |     including database migration
+| | | | | | |     and view
+| | | | | | |     and controller
+| | | | | | |     
+| | | | | | |     Also additional fields for User object (address1, address2, etc)
+| | | | | | | 
+| | | | | | |  app/Employee.php                           | 11 ++
+| | | | | | |  .../Auth/RegisterController.php            |  3 +
+| | | | | | |  .../Controllers/EmployeeController.php     | 31 +++++
+| | | | | | |  app/User.php                               |  2 +-
+| | | | | | |  ...014_10_12_000000_create_users_table.php |  3 +
+| | | | | | |  ...03_16_142524_create_employees_table.php | 36 ++++++
+| | | | | | |  resources/views/add-employee.blade.php     | 95 ++++++++++++++++
+| | | | | | |  resources/views/auth/register.blade.php    | 41 +++++++
+| | | | | | |  .../views/show-all-employees.blade.php     |  8 ++
+| | | | | | |  resources/views/show-all-users.blade.php   |  8 ++
+| | | | | | |  routes/web.php                             | 21 ++++
+| | | | | | |  11 files changed, 258 insertions(+), 1 deletion(-)
+| | | | | | |        
+| * | | | | | commit 686c1fa57f5a1d529319d0f5f510c3511f74dc06
+| |/ / / / /  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | |   Date:   Thu Mar 16 01:19:32 2017 -0400
+| | | | | |   
+| | | | | |       This is a test
+| | | | | |   
+| | | | | |    config/database.php               | 2 ++
+| | | | | |    resources/views/welcome.blade.php | 2 +-
+| | | | | |    2 files changed, 3 insertions(+), 1 deletion(-)
+| | | | | |         
+* | | | | |   commit c1f44cf83f4517250b4f2b4b4ffe446a9926fe9b
+|\ \ \ \ \ \  Merge: b923e39 d775b1f
+| |/ / / / /  Author: arthurchoung <arthurchoung@users.noreply.github.com>
+| | / / / /   Date:   Sat Mar 18 01:11:40 2017 -0400
+| |/ / / /    
+|/| | | |         Merge pull request #6 from kzmain/arthur
+| | | | |         
+| | | | |         Arthur
+| | | | |        
+| * | | |   commit d775b1fbd822d02e4d32580ee81d78579cf855cc
+| |\ \ \ \  Merge: 40bdfc1 409ff0d
+| | | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | | Date:   Wed Mar 15 13:15:21 2017 -0400
+| | | | | | 
+| | | | | |     Merge branch 'arthur' of https://github.com/kzmain/SEPT_KBWA into arthur
+| | | | | |       
+| | * | | | commit 409ff0d081d7a117a40c9200342460bb5b8dd07b
+| | | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | | Date:   Wed Mar 15 12:50:13 2017 -0400
+| | | | | | 
+| | | | | |     Removing all files to migrating to Laravel
+| | | | | | 
+| | | | | |  README_CODE.md                          |  80 -------
+| | | | | |  htdocs/TEMPLATE.php                     |   5 -
+| | | | | |  htdocs/fonts/CircularStd-Bold.otf       | Bin 74368 -> 0 bytes
+| | | | | |  htdocs/images/acme-corporation.png      | Bin 57326 -> 0 bytes
+| | | | | |  htdocs/index.php                        |   5 -
+| | | | | |  htdocs/login.php                        |   5 -
+| | | | | |  htdocs/mvc/controller.php               |  20 --
+| | | | | |  htdocs/mvc/view/fragment-footer.php     |  17 --
+| | | | | |  htdocs/mvc/view/fragment-header.php     |  12 -
+| | | | | |  htdocs/mvc/view/fragment-masthead.php   |   3 -
+| | | | | |  htdocs/mvc/view/fragment-navigation.php |  30 ---
+| | | | | |  htdocs/mvc/view/page-TEMPLATE.php       |  41 ----
+| | | | | |  htdocs/mvc/view/page-login.php          |  41 ----
+| | | | | |  htdocs/phpinfo.php                      |   1 -
+| | | | | |  htdocs/style.css                        | 240 --------------------
+| | | | | |  15 files changed, 500 deletions(-)
+| | | | | |       
+| * | | | | commit 40bdfc126cbb29097ea8ab989ac8548d191d8b4b
+| | | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | | Date:   Wed Mar 15 11:08:35 2017 -0400
+| | | | | | 
+| | | | | |     database
+| | | | | | 
+| | | | | |  config/database.php | 16 +++++++++++++++-
+| | | | | |  1 file changed, 15 insertions(+), 1 deletion(-)
+| | | | | |       
+| * | | | | commit 5f26c469bbf1f6cf701ec86d3d2f6d80aae2be0b
+| | | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | | Date:   Wed Mar 15 10:49:14 2017 -0400
+| | | | | | 
+| | | | | |     heroku
+| | | | | | 
+| | | | | |  Procfile | 1 +
+| | | | | |  1 file changed, 1 insertion(+)
+| | | | | |       
+| * | | | | commit 5152a4392554c52beb176b776d6bbaa2a8723e3e
+|  / / / /  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | |   Date:   Wed Mar 15 10:48:36 2017 -0400
+| | | | |   
+| | | | |       new project
+| | | | |   
+| | | | |    .env.example                                |   32 +
+| | | | |    .gitattributes                              |    3 +
+| | | | |    .gitignore                                  |    9 +
+| | | | |    app/Console/Kernel.php                      |   40 +
+| | | | |    app/Exceptions/Handler.php                  |   65 +
+| | | | |    .../Auth/ForgotPasswordController.php       |   32 +
+| | | | |    .../Controllers/Auth/LoginController.php    |   39 +
+| | | | |    .../Controllers/Auth/RegisterController.php |   71 +
+| | | | |    .../Auth/ResetPasswordController.php        |   39 +
+| | | | |    app/Http/Controllers/Controller.php         |   13 +
+| | | | |    app/Http/Controllers/HomeController.php     |   28 +
+| | | | |    app/Http/Kernel.php                         |   60 +
+| | | | |    app/Http/Middleware/EncryptCookies.php      |   17 +
+| | | | |    .../Middleware/RedirectIfAuthenticated.php  |   26 +
+| | | | |    app/Http/Middleware/TrimStrings.php         |   18 +
+| | | | |    app/Http/Middleware/VerifyCsrfToken.php     |   17 +
+| | | | |    app/Providers/AppServiceProvider.php        |   28 +
+| | | | |    app/Providers/AuthServiceProvider.php       |   30 +
+| | | | |    app/Providers/BroadcastServiceProvider.php  |   21 +
+| | | | |    app/Providers/EventServiceProvider.php      |   32 +
+| | | | |    app/Providers/RouteServiceProvider.php      |   73 +
+| | | | |    app/User.php                                |   29 +
+| | | | |    artisan                                     |   51 +
+| | | | |    bootstrap/app.php                           |   55 +
+| | | | |    bootstrap/autoload.php                      |   17 +
+| | | | |    bootstrap/cache/.gitignore                  |    2 +
+| | | | |    composer.json                               |   50 +
+| | | | |    composer.lock                               | 3348 +++++++++++++++
+| | | | |    config/app.php                              |  231 +
+| | | | |    config/auth.php                             |  102 +
+| | | | |    config/broadcasting.php                     |   58 +
+| | | | |    config/cache.php                            |   91 +
+| | | | |    config/database.php                         |  108 +
+| | | | |    config/filesystems.php                      |   68 +
+| | | | |    config/mail.php                             |  123 +
+| | | | |    config/queue.php                            |   85 +
+| | | | |    config/services.php                         |   38 +
+| | | | |    config/session.php                          |  179 +
+| | | | |    config/view.php                             |   33 +
+| | | | |    database/.gitignore                         |    1 +
+| | | | |    database/factories/ModelFactory.php         |   24 +
+| | | | |    ...2014_10_12_000000_create_users_table.php |   35 +
+| | | | |    ..._100000_create_password_resets_table.php |   32 +
+| | | | |    database/seeds/DatabaseSeeder.php           |   16 +
+| | | | |    package.json                                |   18 +
+| | | | |    phpunit.xml                                 |   31 +
+| | | | |    public/.htaccess                            |   20 +
+| | | | |    public/css/app.css                          |    9 +
+| | | | |    public/favicon.ico                          |    0
+| | | | |    public/index.php                            |   58 +
+| | | | |    public/js/app.js                            |   41 +
+| | | | |    public/robots.txt                           |    2 +
+| | | | |    public/web.config                           |   23 +
+| | | | |    readme.md                                   |   40 +
+| | | | |    resources/assets/js/app.js                  |   20 +
+| | | | |    resources/assets/js/bootstrap.js            |   46 +
+| | | | |    resources/assets/js/components/Example.vue  |   23 +
+| | | | |    resources/assets/sass/_variables.scss       |   38 +
+| | | | |    resources/assets/sass/app.scss              |    9 +
+| | | | |    resources/lang/en/auth.php                  |   19 +
+| | | | |    resources/lang/en/pagination.php            |   19 +
+| | | | |    resources/lang/en/passwords.php             |   22 +
+| | | | |    resources/lang/en/validation.php            |  119 +
+| | | | |    resources/views/auth/login.blade.php        |   68 +
+| | | | |    .../views/auth/passwords/email.blade.php    |   46 +
+| | | | |    .../views/auth/passwords/reset.blade.php    |   76 +
+| | | | |    resources/views/auth/register.blade.php     |   76 +
+| | | | |    resources/views/home.blade.php              |   17 +
+| | | | |    resources/views/layouts/app.blade.php       |   87 +
+| | | | |    resources/views/welcome.blade.php           |   87 +
+| | | | |    routes/api.php                              |   18 +
+| | | | |    routes/channels.php                         |   16 +
+| | | | |    routes/console.php                          |   18 +
+| | | | |    routes/web.php                              |   20 +
+| | | | |    server.php                                  |   21 +
+| | | | |    storage/app/.gitignore                      |    3 +
+| | | | |    storage/app/public/.gitignore               |    2 +
+| | | | |    storage/framework/.gitignore                |    8 +
+| | | | |    storage/framework/cache/.gitignore          |    2 +
+| | | | |    storage/framework/sessions/.gitignore       |    2 +
+| | | | |    storage/framework/testing/.gitignore        |    2 +
+| | | | |    storage/framework/views/.gitignore          |    2 +
+| | | | |    storage/logs/.gitignore                     |    2 +
+| | | | |    tests/CreatesApplication.php                |   22 +
+| | | | |    tests/Feature/ExampleTest.php               |   23 +
+| | | | |    tests/TestCase.php                          |   10 +
+| | | | |    tests/Unit/ExampleTest.php                  |   20 +
+| | | | |    webpack.mix.js                              |   15 +
+| | | | |    88 files changed, 6689 insertions(+)
+| | | | |        
+* | | | |   commit b923e39083038d9d68b7f257d11092701eaae94e
+|\ \ \ \ \  Merge: 0167d89 de7c950
+| | | | | | Author: kzmain <main@kzvip.net>
+| | | | | | Date:   Wed Mar 15 13:46:29 2017 +1100
+| | | | | | 
+| | | | | |     Merge branch 'master' of https://github.com/kzmain/SEPT_KBWA
+| | | | | |         
+| * | | | |   commit de7c9503940dec63ae423044e5c9169831526d79
+| |\ \ \ \ \  Merge: 5070d2b 086f74e
+| | | |/ / /  Author: 实验台边吃早饭 <kzmain@users.noreply.github.com>
+| | |/| | |   Date:   Wed Mar 15 13:46:11 2017 +1100
+| | | | | |   
+| | | | | |       Merge pull request #5 from kzmain/First-Branch-by-Kai
+| | | | | |       
+| | | | | |       Merge pull request #4 from kzmain/master
+| | | | | |         
+* | | | | |   commit 0167d89c867f5f4a980b37cfe0a3f474237bcc8e
+|\ \ \ \ \ \  Merge: 5070d2b 086f74e
+| |/ / / / /  Author: kzmain <main@kzvip.net>
+|/| / / / /   Date:   Wed Mar 15 13:42:10 2017 +1100
+| |/ / / /    
+| | | | |         Merge remote-tracking branch 'refs/remotes/origin/First-Branch-by-Kai'
+| | | | |        
+| * | | |   commit 086f74e5302572d44013a9f8974575baaa4a147a
+| |\ \ \ \  Merge: a95202c 5070d2b
+| |/ / / /  Author: 实验台边吃早饭 <kzmain@users.noreply.github.com>
+|/| | | |   Date:   Wed Mar 15 13:35:18 2017 +1100
+| | | | |   
+| | | | |       Merge pull request #4 from kzmain/master
+| | | | |       
+| | | | |       Merge remote-tracking branch 'refs/remotes/origin/First-Branch-by-Kai'
+| | | | |        
+* | | | |   commit 5070d2b27d894956b2c5edbbda8bd32e02693281
+|\ \ \ \ \  Merge: 7f9ce51 5fe5edc
+| | |/ / /  Author: 实验台边吃早饭 <kzmain@users.noreply.github.com>
+| |/| | |   Date:   Wed Mar 15 13:35:02 2017 +1100
+| | | | |   
+| | | | |       Merge pull request #2 from kzmain/arthur
+| | | | |       
+| | | | |       Code Comments
+| | | | |      
+| * | | | commit 5fe5edcbd85ffd4b15dd96ce21e2edaa9cb434a4
+| | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | Date:   Thu Mar 9 20:40:48 2017 -0500
+| | | | | 
+| | | | |     Here are some code comments describing the structure of the code.
+| | | | | 
+| | | | |  README_CODE.md | 80 ++++++++++++++++++++++++++++++++++++++++++++++++
+| | | | |  1 file changed, 80 insertions(+)
+| | | | |      
+| * | | | commit 3fc4b441851a0b5ac5e757525535ca1e9691aca8
+| | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | Date:   Thu Mar 9 20:33:50 2017 -0500
+| | | | | 
+| | | | |     Removed the README.md file
+| | | | | 
+| | | | |  README.md | 80 -----------------------------------------------------
+| | | | |  1 file changed, 80 deletions(-)
+| | | | |      
+| * | | | commit cef4be6ae1eb9d4dfd9d4bce4a4dfd11563ed53c
+| | | | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | | | Date:   Thu Mar 9 20:13:22 2017 -0500
+| | | | | 
+| | | | |     Here are some comments about the structure of the code to make it easier
+| | | | |     to understand.
+| | | | | 
+| | | | |  README.md                         | 81 ++++++++++++++++++++++++++++-
+| | | | |  htdocs/TEMPLATE.php               |  5 ++
+| | | | |  htdocs/mvc/view/page-TEMPLATE.php | 41 +++++++++++++++
+| | | | |  3 files changed, 126 insertions(+), 1 deletion(-)
+| | | | |        
+* | | | |   commit 7f9ce51abed86967774b896127331b6989bc5fb2
+|\ \ \ \ \  Merge: 7dad16f a95202c
+| | |/ / /  Author: kzmain <main@kzvip.net>
+| |/| | |   Date:   Wed Mar 15 13:32:03 2017 +1100
+| | | | |   
+| | | | |       Merge remote-tracking branch 'refs/remotes/origin/First-Branch-by-Kai'
+| | | | |        
+| * | | |   commit a95202c0e4fdc4e2f1e8d925b93947a0804cbae2
+| |\ \ \ \  Merge: 847f754 09e8377
+| | | | | | Author: kzmain <main@kzvip.net>
+| | | | | | Date:   Wed Mar 15 13:20:59 2017 +1100
+| | | | | | 
+| | | | | |     Merge remote-tracking branch 'refs/remotes/origin/bryan' into First-Branch-by-Kai
+| | | | | |         
+| | * | | |   commit 09e837748441338622358daa5f00f781e967df70
+| | |\ \ \ \  Merge: e7d811b 7dad16f
+| |_|/ / / /  Author: bryan250295 <bryankokhou950@gmail.com>
+|/| | | | |   Date:   Fri Mar 10 00:30:08 2017 +1100
+| | | | | |   
+| | | | | |       Merge remote-tracking branch 'refs/remotes/origin/master' into bryan
+| | | | | |       
+| | | | | |       # Conflicts:
+| | | | | |       #	Bryan.php
+| | | | | |       
+| | * | | | commit e7d811b82ea93fb0e1d40c89e41b0bf13a9f2b8b
+| | | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | | Date:   Mon Mar 6 18:06:44 2017 +1100
+| | | | | | 
+| | | | | |     Contrinution of Bryan
+| | | | | | 
+| | | | | |  Bryan.php | 2 +-
+| | | | | |  1 file changed, 1 insertion(+), 1 deletion(-)
+| | | | | |       
+| | * | | | commit 7a14ded0c7ea79fb9647db7a8c17c9f0bf5a4a5d
+| | | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | | Date:   Mon Mar 6 18:04:03 2017 +1100
+| | | | | | 
+| | | | | |     Contribution of Bryan
+| | | | | | 
+| | | | | |  Bryan.php | 11 +++--------
+| | | | | |  1 file changed, 3 insertions(+), 8 deletions(-)
+| | | | | |       
+| | * | | | commit 03fc46667c9d1b85238c7cc1596286159a993cb4
+| | | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | | Date:   Wed Mar 1 23:21:04 2017 +1100
+| | | | | | 
+| | | | | |     New
+| | | | | | 
+| | | | | |  Bryan.php | 1 +
+| | | | | |  1 file changed, 1 insertion(+)
+| | | | | |       
+| | * | | | commit 845325c1caae62933b56f39ac0a9a36fc3231346
+| | | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | | Date:   Wed Mar 1 23:04:44 2017 +1100
+| | | | | | 
+| | | | | |     Second Update
+| | | | | | 
+| | | | | |  Bryan.php | 1 -
+| | | | | |  1 file changed, 1 deletion(-)
+| | | | | |       
+| | * | | | commit f51055607a39b0c37673f2754f923e2a57501ef9
+| | | |/ /  Author: bryan250295 <bryankokhou950@gmail.com>
+| | |/| |   Date:   Wed Mar 1 22:56:41 2017 +1100
+| | | | |   
+| | | | |       Contribution of Bryan
+| | | | |   
+| | | | |    Bryan.php | 12 ++++++++++++
+| | | | |    1 file changed, 12 insertions(+)
+| | | | |        
+| * | | |   commit 847f75481189549d84d40620ce5d34235fc21582
+| |\ \ \ \  Merge: 5e687af 7dad16f
+| |/ / / /  Author: kzmain <main@kzvip.net>
+|/| | | |   Date:   Fri Mar 10 07:28:10 2017 +1100
+| | | | |   
+| | | | |       Merge remote-tracking branch 'refs/remotes/origin/master' into First-Branch-by-Kai
+| | | | |      
+* | | | | commit 7dad16f2f14a0fbff5508c34b8ea0a30ce6ddabb
+| | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | Date:   Wed Mar 1 23:17:46 2017 +1100
+| | | | | 
+| | | | |     Bryan
+| | | | | 
+| | | | |  Bryan.php | 1 +
+| | | | |  1 file changed, 1 insertion(+)
+| | | | |      
+* | | | | commit d11e748c10322926d28e9f49161a3a197572a4d0
+| | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | Date:   Wed Mar 1 23:16:45 2017 +1100
+| | | | | 
+| | | | |     Third Update
+| | | | | 
+| | | | |  Bryan.php | 1 +
+| | | | |  1 file changed, 1 insertion(+)
+| | | | |      
+* | | | | commit 9a090d889018f9eb748602a2f72017d01b41e1ff
+| | | | | Author: bryan250295 <bryankokhou950@gmail.com>
+| | | | | Date:   Wed Mar 1 23:08:25 2017 +1100
+| | | | | 
+| | | | |     Contribution of Bryan
+| | | | | 
+| | | | |  Bryan.php | 8 ++++++++
+| | | | |  1 file changed, 8 insertions(+)
+| | | | |      
+* | | | | commit a1ce257707bdc45c21514291ef795cfd661c2978
+| |_|_|/  Author: bryan250295 <bryankokhou950@gmail.com>
+|/| | |   Date:   Wed Mar 1 23:07:25 2017 +1100
+| | | |   
+| | | |       Revert "Initial commit"
+| | | |       
+| | | |       This reverts commit 07071d0a9208e558ab4f29ce1a0508f6b9a13160.
+| | | |   
+| | | |    README.md | 1 -
+| | | |    1 file changed, 1 deletion(-)
+| | | |       
+* | | |   commit 2588e039e8f03a7c9a2a462b22eefca4eca38918
+|\ \ \ \  Merge: 07071d0 a7dd2f4
+| |_|/ /  Author: chen0067 <whye9433@gmail.com>
+|/| | /   Date:   Thu Mar 9 23:59:06 2017 +1100
+| | |/    
+| |/|         Merge pull request #1 from kzmain/arthur
+| | |         
+| | |         Arthur
+| | |    
+| * | commit a7dd2f440565f0d7475c370fc024e4fd266c5ff2
+| | | Author: arthur <arthur@arthurs-MacBook-Air.local>
+| | | Date:   Thu Mar 9 07:31:19 2017 -0500
+| | | 
+| | |     This consists of the Login Page which is the first page, so it
+| | |     can also serve as a template for creating the rest of the pages.
+| | |     There is a Placeholder Logo (this can be changed), a Navigation
+| | |     Bar, and a Footer. These can be reused to create more pages using
+| | |     the same template.
+| | | 
+| | |  ArthurTest.md                           |   1 -
+| | |  htdocs/fonts/CircularStd-Bold.otf       | Bin 0 -> 74368 bytes
+| | |  htdocs/images/acme-corporation.png      | Bin 0 -> 57326 bytes
+| | |  htdocs/index.php                        |   5 +
+| | |  htdocs/login.php                        |   5 +
+| | |  htdocs/mvc/controller.php               |  20 +++
+| | |  htdocs/mvc/view/fragment-footer.php     |  17 ++
+| | |  htdocs/mvc/view/fragment-header.php     |  12 ++
+| | |  htdocs/mvc/view/fragment-masthead.php   |   3 +
+| | |  htdocs/mvc/view/fragment-navigation.php |  30 ++++
+| | |  htdocs/mvc/view/page-login.php          |  41 +++++
+| | |  htdocs/phpinfo.php                      |   1 +
+| | |  htdocs/style.css                        | 240 ++++++++++++++++++++++++++
+| | |  13 files changed, 374 insertions(+), 1 deletion(-)
+| | |    
+| * | commit 7295a1cc03cec3bef1695d7e40ebcc0ff6cf0a69
+|/ /  Author: arthur <arthur@arthurs-MacBook-Air.local>
+| |   Date:   Wed Mar 1 04:57:17 2017 -0500
+| |   
+| |       This is a test commit
+| |   
+| |    ArthurTest.md | 1 +
+| |    1 file changed, 1 insertion(+)
+| |   
+| * commit 5e687af41db8238e899037371d82bdd3d1d621f8
+| | Author: kzmain <main@kzvip.net>
+| | Date:   Tue Mar 7 01:55:27 2017 +1100
+| | 
+| |     .
+| | 
+| |  .gitattributes | 0
+| |  1 file changed, 0 insertions(+), 0 deletions(-)
+| |   
+| * commit 433a53995f19bae2eaa24320e2dceda04ae3faa8
+|/  Author: kzmain <kzmain@live.com>
+|   Date:   Wed Mar 1 20:44:16 2017 +1100
+|   
+|       First contribution of Kai
+|   
+|    Kai.php | 1 +
+|    1 file changed, 1 insertion(+)
+|  
+* commit 07071d0a9208e558ab4f29ce1a0508f6b9a13160
+  Author: kzmain <kzmain@live.com>
+  Date:   Wed Mar 1 20:36:47 2017 +1100
+  
+      Initial commit
+  
+   README.md | 1 +
+   1 file changed, 1 insertion(+)

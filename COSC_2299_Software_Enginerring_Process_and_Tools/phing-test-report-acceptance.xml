@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="testreport" default="gen-report" basedir=".">
+ <target name="gen-report">
+  <phpunitreport infile="log.acceptance.junit.xml"
+                 format="noframes"
+                 todir="report-acceptance-tests"
+                 styledir="vendor/phing/phing/etc"
+                 />
+ </target>
+</project>

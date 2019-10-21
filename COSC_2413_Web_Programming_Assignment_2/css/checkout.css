@@ -1,0 +1,34 @@
+fieldset{
+	width:900px;
+    margin-left:auto;
+    margin-right:auto;
+}
+legend{
+	font-size: 40px;		
+	color:white;
+}
+.userInfo{
+    display:flex;
+    height:60px;
+    line-height:40px;
+    font-size:20px;
+    color:white;
+}
+.userInfo span{
+    flex : 1;
+}
+.userInfo input{
+    width:200px;
+}
+.userInfo textarea{
+    width:200px;
+}
+#rememberMe{
+    clear:both;
+    float:right;
+    color:white;
+}
+#submit{
+    clear:both;
+    float:right;
+}

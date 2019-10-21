@@ -1,0 +1,51 @@
+			#JoshThomas0{
+				width :960px;
+				margin :0px;
+			}
+			#Intro,#PLMIntro{
+				font-size:20px;
+				font-family:"Century Gothic",sans-serif;
+				clear:right;
+				color:white;
+				margin-left:100px;
+				margin-right:100px;
+			}
+			hr{
+				width:80%;
+				border-color: white;
+			}
+			#JoshThomas1{
+				float:right;
+			}
+			#introduction,#PLMIntroduction{
+				width:960px;
+				text-align:center;
+				color:white;
+				font-size:30px;
+				clear:right;
+			}
+			.PleaseLikeMe{
+				width : 400px;
+				margin :0;
+				color:black;
+				text-align:center;
+				width:400px;
+				float:left;
+				margin-left:95px;
+			}
+			.PleaseLikeMe p{
+				background-color:#009999;
+				font-size:20px;
+				color:white;
+			}
+			.PleaseLikeMe p a,.PleaseLikeMe p a:visited{
+				text-decoration:none;
+				color:white;
+			}
+			.PleaseLikeMe p:hover,.PleaseLikeMe p:active{
+				background-color:#00cccc;
+			}
+			.PleaseLikeMe img{
+				width:400px;
+				height: 240px;
+			}

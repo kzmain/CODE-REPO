@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Acceptance Tests" tests="19" assertions="99" failures="0" errors="0" time="1.715536">
+    <testsuite name="Tests\Acceptance\A1_Welcome_CanSeeWelcomePageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/A1_Welcome_CanSeeWelcomePageTest.php" tests="1" assertions="2" failures="0" errors="0" time="0.085662">
+      <testcase name="testCanSeeWelcomePage" class="Tests\Acceptance\A1_Welcome_CanSeeWelcomePageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/A1_Welcome_CanSeeWelcomePageTest.php" line="17" assertions="2" time="0.085662"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\B1_Register_CanSeeRegisterPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B1_Register_CanSeeRegisterPageTest.php" tests="1" assertions="2" failures="0" errors="0" time="0.012837">
+      <testcase name="testCanSeeRegisterPageTest" class="Tests\Acceptance\B1_Register_CanSeeRegisterPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B1_Register_CanSeeRegisterPageTest.php" line="17" assertions="2" time="0.012837"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\B2_Register_CanRegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B2_Register_CanRegisterTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.166919">
+      <testcase name="testCanRegister" class="Tests\Acceptance\B2_Register_CanRegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B2_Register_CanRegisterTest.php" line="16" assertions="5" time="0.166919"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\B3_Register_DetectDuplicateUseridTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B3_Register_DetectDuplicateUseridTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.041640">
+      <testcase name="testDetectDuplicateUserid" class="Tests\Acceptance\B3_Register_DetectDuplicateUseridTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B3_Register_DetectDuplicateUseridTest.php" line="16" assertions="4" time="0.041640"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\B4_Register_DetectPasswordMismatchTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B4_Register_DetectPasswordMismatchTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.038496">
+      <testcase name="testDetectPasswordMismatch" class="Tests\Acceptance\B4_Register_DetectPasswordMismatchTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B4_Register_DetectPasswordMismatchTest.php" line="16" assertions="4" time="0.038496"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\B5_Register_DetectPasswordTooShortTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B5_Register_DetectPasswordTooShortTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.025546">
+      <testcase name="testDetectPasswordTooShort" class="Tests\Acceptance\B5_Register_DetectPasswordTooShortTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B5_Register_DetectPasswordTooShortTest.php" line="16" assertions="4" time="0.025546"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\B6_Register_DetectInvalidEmailTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B6_Register_DetectInvalidEmailTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.025034">
+      <testcase name="testDetectInvalidEmail" class="Tests\Acceptance\B6_Register_DetectInvalidEmailTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/B6_Register_DetectInvalidEmailTest.php" line="16" assertions="4" time="0.025034"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\C1_Login_CanSeeLoginPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C1_Login_CanSeeLoginPageTest.php" tests="1" assertions="2" failures="0" errors="0" time="0.016063">
+      <testcase name="testCanSeeLoginPage" class="Tests\Acceptance\C1_Login_CanSeeLoginPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C1_Login_CanSeeLoginPageTest.php" line="16" assertions="2" time="0.016063"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\C2_Login_CanLoginTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C2_Login_CanLoginTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.124101">
+      <testcase name="testCanLogin" class="Tests\Acceptance\C2_Login_CanLoginTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C2_Login_CanLoginTest.php" line="16" assertions="5" time="0.124101"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\C3_Login_DetectFailedLoginTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C3_Login_DetectFailedLoginTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.124709">
+      <testcase name="testDetectFailedLoginTest" class="Tests\Acceptance\C3_Login_DetectFailedLoginTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C3_Login_DetectFailedLoginTest.php" line="16" assertions="4" time="0.124709"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\C4_Login_CanNavigateToForgotYourPasswordPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C4_Login_CanNavigateToForgotYourPasswordPageTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.013274">
+      <testcase name="testCanNavigateToForgotYourPasswordPage" class="Tests\Acceptance\C4_Login_CanNavigateToForgotYourPasswordPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C4_Login_CanNavigateToForgotYourPasswordPageTest.php" line="16" assertions="4" time="0.013274"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\C5_Login_CanNavigateToRegisterPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C5_Login_CanNavigateToRegisterPageTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.015011">
+      <testcase name="testCanNavigateToRegisterPage" class="Tests\Acceptance\C5_Login_CanNavigateToRegisterPageTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/C5_Login_CanNavigateToRegisterPageTest.php" line="16" assertions="4" time="0.015011"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D1_Admin_CanAddEmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D1_Admin_CanAddEmployeeTest.php" tests="1" assertions="8" failures="0" errors="0" time="0.133797">
+      <testcase name="testCanAddEmployee" class="Tests\Acceptance\D1_Admin_CanAddEmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D1_Admin_CanAddEmployeeTest.php" line="16" assertions="8" time="0.133797"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D2_Admin_CanViewAvailabilitiesOfEmployeesTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D2_Admin_CanViewAvailabilitiesOfEmployeesTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.148150">
+      <testcase name="testCanViewAvailabilitiesOfEmployees" class="Tests\Acceptance\D2_Admin_CanViewAvailabilitiesOfEmployeesTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D2_Admin_CanViewAvailabilitiesOfEmployeesTest.php" line="16" assertions="6" time="0.148150"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D3_Admin_CanEditAvailabilityOfEmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D3_Admin_CanEditAvailabilityOfEmployeeTest.php" tests="1" assertions="11" failures="0" errors="0" time="0.172058">
+      <testcase name="testCanEditAvailabilityOfEmployee" class="Tests\Acceptance\D3_Admin_CanEditAvailabilityOfEmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D3_Admin_CanEditAvailabilityOfEmployeeTest.php" line="16" assertions="11" time="0.172058"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D4_Admin_CanViewSummaryOfPastBookingsTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D4_Admin_CanViewSummaryOfPastBookingsTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.124900">
+      <testcase name="testCanViewSummaryOfPastBookings" class="Tests\Acceptance\D4_Admin_CanViewSummaryOfPastBookingsTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D4_Admin_CanViewSummaryOfPastBookingsTest.php" line="16" assertions="6" time="0.124900"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D5_Admin_CanViewSummaryOfCurrentBookingsTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D5_Admin_CanViewSummaryOfCurrentBookingsTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.122152">
+      <testcase name="testCanViewSummaryOfCurrentBookingsTest" class="Tests\Acceptance\D5_Admin_CanViewSummaryOfCurrentBookingsTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D5_Admin_CanViewSummaryOfCurrentBookingsTest.php" line="16" assertions="6" time="0.122152"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D6_Admin_CanMakeNewBookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D6_Admin_CanMakeNewBookingTest.php" tests="1" assertions="10" failures="0" errors="0" time="0.191783">
+      <testcase name="testCanMakeNewBooking" class="Tests\Acceptance\D6_Admin_CanMakeNewBookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D6_Admin_CanMakeNewBookingTest.php" line="16" assertions="10" time="0.191783"/>
+    </testsuite>
+    <testsuite name="Tests\Acceptance\D7_Admin_CanAddServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D7_Admin_CanAddServiceTest.php" tests="1" assertions="8" failures="0" errors="0" time="0.133404">
+      <testcase name="testCanAddService" class="Tests\Acceptance\D7_Admin_CanAddServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Acceptance/D7_Admin_CanAddServiceTest.php" line="16" assertions="8" time="0.133404"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

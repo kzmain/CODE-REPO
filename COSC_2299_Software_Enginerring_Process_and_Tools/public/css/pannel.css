@@ -1,0 +1,18 @@
+.bookingForm span{
+	display: inline-block;
+	width:200px;
+	height:40px;
+}
+.choice{
+	width:600px !important;
+	text-align:left;
+}
+select{
+	width:200px;
+}
+input[type="date"],input[type="time"]{
+	width:200px;
+}
+input[type="submit"]{
+	float:right;
+}

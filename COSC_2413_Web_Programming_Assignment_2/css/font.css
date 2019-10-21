@@ -1,0 +1,10 @@
+@font-face{
+	font-family:'Century Gothic';
+	src:url('../fonts/Century Gothic.ttf');
+	format:('truetype');
+}
+@font-face{
+	font-family:'simhei';
+	src:url('../fonts/simhei.ttf');
+	format:('truetype');
+}

@@ -1,0 +1,32 @@
+footer{
+	width:960px;
+	height:40px;
+	line-height:40px;
+	margin:0px;
+	background-color:#1A94E6;
+	color:white;
+	vertical-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:20px;
+	font-family:simhei,sans-serif;
+}
+footer p{
+	margin:0px;
+	float:left;
+}
+footer a{
+	position: relative;
+	float:right;
+	padding:0px 20px;
+	text-decoration:none;
+	text-align:center;
+	color:white;
+}
+footer a:hover, nav a:active{
+	background-color:#339933;
+}
+#debug{
+	color:black;
+	background-color:black;
+}

@@ -1,0 +1,736 @@
+Wayne Chen added Kai Zhang to Week 6 Meeting 2 - April 7 201737 minutes ago
+WCWayne Chen added Bryan Ng Kok Hou to Week 6 Meeting 2 - April 7 201737 minutes ago
+WCWayne Chen added Arthur Choung to Week 6 Meeting 2 - April 7 201737 minutes ago
+WCWayne Chen joined Week 6 Meeting 2 - April 7 201737 minutes ago
+WC
+Wayne Chen attached Week 6 Meeting 2.docx to Week 6 Meeting 2 - April 7 2017  
+37 minutes ago
+WCWayne Chen added Week 6 Meeting 2 - April 7 2017 to Meeting Minutes37 minutes ago
+WCWayne Chen deleted the SEPT Week 1 Meeting 1 attachment from Week 1 Meeting 1 - Mar 1, 20172 hours ago
+AC
+Arthur Choung attached SEPTWeek1Meeting1.pdf to Week 1 Meeting 1 - Mar 1, 2017  
+2 hours ago
+ACArthur Choung added High level design, update class diagram to Week 6 Sprint Backlogyesterday at 19:53
+ACArthur Choung added Test documentation to Week 6 Sprint Backlogyesterday at 19:52
+ACArthur Choung archived New booking should verify booking is possible according to availabilityyesterday at 19:18
+ACArthur Choung archived Need to change image on welcome page (copyright issues)yesterday at 19:17
+ACArthur Choung added Part B Requirements to Product Backlogyesterday at 19:17
+ACArthur Choung moved Basic user documentation should be provided, including screenshots, making clear how to install and run your program (Priority: 1) from Product Backlog to Week 6 Sprint Backlogyesterday at 19:17
+ACArthur Choung added Submit Assignment Part A to Week 6 Sprint Backlogyesterday at 19:16
+ACArthur Choung joined Summary of Past Bookings and Summary of Current Bookingsyesterday at 19:16
+ACArthur Choung added Summary of Past Bookings and Summary of Current Bookings to Week 6 Sprint Backlogyesterday at 19:15
+ACArthur Choung added Sprint Retrospective to Week 6 Sprint Backlogyesterday at 19:14
+ACArthur Choung added Sprint Planning to Week 6 Sprint Backlogyesterday at 19:14
+ACArthur Choung added Week 6 Sprint to this boardyesterday at 19:14
+KZKai Zhang added Summary of booking. to Product Backlog (Issues)5 Apr at 19:51
+ACArthur Choung added New booking should verify booking is valid to Product Backlog (Issues)5 Apr at 18:32
+WCWayne Chen left Mockups for Customer view available days and times5 Apr at 18:00
+WCWayne Chen joined Updated Mockups for Add Employee(Version 2)5 Apr at 18:00
+BH
+Bryan Ng Kok Hou attached viewavailability.jpg to Mockups for Customer view available days and times 
+5 Apr at 17:28
+BH
+Bryan Ng Kok Hou attached newbooking.jpg to Mockups for New Booking 
+5 Apr at 17:27
+BH
+Bryan Ng Kok Hou attached summaryofbooking.jpg to Mockups for Summary of Booking 
+5 Apr at 17:27
+BH
+Bryan Ng Kok Hou attached customerview.jpg to Mockups for Customer view available days and times 
+5 Apr at 17:26
+WCWayne Chen added Bryan Ng Kok Hou to Mockups for New Booking5 Apr at 14:20
+WCWayne Chen added Bryan Ng Kok Hou to Mockups for Summary of Booking5 Apr at 14:20
+WCWayne Chen joined User story for Customer view available days and times5 Apr at 14:18
+WCWayne Chen joined User story for New Booking5 Apr at 14:18
+WCWayne Chen joined User story for Summary of Bookings5 Apr at 14:18
+WC
+Wayne Chen attached UserStory(Summary_of_Bookings) .docx to User story for Summary of Bookings  
+5 Apr at 14:18
+WC
+Wayne Chen attached UserStory(Customer_View_Available_DT) .docx to User story for Customer view available days and times  
+5 Apr at 14:18
+WC
+Wayne Chen attached UserStory(New_Booking).docx to User story for New Booking  
+5 Apr at 14:17
+ACArthur Choung archived Customer view for available days and times (Priority: 3)5 Apr at 13:40
+ACArthur Choung archived New Booking (Priority: 2)5 Apr at 13:40
+ACArthur Choung archived Summary of Bookings (Priority: 1)5 Apr at 13:40
+WC
+Wayne Chen attached MeetingMinutes(Week6a).docx to Week 6 Meeting 1 - April 4 2017  
+5 Apr at 13:18
+WCWayne Chen added Bryan Ng Kok Hou to Week 6 Meeting 1 - April 4 20175 Apr at 13:17
+WCWayne Chen joined Week 6 Meeting 1 - April 4 20175 Apr at 13:17
+WCWayne Chen added Arthur Choung to Week 6 Meeting 1 - April 4 20175 Apr at 13:17
+WCWayne Chen added Week 6 Meeting 1 - April 4 2017 to Meeting Minutes5 Apr at 13:17
+BHBryan Ng Kok Hou removed Arthur Choung from Frontend Code for Summary of Bookings5 Apr at 04:16
+ACArthur Choung added View availability is inefficient when accessing the database to Product Backlog (Issues)4 Apr at 21:49
+ACArthur Choung left Tests for Summary of Booking4 Apr at 21:39
+WCWayne Chen added Kai Zhang to Frontend Code for Customer view available days and times4 Apr at 17:08
+WCWayne Chen added Not Applicable to Tags4 Apr at 17:07
+WCWayne Chen added Arthur Choung to Tests for Summary of Booking4 Apr at 17:06
+WCWayne Chen joined Tests for New Booking4 Apr at 17:06
+WCWayne Chen joined Tests for Summary of Booking4 Apr at 17:06
+WCWayne Chen added Arthur Choung to Frontend Code for New Booking4 Apr at 17:05
+WC
+Wayne Chen on Sprint Retrospective
+Things that went well
+-Improved communication
+-Cleaner GitHub
+-Every team members commit their part
+
+Things to Improve
+-Meeting minutes
+-Response time on Slack
+4 Apr at 17:05
+WC
+Wayne Chen attached MeetingMinutes(Week5d).docx to Week 5 Meeting 4 - April 2 2017  
+2 Apr at 22:22
+WCWayne Chen added Kai Zhang to Week 5 Meeting 4 - April 2 20172 Apr at 22:15
+WCWayne Chen added Bryan Ng Kok Hou to Week 5 Meeting 4 - April 2 20172 Apr at 22:15
+WCWayne Chen added Arthur Choung to Week 5 Meeting 4 - April 2 20172 Apr at 22:15
+WCWayne Chen joined Week 5 Meeting 4 - April 2 20172 Apr at 22:15
+WCWayne Chen added Week 5 Meeting 4 - April 2 2017 to Meeting Minutes2 Apr at 22:15
+WC
+Wayne Chen attached MeetingMinutes(Week5c).docx to Week 5 Meeting 3 - Mar 30 2017  
+30 Mar at 16:07
+WCWayne Chen deleted the MeetingMinutes(Week5c).docx attachment from Week 5 Meeting 3 - Mar 30 201730 Mar at 16:07
+WC
+Wayne Chen attached MeetingMinutes(Week5b).docx to Week 5 Meeting 2 - Mar 29 2017  
+30 Mar at 16:06
+WCWayne Chen added Kai Zhang to Week 5 Meeting 2 - Mar 29 201730 Mar at 15:54
+WCWayne Chen added Bryan Ng Kok Hou to Week 5 Meeting 2 - Mar 29 201730 Mar at 15:54
+WCWayne Chen added Arthur Choung to Week 5 Meeting 2 - Mar 29 201730 Mar at 15:54
+WCWayne Chen joined Week 5 Meeting 2 - Mar 29 201730 Mar at 15:54
+WCWayne Chen added Week 5 Meeting 2 - Mar 29 2017 to Meeting Minutes30 Mar at 15:54
+WCWayne Chen added Bryan Ng Kok Hou to Week 5 Meeting 3 - Mar 30 201730 Mar at 15:53
+WCWayne Chen added Arthur Choung to Week 5 Meeting 3 - Mar 30 201730 Mar at 15:53
+WCWayne Chen joined Week 5 Meeting 3 - Mar 30 201730 Mar at 15:53
+WC
+Wayne Chen attached MeetingMinutes(Week5c).docx to Week 5 Meeting 3 - Mar 30 2017  
+30 Mar at 15:53
+WCWayne Chen added Week 5 Meeting 3 - Mar 30 2017 to Meeting Minutes30 Mar at 15:52
+BHBryan Ng Kok Hou added Arthur Choung to Frontend Code for Summary of Bookings30 Mar at 15:08
+BHBryan Ng Kok Hou joined Frontend Code for Summary of Bookings30 Mar at 15:08
+BHBryan Ng Kok Hou added Wayne Chen to Mockups for Customer view available days and times30 Mar at 13:52
+BHBryan Ng Kok Hou joined Mockups for Customer view available days and times30 Mar at 13:51
+ACArthur Choung joined Backend Code for Customer view available days and times29 Mar at 22:48
+ACArthur Choung added Frontend Code for Customer view available days and times to Week 5 Sprint Backlog29 Mar at 22:47
+ACArthur Choung added Frontend Code for New Booking to Week 5 Sprint Backlog29 Mar at 22:47
+ACArthur Choung added Frontend Code for Summary of Bookings to Week 5 Sprint Backlog29 Mar at 22:47
+ACArthur Choung joined Backend Code for New Booking29 Mar at 22:46
+ACArthur Choung joined Backend Code for Summary of Booking29 Mar at 22:46
+WCWayne Chen added Bryan Ng Kok Hou to Updated Mockups for Add Employee(Version 2)27 Mar at 22:53
+WC
+Wayne Chen attached 17571283_10212489879748103_1394875253_o.jpg to Updated Mockups for Add Employee(Version 2) 
+27 Mar at 22:53
+WCWayne Chen added Updated Mockups for Add Employee(Version 2) to Week 4 Sprint Backlog27 Mar at 22:52
+WC
+Wayne Chen attached 17549111_10212489879788104_368015919_o.jpg to Mockups for Add employees'working days & time(Update Availability) 
+27 Mar at 22:52
+WC
+Wayne Chen attached 17499683_10212489879708102_766461733_o.jpg to Mockups for View Employees Availability 
+27 Mar at 22:51
+ACArthur Choung added Basic user documentation should be provided, including screenshots, making clear how to install and run your program (Priority: 1) to Product Backlog27 Mar at 22:38
+ACArthur Choung added Tests for Customer view available days and times to Week 5 Sprint Backlog27 Mar at 22:34
+ACArthur Choung added Backend Code for Customer view available days and times to Week 5 Sprint Backlog27 Mar at 22:34
+ACArthur Choung added Mockups for Customer view available days and times to Week 5 Sprint Backlog27 Mar at 22:34
+ACArthur Choung added User story for Customer view available days and times to Week 5 Sprint Backlog27 Mar at 22:33
+ACArthur Choung added Customer view for available days and times (Priority: 3) to Product Backlog27 Mar at 22:33
+ACArthur Choung added Tests for New Booking to Week 5 Sprint Backlog27 Mar at 22:24
+ACArthur Choung added Backend Code for New Booking to Week 5 Sprint Backlog27 Mar at 22:24
+ACArthur Choung added Mockups for New Booking to Week 5 Sprint Backlog27 Mar at 22:24
+ACArthur Choung added User story for New Booking to Week 5 Sprint Backlog27 Mar at 22:24
+ACArthur Choung added Tests for Summary of Booking to Week 5 Sprint Backlog27 Mar at 22:23
+ACArthur Choung added Backend Code for Summary of Booking to Week 5 Sprint Backlog27 Mar at 22:23
+ACArthur Choung added Mockups for Summary of Booking to Week 5 Sprint Backlog27 Mar at 22:23
+ACArthur Choung added User story for Summary of Bookings to Week 5 Sprint Backlog27 Mar at 22:23
+ACArthur Choung added Sprint Retrospective to Week 5 Sprint Backlog27 Mar at 22:22
+ACArthur Choung added Sprint Planning to Week 5 Sprint Backlog27 Mar at 22:22
+ACArthur Choung added Week 5 Sprint Backlog to this board27 Mar at 22:22
+ACArthur Choung joined Tests for View Employees Availability27 Mar at 22:19
+ACArthur Choung joined Tests for Employees'Days & Time27 Mar at 22:16
+ACArthur Choung added Wayne Chen to Polish last week's code, validation and unit tests for Register27 Mar at 22:13
+ACArthur Choung joined Polish last week's code, validation and unit tests for Register27 Mar at 22:13
+ACArthur Choung archived Show All Workers Availability (Priority: 7)27 Mar at 22:12
+ACArthur Choung added Deployment (Heroku) to Product Backlog27 Mar at 22:11
+ACArthur Choung added Need to change image on welcome page (copyright issues) to Product Backlog (Issues)27 Mar at 18:03
+ACArthur Choung archived User login doesn't distinguish between Customer and Owner yet27 Mar at 17:21
+ACArthur Choung added Wayne Chen to Week 5 Meeting 1 - Mar 27, 201727 Mar at 13:08
+ACArthur Choung added Kai Zhang to Week 5 Meeting 1 - Mar 27, 201727 Mar at 13:08
+ACArthur Choung added Bryan Ng Kok Hou to Week 5 Meeting 1 - Mar 27, 201727 Mar at 13:08
+ACArthur Choung joined Week 5 Meeting 1 - Mar 27, 201727 Mar at 13:08
+AC
+Arthur Choung attached SEPTWeek5Meeting1.docx.pdf to Week 5 Meeting 1 - Mar 27, 2017  
+27 Mar at 13:08
+ACArthur Choung added Week 5 Meeting 1 - Mar 27, 2017 to Meeting Minutes27 Mar at 13:06
+KZKai Zhang added Warning in Update Availability if not save the value to Product Backlog (Issues)27 Mar at 12:49
+KZKai Zhang added About title of position to Product Backlog (Issues)27 Mar at 12:48
+KZKai Zhang added Show title of Employee in Availabilities of Employees to Product Backlog (Issues)27 Mar at 12:48
+WC
+Wayne Chen attached UserStory(View_Availabilities) .docx to User story for View Employees Availability  
+27 Mar at 03:18
+WC
+Wayne Chen attached UserStory(Update Availability).docx to User story for Add employees working days & time(Update Availability)  
+27 Mar at 03:17
+WCWayne Chen added Bryan Ng Kok Hou to Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WCWayne Chen added Arthur Choung to Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WCWayne Chen joined Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WCWayne Chen removed Arthur Choung from Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WCWayne Chen removed Bryan Ng Kok Hou from Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WCWayne Chen added Bryan Ng Kok Hou to Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WCWayne Chen added Arthur Choung to Week 4 Meeting 3 - Mar 25, 201726 Mar at 20:00
+WC
+Wayne Chen attached MeetingMinutes(Week4bc).docx to Week 4 Meeting 3 - Mar 25, 2017  
+25 Mar at 16:32
+WCWayne Chen added Week 4 Meeting 3 - Mar 25, 2017 to Meeting Minutes25 Mar at 16:32
+ACArthur Choung archived list Test Table22 Mar at 22:26
+KZKai Zhang moved Forgot password function works on heroku production but not on local testing. from Product Backlog to Product Backlog (Issues)22 Mar at 20:30
+KZKai Zhang moved User login doesn't distinguish between Customer and Owner yet from Product Backlog to Issues22 Mar at 20:29
+KZKai Zhang added Polish last week's code, validation and unit tests for Register to Week 4 Sprint Backlog22 Mar at 20:24
+WCWayne Chen moved User login doesn't distinguish between Customer and Owner yet from Issues to Product Backlog22 Mar at 19:34
+WCWayne Chen moved Forgot password function works on heroku production but not on local testing. from Issues to Product Backlog22 Mar at 19:34
+WCWayne Chen archived Add Working Dates And Times (Priority: 4)22 Mar at 19:33
+WCWayne Chen archived Add Employee (Priority: 3)22 Mar at 19:33
+WCWayne Chen archived Registration (Priority: 2)22 Mar at 19:33
+WCWayne Chen archived Login (Priority: 1)22 Mar at 19:33
+WCWayne Chen added Bryan Ng Kok Hou to Week 4 Meeting 2 - Mar 22, 201722 Mar at 17:01
+WCWayne Chen added Arthur Choung to Week 4 Meeting 2 - Mar 22, 201722 Mar at 17:01
+WCWayne Chen joined Week 4 Meeting 2 - Mar 22, 201722 Mar at 17:01
+WC
+Wayne Chen attached MeetingMinutes(Week4b).docx to Week 4 Meeting 2 - Mar 22, 2017  
+22 Mar at 17:01
+WCWayne Chen added Week 4 Meeting 2 - Mar 22, 2017 to Meeting Minutes22 Mar at 17:00
+WCWayne Chen added Register to Test Table22 Mar at 16:53
+WCWayne Chen added Login to Test Table22 Mar at 16:51
+WCWayne Chen added Test Table to this board22 Mar at 16:50
+ACArthur Choung added Wayne Chen to Sprint Planning22 Mar at 16:49
+ACArthur Choung joined Sprint Planning22 Mar at 16:49
+ACArthur Choung added Bryan Ng Kok Hou to Sprint Planning22 Mar at 16:49
+WCWayne Chen joined View Employees Availability Function22 Mar at 16:49
+WCWayne Chen added Arthur Choung to View Employees Availability Function22 Mar at 16:49
+WCWayne Chen added Bryan Ng Kok Hou to Tests for View Employees Availability22 Mar at 16:48
+WCWayne Chen added Kai Zhang to Tests for View Employees Availability22 Mar at 16:48
+WCWayne Chen added Bryan Ng Kok Hou to Mockups for View Employees Availability22 Mar at 16:48
+WCWayne Chen joined Mockups for View Employees Availability22 Mar at 16:48
+WCWayne Chen added Bryan Ng Kok Hou to User story for View Employees Availability22 Mar at 16:48
+WCWayne Chen joined User story for View Employees Availability22 Mar at 16:48
+WCWayne Chen added Kai Zhang to Tests for Employees'Days & Time22 Mar at 16:48
+WCWayne Chen added Bryan Ng Kok Hou to Tests for Employees'Days & Time22 Mar at 16:48
+WCWayne Chen added Arthur Choung to Employees'Days & Time Function22 Mar at 16:47
+WCWayne Chen joined Employees'Days & Time Function22 Mar at 16:47
+WCWayne Chen added Bryan Ng Kok Hou to Mockups for Add employees'working days & time(Update Availability)22 Mar at 16:47
+WCWayne Chen joined Mockups for Add employees'working days & time(Update Availability)22 Mar at 16:47
+WCWayne Chen added Bryan Ng Kok Hou to User story for Add employees working days & time(Update Availability)22 Mar at 16:47
+WCWayne Chen joined User story for Add employees working days & time(Update Availability)22 Mar at 16:47
+WCWayne Chen added Arthur Choung to Tests for Add Employee Function22 Mar at 16:47
+WCWayne Chen joined Tests for Add Employee Function22 Mar at 16:47
+WCWayne Chen added View Employees Availability Function to Week 4 Sprint Backlog22 Mar at 16:46
+WCWayne Chen added Tests for View Employees Availability to Week 4 Sprint Backlog22 Mar at 16:46
+WCWayne Chen added Mockups for View Employees Availability to Week 4 Sprint Backlog22 Mar at 16:45
+WCWayne Chen added User story for View Employees Availability to Week 4 Sprint Backlog22 Mar at 16:45
+WCWayne Chen added Tests for Employees'Days & Time to Week 4 Sprint Backlog22 Mar at 16:44
+WCWayne Chen added Employees'Days & Time Function to Week 4 Sprint Backlog22 Mar at 16:44
+WCWayne Chen added Mockups for Add employees'working days & time(Update Availability) to Week 4 Sprint Backlog22 Mar at 16:43
+WCWayne Chen added User story for Add employees working days & time(Update Availability) to Week 4 Sprint Backlog22 Mar at 16:43
+ACArthur Choung added Tests for Add Employee Function to Week 4 Sprint Backlog22 Mar at 16:43
+ACArthur Choung added Sprint Retrospective to Week 4 Sprint Backlog22 Mar at 16:38
+ACArthur Choung added Sprint Planning to Week 4 Sprint Backlog22 Mar at 16:38
+ACArthur Choung added Week 4 Sprint Backlog to this board22 Mar at 16:38
+ACArthur Choung added Wayne Chen to Sprint Retrospective22 Mar at 16:38
+ACArthur Choung added Kai Zhang to Sprint Retrospective22 Mar at 16:38
+ACArthur Choung added Bryan Ng Kok Hou to Sprint Retrospective22 Mar at 16:38
+ACArthur Choung added User login doesn't distinguish between Customer and Owner yet to Issues22 Mar at 16:38
+ACArthur Choung joined Sprint Retrospective22 Mar at 16:36
+WC
+Wayne Chen attached UserStory(Login).docx to User story for Login using template  
+22 Mar at 16:35
+WCWayne Chen deleted the UserStory(Login).docx attachment from User story for Login using template22 Mar at 16:35
+WC
+Wayne Chen attached AddEmployeeMock.jpg to Mockups 
+22 Mar at 16:25
+WC
+Wayne Chen attached UserStory(Login).docx to User story for Login using template  
+22 Mar at 16:25
+WCWayne Chen deleted the UserStory(Login).docx attachment from User story for Login using template22 Mar at 16:25
+WC
+Wayne Chen attached UserStory(Register).docx to User story for Register using template  
+22 Mar at 16:24
+WCWayne Chen deleted the UserStory(Register).docx attachment from User story for Register using template22 Mar at 16:24
+WCWayne Chen added Forgot password function works on heroku production but not on local testing. to Issues22 Mar at 16:21
+ACArthur Choung added Wayne Chen to Tests for Register20 Mar at 16:54
+ACArthur Choung added Bryan Ng Kok Hou to Tests for Register20 Mar at 16:54
+ACArthur Choung added Wayne Chen to Tests for Login Function20 Mar at 16:54
+ACArthur Choung added Bryan Ng Kok Hou to Tests for Login Function20 Mar at 16:54
+ACArthur Choung joined Functionality for Add Employee20 Mar at 16:53
+ACArthur Choung joined HTML For Add Employee20 Mar at 16:53
+ACArthur Choung archived list Screenshots20 Mar at 16:52
+ACArthur Choung archived I have just used a generic logo as a placeholder. I'm not sure what we should change it to.20 Mar at 16:51
+ACArthur Choung archived Discuss about logo place holder.20 Mar at 16:51
+ACArthur Choung added Wayne Chen to Week 4 Meeting 1 - Mar 20, 201720 Mar at 16:50
+ACArthur Choung added Kai Zhang to Week 4 Meeting 1 - Mar 20, 201720 Mar at 16:50
+ACArthur Choung added Bryan Ng Kok Hou to Week 4 Meeting 1 - Mar 20, 201720 Mar at 16:50
+ACArthur Choung joined Week 4 Meeting 1 - Mar 20, 201720 Mar at 16:50
+AC
+Arthur Choung attached SEPTWeek4Meeting1.pdf to Week 4 Meeting 1 - Mar 20, 2017  
+20 Mar at 16:50
+ACArthur Choung added Week 4 Meeting 1 - Mar 20, 2017 to Meeting Minutes20 Mar at 16:50
+AC
+Arthur Choung on Tests for Register
+I've added a bunch of tests
+19 Mar at 20:09
+ACArthur Choung joined Tests for Register19 Mar at 20:09
+AC
+Arthur Choung on Tests for Login Function
+I've added a bunch of tests
+19 Mar at 20:09
+ACArthur Choung joined Tests for Login Function19 Mar at 20:08
+ACArthur Choung left Register Functionality19 Mar at 20:07
+ACArthur Choung left Login Functionality19 Mar at 20:07
+WCWayne Chen added Kai Zhang to Sprint Planning18 Mar at 23:22
+WCWayne Chen added Bryan Ng Kok Hou to Sprint Planning18 Mar at 23:22
+WCWayne Chen added Arthur Choung to Sprint Planning18 Mar at 23:22
+WCWayne Chen joined Sprint Planning18 Mar at 23:22
+WCWayne Chen added Bryan Ng Kok Hou to Mockups18 Mar at 23:21
+WCWayne Chen added Arthur Choung to Mockups18 Mar at 23:21
+WCWayne Chen joined Mockups18 Mar at 23:21
+WC
+Wayne Chen attached mockupForLoginPage.jpg to Mockups 
+18 Mar at 23:21
+WC
+Wayne Chen attached registerMock.jpg to Mockups 
+18 Mar at 23:21
+WCWayne Chen added Mockups to Week 3 Sprint backlog18 Mar at 23:12
+WCWayne Chen archived Mockup for Customer Page18 Mar at 23:06
+WCWayne Chen archived Mockup for Owner Page18 Mar at 23:06
+WCWayne Chen archived Mockup for Registration Page18 Mar at 23:06
+WCWayne Chen archived Mockup for Login Page18 Mar at 23:06
+WCWayne Chen archived list User Stories18 Mar at 23:04
+WCWayne Chen added Bryan Ng Kok Hou to User story for Add Employee using template18 Mar at 23:03
+WCWayne Chen joined User story for Add Employee using template18 Mar at 23:03
+WCWayne Chen joined User story for Register using template18 Mar at 23:03
+WCWayne Chen added Bryan Ng Kok Hou to User story for Register using template18 Mar at 23:03
+WCWayne Chen added Bryan Ng Kok Hou to User story for Login using template18 Mar at 23:03
+WCWayne Chen joined User story for Login using template18 Mar at 23:03
+WC
+Wayne Chen attached UserStory(Login).docx to User story for Login using template  
+18 Mar at 23:03
+WC
+Wayne Chen attached UserStory(Register).docx to User story for Register using template  
+18 Mar at 23:03
+WC
+Wayne Chen attached UserStory(AddEmployee).docx to User story for Add Employee using template  
+18 Mar at 23:02
+WCWayne Chen added Kai Zhang to Week 3 Meeting 2 - Mar 18, 201718 Mar at 15:45
+WCWayne Chen added Bryan Ng Kok Hou to Week 3 Meeting 2 - Mar 18, 201718 Mar at 15:45
+WCWayne Chen added Arthur Choung to Week 3 Meeting 2 - Mar 18, 201718 Mar at 15:45
+WCWayne Chen joined Week 3 Meeting 2 - Mar 18, 201718 Mar at 15:45
+WC
+Wayne Chen attached MeetingMinutes(Week3b).docx to Week 3 Meeting 2 - Mar 18, 2017  
+18 Mar at 15:45
+WCWayne Chen added Week 3 Meeting 2 - Mar 18, 2017 to Meeting Minutes18 Mar at 15:45
+KZ
+Kai Zhang on Works that we should do in Each Sprint
+Priorities Product Backlog
+User Story (1-2)
+Mock-up (1-2)
+Function
+Test
+18 Mar at 15:19
+KZKai Zhang added Works that we should do in Each Sprint to Product Backlog18 Mar at 15:18
+ACArthur Choung archived list Database17 Mar at 02:54
+AC
+Arthur Choung on Register Functionality
+This functionality is built in to Laravel
+17 Mar at 02:52
+AC
+Arthur Choung on Login Functionality
+This functionality is built in to Laravel
+17 Mar at 02:52
+ACArthur Choung joined Register Functionality17 Mar at 02:52
+ACArthur Choung joined Login Functionality17 Mar at 02:51
+ACArthur Choung archived Login Page17 Mar at 02:47
+ACArthur Choung sent list Issues to the board17 Mar at 02:46
+ACArthur Choung archived list Issues17 Mar at 02:44
+ACArthur Choung added Functionality for Add Employee to Week 3 Sprint backlog17 Mar at 02:42
+ACArthur Choung added Tests for Add Employee Function to Week 3 Sprint backlog17 Mar at 02:41
+ACArthur Choung added Tests for Register to Week 3 Sprint backlog17 Mar at 02:41
+ACArthur Choung added Tests for Login Function to Week 3 Sprint backlog17 Mar at 02:41
+ACArthur Choung added User story for Add Employee using template to Week 3 Sprint backlog17 Mar at 02:39
+ACArthur Choung added User story for Register using template to Week 3 Sprint backlog17 Mar at 02:39
+ACArthur Choung added User story for Login using template to Week 3 Sprint backlog17 Mar at 02:39
+ACArthur Choung archived HTML For Working Dates and Times17 Mar at 02:38
+ACArthur Choung archived HTML For Summary of Bookings17 Mar at 02:38
+ACArthur Choung archived HTML For New Bookings17 Mar at 02:38
+ACArthur Choung archived HTML For Show All Workers Availability17 Mar at 02:38
+WCWayne Chen archived Make sure Homy can access Google Drive16 Mar at 17:17
+ACArthur Choung added Laravel Docs to Group Info16 Mar at 11:51
+WCWayne Chen added Kai Zhang to As an Administrator, I would like to set up the Admin account info and Company info. To initialize the website.15 Mar at 19:27
+WC
+Wayne Chen attached Mun Whye & Bryan-2.pdf to Class diagram  
+15 Mar at 18:54
+WCWayne Chen added Bryan Ng Kok Hou to Mockup for Customer Page15 Mar at 18:38
+WCWayne Chen joined Mockup for Customer Page15 Mar at 18:38
+WC
+Wayne Chen attached 17349471_10212366682268243_215509891_o.jpg to Mockup for Customer Page 
+15 Mar at 18:37
+WCWayne Chen added Customer Page to Week2 Sprint Backlog15 Mar at 18:37
+WCWayne Chen archived Mockups still need to be uploaded15 Mar at 18:28
+WCWayne Chen added Bryan Ng Kok Hou to Mockup for Registration Page15 Mar at 18:28
+WCWayne Chen joined Mockup for Registration Page15 Mar at 18:28
+WCWayne Chen added Bryan Ng Kok Hou to Mockup for Owner's Page15 Mar at 18:27
+WCWayne Chen joined Mockup for Owner's Page15 Mar at 18:27
+WC
+Wayne Chen attached 17273294_10212366599066163_956679453_o.jpg to Mockup for Owner's Page 
+15 Mar at 18:27
+WC
+Wayne Chen attached 17311747_10212366599266168_629727760_o.jpg to Mockup for Owner's Page 
+15 Mar at 18:27
+WC
+Wayne Chen attached 17342140_10212366599106164_1327060508_o.jpg to Mockup for Owner's Page 
+15 Mar at 18:27
+WC
+Wayne Chen attached 17310893_10212366599746180_723266185_o.jpg to Mockup for Owner's Page 
+15 Mar at 18:26
+WC
+Wayne Chen attached 17311667_10212366599666178_127193513_o.jpg to Mockup for Owner's Page 
+15 Mar at 18:26
+WCWayne Chen added Mockup for Owner's Page to Week2 Sprint Backlog15 Mar at 18:25
+WC
+Wayne Chen attached 17273604_10212366599786181_491680499_o.jpg to Mockup for Registration Page 
+15 Mar at 18:24
+WCWayne Chen added Mockup for Registration Page to Week2 Sprint Backlog15 Mar at 18:23
+ACArthur Choung added Deployment (Heroku) to Group Info15 Mar at 18:02
+ACArthur Choung added HTML For Show All Workers Availability to Week 3 Sprint backlog15 Mar at 16:54
+ACArthur Choung added HTML For New Bookings to Week 3 Sprint backlog15 Mar at 16:54
+ACArthur Choung added HTML For Summary of Bookings to Week 3 Sprint backlog15 Mar at 16:54
+ACArthur Choung added HTML For Working Dates and Times to Week 3 Sprint backlog15 Mar at 16:53
+ACArthur Choung added HTML For Add Employee to Week 3 Sprint backlog15 Mar at 16:53
+ACArthur Choung added Register Functionality to Week 3 Sprint backlog15 Mar at 16:53
+ACArthur Choung added Login Functionality to Week 3 Sprint backlog15 Mar at 16:53
+ACArthur Choung added Sprint Retrospective to Week 3 Sprint backlog15 Mar at 16:53
+ACArthur Choung added Sprint Planning to Week 3 Sprint backlog15 Mar at 16:52
+WC
+Wayne Chen attached SEPTWeek3Meeting1.docx to Week 3 Meeting 1 - Mar 15, 2017  
+15 Mar at 16:51
+WCWayne Chen added Kai Zhang to Week 3 Meeting 1 - Mar 15, 201715 Mar at 16:51
+WCWayne Chen added Bryan Ng Kok Hou to Week 3 Meeting 1 - Mar 15, 201715 Mar at 16:51
+WCWayne Chen added Arthur Choung to Week 3 Meeting 1 - Mar 15, 201715 Mar at 16:51
+WCWayne Chen joined Week 3 Meeting 1 - Mar 15, 201715 Mar at 16:51
+WCWayne Chen added Week 3 Meeting 1 - Mar 15, 2017 to Meeting Minutes15 Mar at 16:51
+ACArthur Choung added Mockups still need to be uploaded to Issues15 Mar at 16:50
+WCWayne Chen archived Week 3 Meeting 1 - Mar 15,201715 Mar at 16:50
+ACArthur Choung added Wayne Chen to Sprint Retrospective15 Mar at 16:50
+ACArthur Choung added Kai Zhang to Sprint Retrospective15 Mar at 16:50
+ACArthur Choung added Bryan Ng Kok Hou to Sprint Retrospective15 Mar at 16:50
+WCWayne Chen added Kai Zhang to Week 3 Meeting 1 - Mar 15,201715 Mar at 16:50
+ACArthur Choung joined Sprint Retrospective15 Mar at 16:50
+WCWayne Chen added Bryan Ng Kok Hou to Week 3 Meeting 1 - Mar 15,201715 Mar at 16:50
+WCWayne Chen added Arthur Choung to Week 3 Meeting 1 - Mar 15,201715 Mar at 16:50
+WCWayne Chen joined Week 3 Meeting 1 - Mar 15,201715 Mar at 16:50
+WCWayne Chen added Week 3 Meeting 1 - Mar 15,2017 to Meeting Minutes15 Mar at 16:50
+WCWayne Chen marked the due date on Mock-up complete15 Mar at 16:43
+KZKai Zhang added As an Administrator, I would like to set up the Admin account info and Company info. to User Stories15 Mar at 14:37
+ACArthur Choung joined As an admin, I would like to add an employee to the database.14 Mar at 11:07
+ACArthur Choung joined As an admin, I would like to add working dates and times for an employee.14 Mar at 11:07
+ACArthur Choung joined As an admin, I would like to view a summary of all bookings.14 Mar at 11:07
+ACArthur Choung joined As an admin, I would like to create a new booking.14 Mar at 11:07
+ACArthur Choung joined As an admin, I would like to view all employees and their respective availabilities.14 Mar at 11:07
+ACArthur Choung joined As a customer, I would like to view all available days and times14 Mar at 11:07
+ACArthur Choung added As a customer, I would like to view all available days and times to User Stories14 Mar at 11:06
+ACArthur Choung added As an admin, I would like to view all employees and their respective availabilities. to User Stories14 Mar at 10:52
+ACArthur Choung added As an admin, I would like to create a new booking. to User Stories14 Mar at 10:51
+ACArthur Choung added As an admin, I would like to view a summary of all bookings. to User Stories14 Mar at 10:51
+ACArthur Choung added As an admin, I would like to add working dates and times for an employee. to User Stories14 Mar at 10:51
+ACArthur Choung added As an admin, I would like to add an employee to the database. to User Stories14 Mar at 10:50
+KZKai Zhang added Week 3 Sprint backlog to this board14 Mar at 01:57
+KZKai Zhang archived Deployment14 Mar at 01:56
+KZKai Zhang added Discuss about logo place holder. to Product Backlog14 Mar at 01:54
+KZ
+Kai Zhang on Mockup for Login Page
+@board we will talk about improvement of index page at next sprint meeting
+14 Mar at 01:51
+AC
+Arthur Choung attached SEPT Week 2 Meeting 2 - Google Docs.pdf to Week 2 Meeting 2 - Mar 12, 2017  
+12 Mar at 19:19
+ACArthur Choung added Wayne Chen to Week 2 Meeting 2 - Mar 12, 201712 Mar at 19:19
+ACArthur Choung joined Week 2 Meeting 2 - Mar 12, 201712 Mar at 19:19
+ACArthur Choung added Week 2 Meeting 2 - Mar 12, 2017 to Meeting Minutes12 Mar at 19:19
+ACArthur Choung added Wayne Chen to Make sure Homy can access Google Drive12 Mar at 19:18
+ACArthur Choung added Make sure Homy can access Google Drive to Issues12 Mar at 19:18
+WCWayne Chen marked the due date on Create user story complete11 Mar at 16:27
+WCWayne Chen marked the due date on Class diagram complete11 Mar at 16:27
+AC
+Arthur Choung on Part of html
+Code is in git repository
+11 Mar at 13:18
+AC
+Arthur Choung on Class diagram
+checked
+11 Mar at 13:15
+WC
+Wayne Chen on Mockup for Login Page
+I think that we don't really need that 2 login / 2 register buttons. Will discuss about it when we meet up on next meeting.
+10 Mar at 18:56
+WC
+Wayne Chen on Class diagram
+@arthurchoung @bryanngkokhou maybe you guys should check the version that Kai made. Which one do you guys prefer?
+10 Mar at 18:46
+WC
+Wayne Chen on Class diagram
+@kaizhang8 checked.
+10 Mar at 18:45
+WCWayne Chen marked the due date on Class diagram incomplete10 Mar at 18:45
+WCWayne Chen marked the due date on Class diagram complete10 Mar at 18:44
+ACArthur Choung archived list Mockups10 Mar at 11:51
+AC
+Arthur Choung on Mockup for Login Page
+I moved it to the Sprint Backlog
+10 Mar at 11:50
+ACArthur Choung moved Login Page from Mockups to Week2 Sprint Backlog10 Mar at 11:49
+AC
+Arthur Choung on As a customer I would like to change my password by few question if I forget my password.
+I don't think this is in the specifications. We shouldn't do more than is necessary.
+10 Mar at 11:48
+KZ
+Kai Zhang on Create user story
+@board
+1. Please check the user story of week two. If checked and no other things need to modify, please comment "checked"
+10 Mar at 02:18
+KZ
+Kai Zhang on Class diagram
+@board checked already. I made a modified edition.
+1. Please check and I will explain the class diagram on next meeting.
+2. If you guys also want change !!!!PLEASE COPY then EDIT!!!!
+3. If checked please comment "checked" so we can change the label to done.
+10 Mar at 02:17
+KZ
+Kai Zhang on Mock-up
+@arthurchoung May you re-upload the mock-up in this board?
+10 Mar at 01:34
+KZ
+Kai Zhang on Login Page
+@arthurchoung You did this mock-up? May you re-upload it in sprint backlog board---mock-up card. It too messy to set up a single column for just a mock-up.
+10 Mar at 01:34
+KZKai Zhang archived list In Progress10 Mar at 01:31
+KZ
+Kai Zhang on Class diagram
+@board I archived this one for it already in sprint backlog
+10 Mar at 01:28
+KZKai Zhang archived Class diagram10 Mar at 01:27
+KZ
+Kai Zhang on Login
+@arthurchoung I also deleted the need reviewing tag because it is the same with testing.
+10 Mar at 01:27
+KZ
+Kai Zhang on Login
+@arthurchoung I cancelled the In progress status of this card for in progress tasks is a subset of sprint backlog tasks. If you want start this one we could put it in next week's spring backlog.
+10 Mar at 01:26
+KZKai Zhang added Wayne Chen to Create user story10 Mar at 01:21
+KZKai Zhang removed Wayne Chen from Sprint Planning10 Mar at 01:21
+KZKai Zhang joined As a customer I would like to change my password by few question if I forget my password.10 Mar at 01:21
+KZKai Zhang added As a customer I would like to change my password by few question if I forget my password. to User Stories10 Mar at 01:18
+KZKai Zhang joined As a new customer, I would like to register my new account.10 Mar at 01:14
+KZKai Zhang added As a new customer, I would like to register my new account. to User Stories10 Mar at 01:12
+ACArthur Choung joined I have just used a generic logo as a placeholder. I'm not sure what we should change it to.9 Mar at 23:47
+ACArthur Choung added I have just used a generic logo as a placeholder. I'm not sure what we should change it to. to Issues9 Mar at 23:47
+AC
+Arthur Choung attached screenshotForLoginPage.png to Login Page 
+9 Mar at 23:47
+ACArthur Choung joined Login Page9 Mar at 23:46
+ACArthur Choung added Login Page to Screenshots9 Mar at 23:46
+ACArthur Choung added Screenshots to this board9 Mar at 23:46
+ACArthur Choung added Wayne Chen to Sprint Planning9 Mar at 17:59
+ACArthur Choung added Kai Zhang to Sprint Planning9 Mar at 17:59
+ACArthur Choung added Bryan Ng Kok Hou to Sprint Planning9 Mar at 17:59
+ACArthur Choung joined Sprint Planning9 Mar at 17:59
+ACArthur Choung added Wayne Chen to Week 2 Meeting 1 - Mar 8, 20179 Mar at 17:58
+ACArthur Choung added Kai Zhang to Week 2 Meeting 1 - Mar 8, 20179 Mar at 17:58
+ACArthur Choung added Bryan Ng Kok Hou to Week 2 Meeting 1 - Mar 8, 20179 Mar at 17:58
+ACArthur Choung joined Week 2 Meeting 1 - Mar 8, 20179 Mar at 17:58
+ACArthur Choung added Wayne Chen to Week 1 Meeting 1 - Mar 1, 20179 Mar at 17:58
+ACArthur Choung added Kai Zhang to Week 1 Meeting 1 - Mar 1, 20179 Mar at 17:58
+ACArthur Choung added Bryan Ng Kok Hou to Week 1 Meeting 1 - Mar 1, 20179 Mar at 17:58
+ACArthur Choung joined Week 1 Meeting 1 - Mar 1, 20179 Mar at 17:58
+ACArthur Choung joined Login Page9 Mar at 17:57
+ACArthur Choung moved Deployment from Product Backlog to Tasks For Each Page9 Mar at 17:57
+ACArthur Choung moved Documentation from Product Backlog to Tasks For Each Page9 Mar at 17:57
+ACArthur Choung moved Testing from Product Backlog to Tasks For Each Page9 Mar at 17:57
+ACArthur Choung moved Unit Tests from Product Backlog to Tasks For Each Page9 Mar at 17:57
+ACArthur Choung moved Functionality from Product Backlog to Tasks For Each Page9 Mar at 17:56
+ACArthur Choung moved Mockups from Product Backlog to Tasks For Each Page9 Mar at 17:56
+ACArthur Choung moved User Stories from Product Backlog to Tasks For Each Page9 Mar at 17:56
+ACArthur Choung added Tasks For Each Page to this board9 Mar at 17:56
+AC
+Arthur Choung on Booking
+This is just preliminary, somebody should review it
+9 Mar at 17:55
+AC
+Arthur Choung on Availability
+This is just preliminary, somebody should review it
+9 Mar at 17:55
+AC
+Arthur Choung on Employee
+This is just preliminary, somebody should review it
+9 Mar at 17:55
+AC
+Arthur Choung on Customer
+This is just preliminary, somebody should review it
+9 Mar at 17:55
+AC
+Arthur Choung on Business
+This is just preliminary, somebody should review it
+9 Mar at 17:55
+ACArthur Choung joined Booking9 Mar at 17:55
+ACArthur Choung joined Availability9 Mar at 17:54
+ACArthur Choung joined Employee9 Mar at 17:54
+ACArthur Choung joined Customer9 Mar at 17:54
+ACArthur Choung joined Business9 Mar at 17:54
+ACArthur Choung added Bookings to Database9 Mar at 17:53
+ACArthur Choung added Availability to Database9 Mar at 17:52
+ACArthur Choung added Employee to Database9 Mar at 17:52
+ACArthur Choung added Customer to Database9 Mar at 17:50
+ACArthur Choung added Business to Database9 Mar at 17:48
+ACArthur Choung added Issues to this board9 Mar at 17:47
+ACArthur Choung added Database to this board9 Mar at 17:46
+AC
+Arthur Choung attached mockupForLoginPage.jpg to Login Page 
+9 Mar at 17:43
+ACArthur Choung added Login Page to Mockups9 Mar at 17:42
+ACArthur Choung added Unit Tests to Product Backlog9 Mar at 17:39
+ACArthur Choung added Functionality to Product Backlog9 Mar at 17:39
+ACArthur Choung archived Code9 Mar at 17:37
+ACArthur Choung added Code to Product Backlog9 Mar at 17:36
+ACArthur Choung added Mockups to Product Backlog9 Mar at 17:36
+ACArthur Choung added Class diagram to Product Backlog9 Mar at 17:36
+ACArthur Choung added User Stories to Product Backlog9 Mar at 17:36
+AC
+Arthur Choung on As an owner, I would like to enter my username and password, so that I can log in to the system as an admin
+Acceptance Criteria:
+
+Given that the user is at the Login Page,
+When the user submits a valid admin username/password pair,
+Then the system will authenticate the user and display the Main Admin Page
+9 Mar at 17:36
+ACArthur Choung added Mockups to this board9 Mar at 17:35
+ACArthur Choung added Sprint Retrospective to Week2 Sprint Backlog9 Mar at 17:34
+ACArthur Choung added Sprint Planning to Week2 Sprint Backlog9 Mar at 17:34
+ACArthur Choung added Deployment to Product Backlog9 Mar at 17:33
+ACArthur Choung added Documentation to Product Backlog9 Mar at 17:33
+ACArthur Choung added Testing to Product Backlog9 Mar at 17:33
+ACArthur Choung added Show All Workers Availability to Product Backlog9 Mar at 17:33
+ACArthur Choung added New Booking to Product Backlog9 Mar at 17:33
+ACArthur Choung added Summary of Bookings to Product Backlog9 Mar at 17:33
+ACArthur Choung added Add Working Dates And Times to Product Backlog9 Mar at 17:33
+ACArthur Choung added Add Employee Page to Product Backlog9 Mar at 17:31
+ACArthur Choung added Registration Page to Product Backlog9 Mar at 17:31
+ACArthur Choung added Login Page to Product Backlog9 Mar at 17:31
+ACArthur Choung joined As an owner, I would like to enter my username and password, so that I can log in to the system as an admin9 Mar at 17:29
+ACArthur Choung joined User Story for Business Login9 Mar at 17:29
+ACArthur Choung joined User Story for Customer Login9 Mar at 17:29
+ACArthur Choung added User Story for Business Login to In Progress9 Mar at 17:28
+ACArthur Choung added User Story for Customer Login to In Progress9 Mar at 17:28
+ACArthur Choung added In Progress to this board9 Mar at 17:27
+AC
+Arthur Choung on As a customer, I would like to enter my username and password, so that I can log in to the system
+Acceptance Criteria:
+
+Given that the user is at the Login Page,
+When the user submits a valid customer username/password pair,
+Then the system will authenticate the user and display the Main Customer Page
+9 Mar at 17:26
+ACArthur Choung joined As a customer, I would like to enter my username and password, so that I can log in to the system9 Mar at 17:23
+KZKai Zhang archived Sprint8 Mar at 20:59
+KZKai Zhang archived User stories8 Mar at 20:58
+KZKai Zhang archived Mockups8 Mar at 20:58
+KZKai Zhang archived Class diagram8 Mar at 20:58
+KZKai Zhang archived User Stories8 Mar at 20:49
+KZKai Zhang archived Documentation8 Mar at 20:49
+KZKai Zhang added Sprint to Tags8 Mar at 20:48
+ACArthur Choung archived list Week 2 Sprint Backlog8 Mar at 20:46
+KZKai Zhang moved User stories from Week2 to Backlog8 Mar at 20:46
+KZKai Zhang moved Mockups from Week2 to Backlog8 Mar at 20:46
+KZKai Zhang moved Class diagram from Week2 to Backlog8 Mar at 20:46
+KZKai Zhang moved User stories from Week 2 Sprint Backlog to Week28 Mar at 20:45
+KZKai Zhang moved Mockups from Week 2 Sprint Backlog to Week28 Mar at 20:45
+KZKai Zhang moved Class diagram from Week 2 Sprint Backlog to Week28 Mar at 20:45
+KZKai Zhang made Wayne Chen an admin of this board8 Mar at 20:45
+KZKai Zhang made Homy an admin of this board8 Mar at 20:45
+KZKai Zhang made Bryan Ng Kok Hou an admin of this board8 Mar at 20:45
+KZKai Zhang made Arthur Choung an admin of this board8 Mar at 20:45
+KZKai Zhang archived list Testing8 Mar at 20:42
+KZKai Zhang archived list In Progress8 Mar at 20:42
+KZKai Zhang archived list Roadblocks8 Mar at 20:41
+ACArthur Choung added As an owner, I would like to enter my username and password, so that I can log in to the system as an admin to User Stories8 Mar at 20:36
+ACArthur Choung added As a customer, I would like to enter my username and password, so that I can log in to the system to User Stories8 Mar at 20:36
+ACArthur Choung added User stories to Sprint Backlog8 Mar at 20:34
+ACArthur Choung added Mockups to Sprint Backlog8 Mar at 20:34
+ACArthur Choung added Class diagram to Sprint Backlog8 Mar at 20:34
+ACArthur Choung added User Stories to this board8 Mar at 20:30
+ACArthur Choung added Info to Tags8 Mar at 20:27
+ACArthur Choung added Testing to this board8 Mar at 20:26
+KZKai Zhang archived list User Stories8 Mar at 20:23
+KZKai Zhang added User Stories to Tags8 Mar at 20:23
+ACArthur Choung archived list Week 18 Mar at 20:16
+ACArthur Choung added Week 1 to this board8 Mar at 20:12
+ACArthur Choung added Exceptions/Roadblocks to this board8 Mar at 20:11
+ACArthur Choung added Completed to this board8 Mar at 20:10
+WCWayne Chen added Lucidchart to Group Info8 Mar at 20:10
+ACArthur Choung added In Progress to this board8 Mar at 20:10
+ACArthur Choung added Sprint Backlog to this board8 Mar at 20:10
+ACArthur Choung added User Stories to this board8 Mar at 20:10
+AC
+Arthur Choung attached SEPT Week 2 Meeting 1 to Week 2 Meeting 1 - Mar 8, 2017  
+8 Mar at 20:09
+ACArthur Choung deleted the SEPT Week 1 Meeting 2 attachment from Week 2 Meeting 1 - Mar 8, 20178 Mar at 20:09
+AC
+Arthur Choung attached SEPT Week 1 Meeting 2 to Week 2 Meeting 1 - Mar 8, 2017  
+8 Mar at 20:05
+ACArthur Choung added Week 2 Meeting 1 - Mar 8, 2017 to Meeting Minutes8 Mar at 20:05
+AC
+Arthur Choung attached SEPT Week 1 Meeting 1 to Week 1 Meeting 1 - Mar 1, 2017  
+8 Mar at 20:01
+ACArthur Choung added Week 1 Meeting 1 - Mar 1, 2017 to Meeting Minutes8 Mar at 19:57
+ACArthur Choung added Meeting Minutes to this board8 Mar at 19:57
+KZKai Zhang renamed this board (from SEPT)8 Mar at 19:40
+KZKai Zhang added Testing to Tags8 Mar at 19:09
+KZKai Zhang added Cancelled & Urgent to Tags8 Mar at 18:12
+KZKai Zhang added Done to Tags8 Mar at 18:12
+KZKai Zhang added Delay to Tags8 Mar at 18:10
+KZKai Zhang added In progress to Tags8 Mar at 18:09
+KZKai Zhang added In progress to this board8 Mar at 18:09
+KZ
+Kai Zhang on Mock-up
+1.Just a paper edition (cause it's faster).
+2.Please do PC edition.
+8 Mar at 17:12
+KZ
+Kai Zhang on Mock-up
+1.Just a paper edition (cause it's faster.)
+8 Mar at 17:11
+KZKai Zhang changed the due date of Create user story to 9 Mar at 23:598 Mar at 17:08
+KZKai Zhang changed the due date of Create user story to 9 Mar at 00:008 Mar at 17:07
+KZKai Zhang added Arthur Choung to Part of html8 Mar at 17:06
+KZKai Zhang joined Part of html8 Mar at 17:06
+KZKai Zhang added Bryan Ng Kok Hou to Mock-up8 Mar at 17:05
+KZKai Zhang added Wayne Chen to Mock-up8 Mar at 17:05
+KZKai Zhang added Bryan Ng Kok Hou to Class diagram8 Mar at 17:05
+KZKai Zhang added Wayne Chen to Class diagram8 Mar at 17:05
+KZKai Zhang added Arthur Choung to Create user story8 Mar at 17:05
+KZKai Zhang joined Create user story8 Mar at 17:05
+KZKai Zhang added Part of html to Week28 Mar at 17:05
+KZKai Zhang added Mock-up to Week28 Mar at 17:05
+KZKai Zhang added Class diagram to Week28 Mar at 17:04
+KZKai Zhang added Create user story to Week28 Mar at 17:04
+WCWayne Chen added testing to this board6 Mar at 21:00
+ACArthur Choung added Slack to Group Info1 Mar at 21:23
+KZKai Zhang added Google Drive Link to Group Info1 Mar at 21:20
+KZKai Zhang added Github to Group Info1 Mar at 21:04
+KZKai Zhang added Bryan Ng Kok Hou to this board1 Mar at 20:54
+KZKai Zhang added Wayne Chen to this board1 Mar at 20:52
+KZKai Zhang added Homy to this board1 Mar at 20:32
+KZKai Zhang invited an unconfirmed member to this board1 Mar at 20:31
+KZKai Zhang invited an unconfirmed member to this board1 Mar at 20:31
+KZKai Zhang invited an unconfirmed member to this board1 Mar at 20:31
+KZKai Zhang added Contact Info to Group Info1 Mar at 20:25
+KZKai Zhang added Group Info to this board1 Mar at 20:24
+KZKai Zhang created this board

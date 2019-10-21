@@ -1,0 +1,19 @@
+a,a,a,a@a.com,a,free,144
+a,a,a,a@a.com,a,free,144
+a,aa,a,asdfas@iatlka.com,asd,free,66.25
+aaa,aaaaaaaaaa,aaa,asdfa@asdf.com,asdfa,free,66.25
+a,aa,a,asdfas@iatlka.com,asd,free,66.25
+a,aa,a,asdfas@iatlka.com,asd,Regular courier,66.25
+a,aa,a,asdfas@iatlka.com,asd,free,66.25
+a,aa,a,asdfas@iatlka.com,asd,free,66.25
+a,a,a,a@a.com,0420668803,free,66.25
+a,a,a,a@a.com,0420668803,free,0
+a,a,a,a@a.com,0420668803,free,66.25
+a,a,a,a@a.com,0420668803,free,66.25
+a,a,a,a@a.com,+61420668803,free,0
+a,a,a,a@a.com,+61420668803,free,0
+a,a,a,a@a.com,+61420668803,free,0
+a,a,a,a@a.com,+61420668803,free,0
+a,a,a,a@a.com,+61420668803,free,0
+a,a,a,a@a.com,+61420668803,free,0
+a,a,a,a@a.com,+61420668803,free,0

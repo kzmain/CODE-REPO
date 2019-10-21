@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit Tests" tests="34" assertions="34" failures="0" errors="0" time="0.335613">
+    <testsuite name="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" tests="6" assertions="6" failures="0" errors="0" time="0.107497">
+      <testcase name="testValidInput" class="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" line="24" assertions="1" time="0.074516"/>
+      <testcase name="testEmptyInput" class="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" line="41" assertions="1" time="0.007931"/>
+      <testcase name="testInvalidStartTime" class="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" line="54" assertions="1" time="0.006205"/>
+      <testcase name="testInvalidEndTime" class="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" line="71" assertions="1" time="0.006298"/>
+      <testcase name="testEndTimeBeforeStartTime" class="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" line="88" assertions="1" time="0.006179"/>
+      <testcase name="testSecondsTooHigh" class="Tests\Unit\AvailabilityTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/AvailabilityTest.php" line="105" assertions="1" time="0.006368"/>
+    </testsuite>
+    <testsuite name="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" tests="8" assertions="8" failures="0" errors="0" time="0.056451">
+      <testcase name="testValidInput" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="13" assertions="1" time="0.006826"/>
+      <testcase name="testEmptyInput" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="26" assertions="1" time="0.006868"/>
+      <testcase name="testInvalidUser_id" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="33" assertions="1" time="0.006991"/>
+      <testcase name="testInvalidService_id" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="47" assertions="1" time="0.006754"/>
+      <testcase name="testInvalidEmployee_id" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="61" assertions="1" time="0.006649"/>
+      <testcase name="testInvalidDate" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="75" assertions="1" time="0.006966"/>
+      <testcase name="testInvalidDayOfWeek" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="89" assertions="1" time="0.007248"/>
+      <testcase name="testInvalidStart_Time" class="Tests\Unit\BookingTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/BookingTest.php" line="103" assertions="1" time="0.008149"/>
+    </testsuite>
+    <testsuite name="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" tests="6" assertions="6" failures="0" errors="0" time="0.054313">
+      <testcase name="testValidInput" class="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" line="13" assertions="1" time="0.014653"/>
+      <testcase name="testEmptyInput" class="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" line="27" assertions="1" time="0.009169"/>
+      <testcase name="testInvalidEmail" class="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" line="34" assertions="1" time="0.006686"/>
+      <testcase name="testInvalidState" class="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" line="48" assertions="1" time="0.007744"/>
+      <testcase name="testInvalidPostcode" class="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" line="62" assertions="1" time="0.007996"/>
+      <testcase name="testInvalidPhone" class="Tests\Unit\EmployeeTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/EmployeeTest.php" line="76" assertions="1" time="0.008065"/>
+    </testsuite>
+    <testsuite name="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" tests="8" assertions="8" failures="0" errors="0" time="0.067945">
+      <testcase name="testValidInput" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="13" assertions="1" time="0.008705"/>
+      <testcase name="testEmptyInput" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="29" assertions="1" time="0.007175"/>
+      <testcase name="testInvalidEmail" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="35" assertions="1" time="0.006883"/>
+      <testcase name="testMissingEmail" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="51" assertions="1" time="0.007114"/>
+      <testcase name="testPasswordMismatch" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="66" assertions="1" time="0.007835"/>
+      <testcase name="testInvalidState" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="82" assertions="1" time="0.011328"/>
+      <testcase name="testInvalidPostcode" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="98" assertions="1" time="0.011095"/>
+      <testcase name="testInvalidPhone" class="Tests\Unit\RegisterTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/RegisterTest.php" line="114" assertions="1" time="0.007810"/>
+    </testsuite>
+    <testsuite name="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" tests="6" assertions="6" failures="0" errors="0" time="0.049407">
+      <testcase name="testValidInput" class="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" line="13" assertions="1" time="0.007271"/>
+      <testcase name="testEmptyInput" class="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" line="23" assertions="1" time="0.006835"/>
+      <testcase name="testInvalidName" class="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" line="30" assertions="1" time="0.006639"/>
+      <testcase name="testInvalidDuration_In_Minutes" class="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" line="40" assertions="1" time="0.011035"/>
+      <testcase name="testEmptyName" class="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" line="50" assertions="1" time="0.010113"/>
+      <testcase name="testEmptyDuration_In_Minutes" class="Tests\Unit\ServiceTest" file="/Users/arthur/Workspace/rmit/sept/SEPT_KBWA/tests/Unit/ServiceTest.php" line="60" assertions="1" time="0.007514"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

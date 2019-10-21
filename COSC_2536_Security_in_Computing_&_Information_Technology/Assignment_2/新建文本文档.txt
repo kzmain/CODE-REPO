@@ -1,0 +1,25 @@
+Packet filter
+
+X.509 certificates
+
+Sanding box 
+
+RAID
+
+Key loggers
+
+Spayware
+
+CPU/resource stealing
+
+Poisoned search results
+
+clickjacking
+
+phishing
+
+password cracking
+
+statical inference attack
+
+ransomware

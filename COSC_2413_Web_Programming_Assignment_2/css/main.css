@@ -1,0 +1,12 @@
+		body{
+			margin:0px;
+		}
+
+		main{
+			margin:0px;
+			overflow:auto;
+			width:960px;
+			background-color:#004d4d;
+			margin-left:auto;
+			margin-right:auto;
+		}

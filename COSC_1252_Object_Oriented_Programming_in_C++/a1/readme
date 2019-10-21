@@ -1,0 +1,30 @@
+/*****************************************************************\
+*
+*         Course code: COSC1252/1254
+*         Student Number: s3560808
+*         Date: 08.2017
+*
+*****************************************************************/
+
+This is Assiginment 1 of C++, which is written by RMIT Student Kai (s3560808). 2017.8
+The main target is to implement data structures and dict & passage search
+
+1. Following commands are available(* command in [] is your file location):
+
+./test_datastructures -s list -d [yourDictFiles] -t [yourPassageFiles] -o outputfile1.txt
+./test_datastructures -s vector -d [yourDictFiles] -t [yourPassageFiles] -o outputfile2.txt
+./test_datastructures -s set -d [yourDictFiles] -t [yourPassageFiles] -o outputfile3.txt
+./test_datastructures -s custom_list -d [yourDictFiles] -t [yourPassageFiles] -o outputfile4.txt
+./test_datastructures -s custom_tree -d [yourDictFiles] -t [yourPassageFiles] -o outputfile5.txt
+
+2.What will happen if invalid command?
+    2.1 Wrong location
+        Program will tell you which file location is not available, please ensure your are permitted to access that file locatoin
+    2.2 Wrong command
+        You may miss some command parameter please reinput commands
+
+3.What can be imporved!?
+    Add inheritance between will improve code efficiency.
+	
+	./test_datastructures -s custom_list -d ./inputfiles/dict.dat -t ./inputfiles/passage.txt -o outputfile4.txt
+	./test_datastructures -s custom_list -d ./inputfiles/dict.dat -t ./inputfiles/passage.txt -o outputfile4.txt

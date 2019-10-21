@@ -1,0 +1,8 @@
+C20162827,Josh,Hua,0,Menzies University
+C20128721,Lee,Rock,0,Menzies University
+C28728821,Jess,Rose,1,Menzies University
+C29928120,Kelly,Hat,0,Menzies University
+C00212311,Mitch,Cyte,1,Menzies University
+C01233231,Lois,Ha,0,Menzies University
+C28821920,Leslie,Amber,0,Menzies University
+C98223999,Tom,Pie,1,Menzies University

@@ -1,0 +1,29 @@
+			fieldset{
+				width:900px;
+                margin-left:auto;
+                margin-right:auto;
+			}
+			legend{
+				font-size: 40px;
+				
+				color:white;
+			}
+            .disc{
+                display:flex;
+                color:white;
+                height: 80px;
+                line-height: 20px;
+            }
+            .disc span{
+                flex:1;
+            }
+            #total{
+                
+                float:right;
+                color:white;
+                font-size:25px;
+            }
+            #continue{
+                clear:right;
+                float:right;            
+            }

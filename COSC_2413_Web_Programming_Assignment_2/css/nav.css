@@ -1,0 +1,35 @@
+		header{
+			background-color:#1A94E6;
+			width : 960px;
+			margin : 0px;
+			margin-left:auto;
+			margin-right:auto;
+		}
+		header img{
+			width: 480px;
+			position:relative;
+			left:240px;
+			margin:px;
+		}
+		nav{
+			width : 960px;
+			height:80px;
+			line-height:80px;
+			vertical-align: middle;
+			background-color: #315374;
+			margin :0px;
+			display:flex;
+			margin-left:auto;
+			margin-right:auto;
+		}
+		nav a{
+			flex:1;
+			color:white;
+			text-decoration:none;
+			font-size:30px;
+			font-family:simhei,sans-serif;
+			text-align: center;
+		}
+		nav a:hover, nav a:active{
+			background-color:#339933;
+		}

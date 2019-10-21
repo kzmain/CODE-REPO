@@ -1,0 +1,1 @@
+<?php echo '<img src="img/logo.png" />'?>
