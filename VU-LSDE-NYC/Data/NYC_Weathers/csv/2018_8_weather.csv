@@ -1,0 +1,130 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,woensdag,1,augustus,2018,24,23,1019,1,0,90,Overcast
+06:00,12:00,woensdag,1,augustus,2018,27,24,1018,2,0,93,Partly sunny
+12:00,18:00,woensdag,1,augustus,2018,28,26,1016,4,0,79,Partly sunny
+18:00,00:00,woensdag,1,augustus,2018,28,27,1016,4,0,71,Clear
+00:00,06:00,donderdag,2,augustus,2018,27,24,1017,4,0,74,Clear
+06:00,12:00,donderdag,2,augustus,2018,28,24,1020,5,0,76,Passing clouds
+12:00,18:00,donderdag,2,augustus,2018,29,29,1018,5,0,68,Partly sunny
+18:00,00:00,donderdag,2,augustus,2018,28,24,1020,3,0,86,Partly cloudy
+00:00,06:00,vrijdag,3,augustus,2018,24,24,1021,3,0,94,Mostly cloudy
+06:00,12:00,vrijdag,3,augustus,2018,27,24,1021,3,0,86,Broken clouds
+12:00,18:00,vrijdag,3,augustus,2018,27,23,1021,6,0,93,Passing clouds
+18:00,00:00,vrijdag,3,augustus,2018,26,25,1020,3,0,84,Clear
+00:00,06:00,zaterdag,4,augustus,2018,26,24,1019,5,0,88,Passing clouds
+06:00,12:00,zaterdag,4,augustus,2018,24,22,1019,3,350,95,Light rain
+06:00,12:00,zaterdag,4,augustus,2018,24,22,1019,3,350,95,Fog
+12:00,18:00,zaterdag,4,augustus,2018,28,23,1018,3,0,76,Passing clouds
+18:00,00:00,zaterdag,4,augustus,2018,29,27,1018,5,0,65,Passing clouds
+00:00,06:00,zondag,5,augustus,2018,26,23,1020,3,300,76,Clear
+06:00,12:00,zondag,5,augustus,2018,31,23,1021,1,0,65,Sunny
+12:00,18:00,zondag,5,augustus,2018,32,30,1020,3,0,47,Sunny
+18:00,00:00,zondag,5,augustus,2018,31,28,1019,0,0,57,Clear
+00:00,06:00,maandag,6,augustus,2018,28,26,1019,6,280,71,Clear
+06:00,12:00,maandag,6,augustus,2018,31,26,1019,2,290,66,Sunny
+12:00,18:00,maandag,6,augustus,2018,33,31,1017,2,260,52,Passing clouds
+18:00,00:00,maandag,6,augustus,2018,31,28,1016,3,0,64,Clear
+00:00,06:00,dinsdag,7,augustus,2018,28,26,1016,5,0,78,Clear
+06:00,12:00,dinsdag,7,augustus,2018,31,26,1016,7,0,77,Sunny
+12:00,18:00,dinsdag,7,augustus,2018,31,29,1013,6,0,68,Scattered clouds
+18:00,00:00,dinsdag,7,augustus,2018,29,23,1013,3,0,88,Partly sunny
+00:00,06:00,woensdag,8,augustus,2018,26,24,1013,3,270,80,Clear
+06:00,12:00,woensdag,8,augustus,2018,30,24,1013,1,300,70,Sunny
+12:00,18:00,woensdag,8,augustus,2018,32,29,1010,4,0,60,Passing clouds
+18:00,00:00,woensdag,8,augustus,2018,29,27,1009,3,0,70,Clear
+00:00,06:00,donderdag,9,augustus,2018,27,23,1009,3,260,88,Fog
+06:00,12:00,donderdag,9,augustus,2018,28,24,1009,5,290,80,Fog
+12:00,18:00,donderdag,9,augustus,2018,30,28,1008,6,0,54,Partly sunny
+18:00,00:00,donderdag,9,augustus,2018,29,26,1010,3,0,48,Clear
+00:00,06:00,vrijdag,10,augustus,2018,25,23,1011,3,290,62,Clear
+06:00,12:00,vrijdag,10,augustus,2018,29,22,1012,2,280,61,Sunny
+12:00,18:00,vrijdag,10,augustus,2018,30,28,1011,3,0,54,Scattered clouds
+18:00,00:00,vrijdag,10,augustus,2018,28,26,1012,0,0,62,Passing clouds
+00:00,06:00,zaterdag,11,augustus,2018,27,22,1013,2,0,86,Heavy rain
+00:00,06:00,zaterdag,11,augustus,2018,27,22,1013,2,0,86,Fog
+06:00,12:00,zaterdag,11,augustus,2018,23,21,1014,4,60,97,Heavy rain
+06:00,12:00,zaterdag,11,augustus,2018,23,21,1014,4,60,97,Fog
+12:00,18:00,zaterdag,11,augustus,2018,24,23,1015,4,70,93,Mostly cloudy
+18:00,00:00,zaterdag,11,augustus,2018,23,22,1015,2,0,95,Passing clouds
+00:00,06:00,zondag,12,augustus,2018,23,23,1016,0,0,94,Fog
+06:00,12:00,zondag,12,augustus,2018,27,23,1017,4,50,87,Fog
+12:00,18:00,zondag,12,augustus,2018,28,27,1017,8,0,68,Passing clouds
+18:00,00:00,zondag,12,augustus,2018,27,24,1017,6,0,82,Mostly cloudy
+00:00,06:00,maandag,13,augustus,2018,24,23,1017,10,60,87,Overcast
+06:00,12:00,maandag,13,augustus,2018,23,22,1017,6,0,92,Low clouds
+12:00,18:00,maandag,13,augustus,2018,23,22,1014,6,60,95,Low clouds
+18:00,00:00,maandag,13,augustus,2018,23,22,1013,1,60,96,Fog
+00:00,06:00,dinsdag,14,augustus,2018,23,22,1012,1,300,96,Fog
+06:00,12:00,dinsdag,14,augustus,2018,26,22,1012,3,0,92,Fog
+12:00,18:00,dinsdag,14,augustus,2018,27,22,1010,4,0,86,Scattered clouds
+18:00,00:00,dinsdag,14,augustus,2018,22,22,1011,7,0,87,Clear
+00:00,06:00,woensdag,15,augustus,2018,22,21,1011,4,0,86,Passing clouds
+06:00,12:00,woensdag,15,augustus,2018,28,22,1012,7,0,76,Sunny
+12:00,18:00,woensdag,15,augustus,2018,29,29,1013,8,0,52,Sunny
+18:00,00:00,woensdag,15,augustus,2018,29,27,1014,6,0,61,Clear
+00:00,06:00,donderdag,16,augustus,2018,27,24,1016,4,260,75,Clear
+06:00,12:00,donderdag,16,augustus,2018,29,25,1018,5,0,67,Sunny
+12:00,18:00,donderdag,16,augustus,2018,31,30,1017,6,290,52,Sunny
+18:00,00:00,donderdag,16,augustus,2018,29,28,1018,4,0,59,Clear
+00:00,06:00,vrijdag,17,augustus,2018,28,26,1018,7,260,70,Clear
+06:00,12:00,vrijdag,17,augustus,2018,29,26,1018,1,0,72,Sunny
+12:00,18:00,vrijdag,17,augustus,2018,30,28,1015,5,0,70,Passing clouds
+18:00,00:00,vrijdag,17,augustus,2018,28,22,1014,4,0,85,Light rain
+18:00,00:00,vrijdag,17,augustus,2018,28,22,1014,4,0,85,Fog
+00:00,06:00,zaterdag,18,augustus,2018,23,23,1013,6,0,96,Fog
+06:00,12:00,zaterdag,18,augustus,2018,27,23,1011,5,260,92,Fog
+12:00,18:00,zaterdag,18,augustus,2018,29,26,1009,3,0,71,Mostly cloudy
+18:00,00:00,zaterdag,18,augustus,2018,24,22,1011,6,10,84,Mostly cloudy
+00:00,06:00,zondag,19,augustus,2018,22,21,1012,7,60,79,Overcast
+06:00,12:00,zondag,19,augustus,2018,21,19,1015,10,70,84,Overcast
+12:00,18:00,zondag,19,augustus,2018,22,21,1016,5,0,83,Overcast
+18:00,00:00,zondag,19,augustus,2018,22,22,1018,6,60,74,Overcast
+00:00,06:00,maandag,20,augustus,2018,21,20,1019,4,70,72,Overcast
+06:00,12:00,maandag,20,augustus,2018,21,19,1021,7,0,84,Mostly cloudy
+12:00,18:00,maandag,20,augustus,2018,23,22,1021,3,100,76,Overcast
+18:00,00:00,maandag,20,augustus,2018,23,21,1021,1,0,81,Partly sunny
+00:00,06:00,dinsdag,21,augustus,2018,22,19,1021,4,0,82,Overcast
+06:00,12:00,dinsdag,21,augustus,2018,25,19,1019,7,0,76,Sunny
+12:00,18:00,dinsdag,21,augustus,2018,25,23,1016,5,0,69,Scattered clouds
+18:00,00:00,dinsdag,21,augustus,2018,23,22,1014,5,0,84,Mostly cloudy
+00:00,06:00,woensdag,22,augustus,2018,23,22,1009,4,0,94,Light rain
+00:00,06:00,woensdag,22,augustus,2018,23,22,1009,4,0,94,Low clouds
+06:00,12:00,woensdag,22,augustus,2018,26,22,1007,6,0,86,Broken clouds
+12:00,18:00,woensdag,22,augustus,2018,27,26,1006,10,0,60,Scattered clouds
+18:00,00:00,woensdag,22,augustus,2018,27,22,1008,4,290,63,Clear
+00:00,06:00,donderdag,23,augustus,2018,22,20,1010,6,0,72,Clear
+06:00,12:00,donderdag,23,augustus,2018,23,19,1014,5,0,65,Partly sunny
+12:00,18:00,donderdag,23,augustus,2018,25,24,1016,6,0,39,Sunny
+18:00,00:00,donderdag,23,augustus,2018,24,22,1018,3,290,49,Clear
+00:00,06:00,vrijdag,24,augustus,2018,21,18,1020,1,300,68,Clear
+06:00,12:00,vrijdag,24,augustus,2018,27,19,1023,2,290,61,Sunny
+12:00,18:00,vrijdag,24,augustus,2018,27,26,1023,4,0,48,Sunny
+18:00,00:00,vrijdag,24,augustus,2018,24,22,1024,2,0,51,Clear
+00:00,06:00,zaterdag,25,augustus,2018,22,21,1025,2,290,65,Clear
+06:00,12:00,zaterdag,25,augustus,2018,25,21,1026,4,0,62,Sunny
+12:00,18:00,zaterdag,25,augustus,2018,26,24,1024,1,0,54,Sunny
+18:00,00:00,zaterdag,25,augustus,2018,23,21,1023,4,0,64,Clear
+00:00,06:00,zondag,26,augustus,2018,22,21,1023,4,0,70,Clear
+06:00,12:00,zondag,26,augustus,2018,27,21,1021,6,0,72,Sunny
+12:00,18:00,zondag,26,augustus,2018,28,27,1018,5,0,63,Partly sunny
+18:00,00:00,zondag,26,augustus,2018,28,26,1018,7,0,63,Clear
+00:00,06:00,maandag,27,augustus,2018,26,23,1018,4,0,76,Clear
+06:00,12:00,maandag,27,augustus,2018,29,24,1019,5,0,75,Sunny
+12:00,18:00,maandag,27,augustus,2018,31,29,1018,3,0,61,Sunny
+18:00,00:00,maandag,27,augustus,2018,29,28,1017,4,0,64,Clear
+00:00,06:00,dinsdag,28,augustus,2018,28,27,1017,3,0,76,Clear
+06:00,12:00,dinsdag,28,augustus,2018,32,26,1018,5,0,72,Sunny
+12:00,18:00,dinsdag,28,augustus,2018,34,32,1016,6,0,50,Passing clouds
+18:00,00:00,dinsdag,28,augustus,2018,33,29,1016,9,260,56,Clear
+00:00,06:00,woensdag,29,augustus,2018,29,27,1016,5,0,73,Clear
+06:00,12:00,woensdag,29,augustus,2018,33,27,1016,6,0,68,Sunny
+12:00,18:00,woensdag,29,augustus,2018,33,32,1014,9,0,52,Passing clouds
+18:00,00:00,woensdag,29,augustus,2018,32,30,1014,9,0,54,Clear
+00:00,06:00,donderdag,30,augustus,2018,29,27,1014,7,260,73,Clear
+06:00,12:00,donderdag,30,augustus,2018,30,26,1016,8,0,66,Sunny
+12:00,18:00,donderdag,30,augustus,2018,31,29,1017,5,10,55,Sunny
+18:00,00:00,donderdag,30,augustus,2018,29,26,1019,6,0,55,Clear
+00:00,06:00,vrijdag,31,augustus,2018,26,24,1022,7,0,66,Mostly cloudy
+06:00,12:00,vrijdag,31,augustus,2018,24,23,1024,7,0,73,Mostly cloudy
+12:00,18:00,vrijdag,31,augustus,2018,24,21,1025,5,0,81,Overcast
+18:00,00:00,vrijdag,31,augustus,2018,22,21,1026,4,0,78,Mostly cloudy

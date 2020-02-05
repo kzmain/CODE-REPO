@@ -1,0 +1,109 @@
+<style>
+  /* Always set the map height explicitly to define the size of the div
+   * element that contains the map. */
+  .display_box {
+    width: 23%;
+    height: 80%;
+    color: black;
+    display: inline-block;
+    text-align: center;
+    font-size: 24px;
+  }
+  object{
+    height: 100%;
+    width: 100%;
+  }
+  #hour_pannel, #hour{
+    font-size: 30px;
+  }
+  .slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+#slider_box{
+  /*margin-top: 100px;*/
+}
+#maps{
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+<div id="maps">
+  <div class="display_box"><div id="clear"></div>Clear</div>
+  <div class="display_box"><div id="fog"></div>Fog</div>
+  <div class="display_box"><div id="heavy_rain"></div>Heavy rain</div>
+  <div class="display_box"><div id="snow"></div>Snow</div>
+  <!-- <div id="light_snow"></div> -->
+  <div id ="hour_pannel">Hour:<span id = "hour"></span></div>
+  <div id="slider_box"><input type="range" min="0" max="23" value="10" class="slider" id="myRange"></div>
+  <br>
+  
+</div>
+
+<script type="text/javascript">
+  data_dir = "../www/html/routes"
+  function load_clear(hour) {
+     document.getElementById("clear").innerHTML='<object type="text/html" data="' + data_dir
+      + '/clear/'+hour+'.html" ></object>';
+  }
+  function load_fog(hour) {
+     document.getElementById("fog").innerHTML='<object type="text/html" data="' + data_dir + '/fog/'+hour+'.html" ></object>';
+  }
+  function load_heavy_rain(hour) {
+     document.getElementById("heavy_rain").innerHTML='<object type="text/html" data="' + data_dir + '/heavy_rain/'+hour+'.html" ></object>';
+  }
+  function load_light_snow(hour) {
+     document.getElementById("light_snow").innerHTML='<object type="text/html" data="' + data_dir + '/light_snow/'+hour+'.html" ></object>';
+  }
+  function load_snow(hour) {
+     document.getElementById("snow").innerHTML='<object type="text/html" data="' + data_dir + '/snow/'+hour+'.html" ></object>';
+  }
+  load_clear(10);
+  load_fog(10);
+  load_heavy_rain(10);
+  // load_light_snow(10);
+  load_snow(10);
+  var slider = document.getElementById("myRange");
+  var output = document.getElementById("hour");
+  output.innerHTML = slider.value;
+
+  slider.oninput = function() {
+    load_clear(this.value);
+    load_fog(this.value);
+    load_heavy_rain(this.value);
+    // load_light_snow(this.value);
+    load_snow(this.value);
+    output.innerHTML = this.value;
+  }
+</script>

@@ -1,0 +1,132 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,dinsdag,1,maart,2016,9,5,1017,11,0,49,Clear
+06:00,12:00,dinsdag,1,maart,2016,8,4,1021,10,0,38,Sunny
+12:00,18:00,dinsdag,1,maart,2016,11,7,1017,13,170,40,Sunny
+18:00,00:00,dinsdag,1,maart,2016,11,7,1009,13,140,71,Mostly cloudy
+00:00,06:00,woensdag,2,maart,2016,12,10,999,13,0,77,Overcast
+06:00,12:00,woensdag,2,maart,2016,11,4,1003,20,290,46,Passing clouds
+12:00,18:00,woensdag,2,maart,2016,6,3,1009,20,320,29,Sunny
+18:00,00:00,woensdag,2,maart,2016,2,-2,1017,9,320,38,Clear
+00:00,06:00,donderdag,3,maart,2016,-2,-3,1021,12,310,42,Clear
+06:00,12:00,donderdag,3,maart,2016,0,-3,1024,10,0,36,Sunny
+12:00,18:00,donderdag,3,maart,2016,2,1,1023,6,0,27,Sunny
+18:00,00:00,donderdag,3,maart,2016,2,1,1023,8,0,41,Mostly cloudy
+00:00,06:00,vrijdag,4,maart,2016,1,-1,1021,9,60,78,Light snow
+00:00,06:00,vrijdag,4,maart,2016,1,-1,1021,9,60,78,Mostly cloudy
+06:00,12:00,vrijdag,4,maart,2016,0,-1,1020,15,50,80,Light snow
+06:00,12:00,vrijdag,4,maart,2016,0,-1,1020,15,50,80,Overcast
+12:00,18:00,vrijdag,4,maart,2016,4,1,1016,17,40,53,Overcast
+18:00,00:00,vrijdag,4,maart,2016,3,1,1018,14,20,46,Clear
+00:00,06:00,zaterdag,5,maart,2016,0,-2,1020,10,0,50,Clear
+06:00,12:00,zaterdag,5,maart,2016,3,-2,1023,10,0,42,Sunny
+12:00,18:00,zaterdag,5,maart,2016,4,2,1021,5,0,31,Overcast
+18:00,00:00,zaterdag,5,maart,2016,3,1,1022,2,0,52,Passing clouds
+00:00,06:00,zondag,6,maart,2016,2,0,1023,6,30,38,Clear
+06:00,12:00,zondag,6,maart,2016,4,1,1026,8,0,37,Overcast
+12:00,18:00,zondag,6,maart,2016,7,4,1025,5,0,34,Sunny
+18:00,00:00,zondag,6,maart,2016,6,4,1026,3,20,44,Clear
+00:00,06:00,maandag,7,maart,2016,4,2,1025,11,260,60,Clear
+06:00,12:00,maandag,7,maart,2016,10,3,1024,12,0,59,Sunny
+12:00,18:00,maandag,7,maart,2016,16,12,1016,15,0,38,Sunny
+18:00,00:00,maandag,7,maart,2016,15,12,1017,11,250,44,Clear
+00:00,06:00,dinsdag,8,maart,2016,12,9,1019,2,0,51,Clear
+06:00,12:00,dinsdag,8,maart,2016,18,9,1021,3,40,44,Partly sunny
+12:00,18:00,dinsdag,8,maart,2016,17,12,1020,11,0,43,Sunny
+18:00,00:00,dinsdag,8,maart,2016,11,9,1021,6,140,68,Clear
+00:00,06:00,woensdag,9,maart,2016,8,7,1020,3,140,78,Clear
+06:00,12:00,woensdag,9,maart,2016,21,7,1020,1,40,55,Sunny
+12:00,18:00,woensdag,9,maart,2016,24,21,1016,4,0,31,Sunny
+18:00,00:00,woensdag,9,maart,2016,22,21,1016,6,0,32,Clear
+00:00,06:00,donderdag,10,maart,2016,19,18,1016,10,240,45,Clear
+06:00,12:00,donderdag,10,maart,2016,23,18,1016,6,270,42,Sunny
+12:00,18:00,donderdag,10,maart,2016,26,24,1013,8,230,32,Sunny
+18:00,00:00,donderdag,10,maart,2016,24,20,1012,8,290,48,Mostly cloudy
+00:00,06:00,vrijdag,11,maart,2016,19,13,1013,5,0,80,Overcast
+06:00,12:00,vrijdag,11,maart,2016,15,13,1019,10,0,59,Scattered clouds
+12:00,18:00,vrijdag,11,maart,2016,17,15,1022,14,290,36,Sunny
+18:00,00:00,vrijdag,11,maart,2016,14,9,1026,9,350,44,Clear
+00:00,06:00,zaterdag,12,maart,2016,8,4,1028,8,0,51,Clear
+06:00,12:00,zaterdag,12,maart,2016,13,5,1026,4,0,46,Sunny
+12:00,18:00,zaterdag,12,maart,2016,14,13,1020,9,0,42,Sunny
+18:00,00:00,zaterdag,12,maart,2016,14,12,1017,11,0,52,Clear
+00:00,06:00,zondag,13,maart,2016,12,11,1015,5,270,58,Clear
+06:00,12:00,zondag,13,maart,2016,16,12,1017,6,30,41,Sunny
+12:00,18:00,zondag,13,maart,2016,17,16,1017,9,60,27,Sunny
+18:00,00:00,zondag,13,maart,2016,16,11,1019,5,0,41,Mostly cloudy
+00:00,06:00,maandag,14,maart,2016,11,9,1019,12,0,50,Overcast
+06:00,12:00,maandag,14,maart,2016,8,6,1020,18,60,74,Light rain
+06:00,12:00,maandag,14,maart,2016,8,6,1020,18,60,74,Overcast
+12:00,18:00,maandag,14,maart,2016,6,4,1018,28,70,84,Light rain
+12:00,18:00,maandag,14,maart,2016,6,4,1018,28,70,84,Fog
+18:00,00:00,maandag,14,maart,2016,7,6,1014,30,70,86,Fog
+00:00,06:00,dinsdag,15,maart,2016,7,7,1010,19,50,87,Low clouds
+06:00,12:00,dinsdag,15,maart,2016,10,7,1009,12,0,84,Overcast
+12:00,18:00,dinsdag,15,maart,2016,13,11,1008,4,0,68,Overcast
+18:00,00:00,dinsdag,15,maart,2016,13,11,1009,2,310,67,Sunny
+00:00,06:00,woensdag,16,maart,2016,12,9,1010,1,40,75,Clear
+06:00,12:00,woensdag,16,maart,2016,15,9,1011,4,40,67,Sunny
+12:00,18:00,woensdag,16,maart,2016,18,13,1009,8,170,52,Sunny
+18:00,00:00,woensdag,16,maart,2016,12,10,1010,8,0,73,Overcast
+00:00,06:00,donderdag,17,maart,2016,9,8,1012,7,90,78,Passing clouds
+06:00,12:00,donderdag,17,maart,2016,14,9,1011,9,270,68,Sunny
+12:00,18:00,donderdag,17,maart,2016,16,11,1008,10,0,40,Sunny
+18:00,00:00,donderdag,17,maart,2016,12,12,1009,7,0,47,Clear
+00:00,06:00,vrijdag,18,maart,2016,11,9,1009,7,0,44,Clear
+06:00,12:00,vrijdag,18,maart,2016,13,9,1009,19,290,33,Sunny
+12:00,18:00,vrijdag,18,maart,2016,13,12,1009,16,300,30,Broken clouds
+18:00,00:00,vrijdag,18,maart,2016,11,6,1013,9,0,41,Clear
+00:00,06:00,zaterdag,19,maart,2016,6,3,1017,9,350,46,Clear
+06:00,12:00,zaterdag,19,maart,2016,6,2,1020,7,0,42,Sunny
+12:00,18:00,zaterdag,19,maart,2016,8,7,1018,5,0,22,Scattered clouds
+18:00,00:00,zaterdag,19,maart,2016,8,4,1019,11,60,25,Clear
+00:00,06:00,zondag,20,maart,2016,4,1,1020,18,50,31,Clear
+06:00,12:00,zondag,20,maart,2016,2,0,1021,19,60,39,Partly sunny
+12:00,18:00,zondag,20,maart,2016,5,3,1018,15,70,49,Mostly cloudy
+18:00,00:00,zondag,20,maart,2016,4,1,1016,12,40,68,Light snow
+18:00,00:00,zondag,20,maart,2016,4,1,1016,12,40,68,Fog
+00:00,06:00,maandag,21,maart,2016,1,0,1012,7,0,87,Light snow
+00:00,06:00,maandag,21,maart,2016,1,0,1012,7,0,87,Ice fog
+06:00,12:00,maandag,21,maart,2016,7,0,1010,9,0,68,Passing clouds
+12:00,18:00,maandag,21,maart,2016,9,8,1009,14,0,24,Passing clouds
+18:00,00:00,maandag,21,maart,2016,7,3,1014,19,310,36,Clear
+00:00,06:00,dinsdag,22,maart,2016,3,2,1018,10,0,45,Clear
+06:00,12:00,dinsdag,22,maart,2016,7,2,1022,9,280,40,Sunny
+12:00,18:00,dinsdag,22,maart,2016,13,9,1018,12,0,26,Sunny
+18:00,00:00,dinsdag,22,maart,2016,12,9,1017,13,190,40,Clear
+00:00,06:00,woensdag,23,maart,2016,10,9,1014,11,240,49,Clear
+06:00,12:00,woensdag,23,maart,2016,16,10,1014,10,250,43,Sunny
+12:00,18:00,woensdag,23,maart,2016,22,17,1014,10,0,23,Sunny
+18:00,00:00,woensdag,23,maart,2016,21,12,1016,4,160,34,Clear
+00:00,06:00,donderdag,24,maart,2016,12,7,1018,15,60,65,Clear
+06:00,12:00,donderdag,24,maart,2016,9,7,1019,19,80,62,Sunny
+12:00,18:00,donderdag,24,maart,2016,12,9,1016,15,0,58,Overcast
+18:00,00:00,donderdag,24,maart,2016,8,7,1013,11,0,81,Low clouds
+00:00,06:00,vrijdag,25,maart,2016,11,8,1008,6,0,85,Fog
+06:00,12:00,vrijdag,25,maart,2016,19,11,1006,4,0,75,Overcast
+12:00,18:00,vrijdag,25,maart,2016,22,18,1007,6,260,55,Broken clouds
+18:00,00:00,vrijdag,25,maart,2016,20,9,1013,8,0,46,Clear
+00:00,06:00,zaterdag,26,maart,2016,7,4,1021,14,40,60,Clear
+06:00,12:00,zaterdag,26,maart,2016,9,3,1026,10,0,53,Sunny
+12:00,18:00,zaterdag,26,maart,2016,12,8,1027,10,0,48,Sunny
+18:00,00:00,zaterdag,26,maart,2016,7,6,1029,5,0,70,Passing clouds
+00:00,06:00,zondag,27,maart,2016,6,6,1029,10,110,72,Overcast
+06:00,12:00,zondag,27,maart,2016,11,6,1029,6,0,66,Overcast
+12:00,18:00,zondag,27,maart,2016,12,8,1026,5,0,55,Sunny
+18:00,00:00,zondag,27,maart,2016,7,7,1023,8,0,65,Overcast
+00:00,06:00,maandag,28,maart,2016,7,6,1016,15,70,78,Overcast
+06:00,12:00,maandag,28,maart,2016,7,6,1007,11,0,89,Light rain
+06:00,12:00,maandag,28,maart,2016,7,6,1007,11,0,89,Low clouds
+12:00,18:00,maandag,28,maart,2016,16,8,1001,7,40,70,Fog
+18:00,00:00,maandag,28,maart,2016,14,10,1002,25,280,45,Overcast
+00:00,06:00,dinsdag,29,maart,2016,9,7,1007,24,290,49,Passing clouds
+06:00,12:00,dinsdag,29,maart,2016,9,7,1013,17,300,38,Sunny
+12:00,18:00,dinsdag,29,maart,2016,11,10,1015,16,310,21,Sunny
+18:00,00:00,dinsdag,29,maart,2016,9,5,1021,15,310,23,Clear
+00:00,06:00,woensdag,30,maart,2016,4,3,1026,7,290,33,Clear
+06:00,12:00,woensdag,30,maart,2016,11,3,1028,2,60,29,Sunny
+12:00,18:00,woensdag,30,maart,2016,12,9,1025,10,0,32,Sunny
+18:00,00:00,woensdag,30,maart,2016,9,8,1022,12,190,47,Clear
+00:00,06:00,donderdag,31,maart,2016,11,10,1019,10,0,52,Clear
+06:00,12:00,donderdag,31,maart,2016,19,11,1016,13,0,55,Sunny
+12:00,18:00,donderdag,31,maart,2016,22,19,1012,11,0,43,Scattered clouds
+18:00,00:00,donderdag,31,maart,2016,18,17,1009,8,0,63,Sunny

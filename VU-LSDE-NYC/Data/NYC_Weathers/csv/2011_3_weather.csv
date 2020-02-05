@@ -1,0 +1,139 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,dinsdag,1,maart,2011,4,1,1016,14,290,48,Clear
+06:00,12:00,dinsdag,1,maart,2011,5,1,1024,13,330,36,Sunny
+12:00,18:00,dinsdag,1,maart,2011,7,6,1024,7,0,21,Sunny
+18:00,00:00,dinsdag,1,maart,2011,5,3,1025,9,0,35,Clear
+00:00,06:00,woensdag,2,maart,2011,4,2,1022,16,220,50,Clear
+06:00,12:00,woensdag,2,maart,2011,9,2,1019,15,210,51,Sunny
+12:00,18:00,woensdag,2,maart,2011,12,7,1016,19,240,30,Sunny
+18:00,00:00,woensdag,2,maart,2011,4,-3,1026,19,290,34,Clear
+00:00,06:00,donderdag,3,maart,2011,-4,-6,1032,11,0,45,Clear
+06:00,12:00,donderdag,3,maart,2011,-3,-7,1038,8,0,37,Sunny
+12:00,18:00,donderdag,3,maart,2011,0,-1,1037,8,0,23,Sunny
+18:00,00:00,donderdag,3,maart,2011,-1,-2,1039,9,0,26,Clear
+00:00,06:00,vrijdag,4,maart,2011,-2,-3,1039,9,60,33,Clear
+06:00,12:00,vrijdag,4,maart,2011,3,-2,1040,13,0,42,Sunny
+12:00,18:00,vrijdag,4,maart,2011,4,3,1037,15,160,58,Partly sunny
+18:00,00:00,vrijdag,4,maart,2011,5,3,1035,14,170,72,Overcast
+00:00,06:00,zaterdag,5,maart,2011,7,5,1032,11,160,81,Mostly cloudy
+06:00,12:00,zaterdag,5,maart,2011,15,7,1029,12,150,73,Overcast
+12:00,18:00,zaterdag,5,maart,2011,15,12,1026,21,170,62,Overcast
+18:00,00:00,zaterdag,5,maart,2011,12,11,1024,15,160,79,Overcast
+00:00,06:00,zondag,6,maart,2011,11,11,1019,12,0,83,Passing clouds
+06:00,12:00,zondag,6,maart,2011,12,10,1016,12,160,91,Light rain
+06:00,12:00,zondag,6,maart,2011,12,10,1016,12,160,91,Fog
+12:00,18:00,zondag,6,maart,2011,12,11,1012,11,160,92,Light rain
+12:00,18:00,zondag,6,maart,2011,12,11,1012,11,160,92,Fog
+18:00,00:00,zondag,6,maart,2011,12,11,1005,20,180,95,Rain
+18:00,00:00,zondag,6,maart,2011,12,11,1005,20,180,95,Fog
+00:00,06:00,maandag,7,maart,2011,12,2,999,15,160,93,Fog
+06:00,12:00,maandag,7,maart,2011,3,1,1010,19,290,64,Broken clouds
+12:00,18:00,maandag,7,maart,2011,7,5,1017,21,300,42,Sunny
+18:00,00:00,maandag,7,maart,2011,4,1,1025,11,0,48,Clear
+00:00,06:00,dinsdag,8,maart,2011,1,-1,1029,9,0,51,Clear
+06:00,12:00,dinsdag,8,maart,2011,6,-1,1033,11,0,42,Sunny
+12:00,18:00,dinsdag,8,maart,2011,8,7,1033,8,0,26,Sunny
+18:00,00:00,dinsdag,8,maart,2011,5,3,1035,2,0,53,Clear
+00:00,06:00,woensdag,9,maart,2011,2,1,1036,13,0,75,Clear
+06:00,12:00,woensdag,9,maart,2011,6,1,1037,19,50,64,Sunny
+12:00,18:00,woensdag,9,maart,2011,6,4,1034,19,100,62,Partly sunny
+18:00,00:00,woensdag,9,maart,2011,4,3,1032,19,100,74,Overcast
+00:00,06:00,donderdag,10,maart,2011,5,3,1028,19,80,83,Overcast
+06:00,12:00,donderdag,10,maart,2011,6,6,1025,18,60,85,Overcast
+12:00,18:00,donderdag,10,maart,2011,9,9,1018,14,100,90,Light rain
+12:00,18:00,donderdag,10,maart,2011,9,9,1018,14,100,90,Fog
+18:00,00:00,donderdag,10,maart,2011,12,9,1013,18,120,93,Light rain
+18:00,00:00,donderdag,10,maart,2011,12,9,1013,18,120,93,Fog
+00:00,06:00,vrijdag,11,maart,2011,12,9,1008,14,140,95,Rain
+00:00,06:00,vrijdag,11,maart,2011,12,9,1008,14,140,95,Fog
+06:00,12:00,vrijdag,11,maart,2011,12,9,1008,13,160,82,Partly sunny
+12:00,18:00,vrijdag,11,maart,2011,12,10,1008,14,260,54,Scattered clouds
+18:00,00:00,vrijdag,11,maart,2011,9,4,1010,15,240,54,Overcast
+00:00,06:00,zaterdag,12,maart,2011,4,3,1011,13,260,70,Passing clouds
+06:00,12:00,zaterdag,12,maart,2011,11,4,1011,13,250,56,Overcast
+12:00,18:00,zaterdag,12,maart,2011,13,11,1009,15,250,35,Sunny
+18:00,00:00,zaterdag,12,maart,2011,12,11,1010,12,0,43,Passing clouds
+00:00,06:00,zondag,13,maart,2011,11,8,1010,12,0,56,Passing clouds
+06:00,12:00,zondag,13,maart,2011,9,8,1014,17,280,42,Overcast
+12:00,18:00,zondag,13,maart,2011,9,8,1018,17,270,41,Overcast
+18:00,00:00,zondag,13,maart,2011,8,6,1022,16,290,52,Clear
+00:00,06:00,maandag,14,maart,2011,5,4,1023,7,270,61,Clear
+06:00,12:00,maandag,14,maart,2011,6,3,1026,11,0,57,Overcast
+12:00,18:00,maandag,14,maart,2011,7,6,1027,6,0,46,Overcast
+18:00,00:00,maandag,14,maart,2011,6,4,1029,10,0,53,Clear
+00:00,06:00,dinsdag,15,maart,2011,3,2,1031,4,30,59,Clear
+06:00,12:00,dinsdag,15,maart,2011,6,2,1032,7,0,69,Sunny
+12:00,18:00,dinsdag,15,maart,2011,7,6,1031,10,0,62,Passing clouds
+18:00,00:00,dinsdag,15,maart,2011,5,4,1030,11,130,72,Overcast
+00:00,06:00,woensdag,16,maart,2011,4,3,1025,11,60,77,Overcast
+06:00,12:00,woensdag,16,maart,2011,6,3,1020,13,60,95,Rain
+06:00,12:00,woensdag,16,maart,2011,6,3,1020,13,60,95,Fog
+12:00,18:00,woensdag,16,maart,2011,13,8,1016,0,0,68,Overcast
+18:00,00:00,woensdag,16,maart,2011,13,11,1017,0,0,61,Overcast
+00:00,06:00,donderdag,17,maart,2011,11,8,1019,2,0,69,Clear
+06:00,12:00,donderdag,17,maart,2011,14,7,1022,7,0,54,Sunny
+12:00,18:00,donderdag,17,maart,2011,17,15,1020,14,260,30,Sunny
+18:00,00:00,donderdag,17,maart,2011,14,13,1018,11,210,46,Clear
+00:00,06:00,vrijdag,18,maart,2011,13,11,1014,16,210,57,Clear
+06:00,12:00,vrijdag,18,maart,2011,19,11,1011,13,0,52,Sunny
+12:00,18:00,vrijdag,18,maart,2011,24,22,1009,18,280,33,Sunny
+18:00,00:00,vrijdag,18,maart,2011,21,16,1012,8,0,28,Passing clouds
+00:00,06:00,zaterdag,19,maart,2011,16,9,1016,13,0,42,Clear
+06:00,12:00,zaterdag,19,maart,2011,10,8,1022,15,280,44,Sunny
+12:00,18:00,zaterdag,19,maart,2011,9,8,1026,17,290,41,Partly sunny
+18:00,00:00,zaterdag,19,maart,2011,7,4,1030,11,0,44,Clear
+00:00,06:00,zondag,20,maart,2011,3,2,1034,10,0,47,Clear
+06:00,12:00,zondag,20,maart,2011,7,2,1037,11,30,41,Sunny
+12:00,18:00,zondag,20,maart,2011,9,7,1035,7,0,28,Sunny
+18:00,00:00,zondag,20,maart,2011,6,4,1034,13,150,58,Clear
+00:00,06:00,maandag,21,maart,2011,5,4,1030,11,0,68,Overcast
+06:00,12:00,maandag,21,maart,2011,4,2,1023,9,160,91,Rain
+06:00,12:00,maandag,21,maart,2011,4,2,1023,9,160,91,Fog
+12:00,18:00,maandag,21,maart,2011,5,4,1019,14,150,93,Fog
+18:00,00:00,maandag,21,maart,2011,7,6,1012,3,0,93,Fog
+00:00,06:00,dinsdag,22,maart,2011,7,4,1011,7,260,86,Passing clouds
+06:00,12:00,dinsdag,22,maart,2011,8,6,1013,17,300,57,Partly sunny
+12:00,18:00,dinsdag,22,maart,2011,9,9,1013,15,290,46,Overcast
+18:00,00:00,dinsdag,22,maart,2011,9,6,1016,11,0,50,Overcast
+00:00,06:00,woensdag,23,maart,2011,4,1,1015,4,70,85,Light snow
+00:00,06:00,woensdag,23,maart,2011,4,1,1015,4,70,85,Fog
+06:00,12:00,woensdag,23,maart,2011,2,2,1013,3,340,92,Light rain
+06:00,12:00,woensdag,23,maart,2011,2,2,1013,3,340,92,Fog
+12:00,18:00,woensdag,23,maart,2011,2,1,1007,14,70,92,Fog
+18:00,00:00,woensdag,23,maart,2011,1,1,1004,19,50,91,Light snow
+18:00,00:00,woensdag,23,maart,2011,1,1,1004,19,50,91,Fog
+00:00,06:00,donderdag,24,maart,2011,1,-1,1002,12,40,89,Light snow
+00:00,06:00,donderdag,24,maart,2011,1,-1,1002,12,40,89,Ice fog
+06:00,12:00,donderdag,24,maart,2011,2,-1,1005,9,0,80,Mostly cloudy
+12:00,18:00,donderdag,24,maart,2011,6,3,1006,12,0,50,Scattered clouds
+18:00,00:00,donderdag,24,maart,2011,6,2,1011,15,290,37,Clear
+00:00,06:00,vrijdag,25,maart,2011,1,-1,1013,11,0,50,Clear
+06:00,12:00,vrijdag,25,maart,2011,2,-2,1015,11,0,53,Sunny
+12:00,18:00,vrijdag,25,maart,2011,5,3,1012,11,0,32,Sunny
+18:00,00:00,vrijdag,25,maart,2011,3,-1,1014,13,0,37,Clear
+00:00,06:00,zaterdag,26,maart,2011,-1,-3,1016,12,0,46,Clear
+06:00,12:00,zaterdag,26,maart,2011,1,-3,1017,14,290,45,Sunny
+12:00,18:00,zaterdag,26,maart,2011,4,2,1015,17,270,27,Sunny
+18:00,00:00,zaterdag,26,maart,2011,3,-1,1016,13,290,34,Clear
+00:00,06:00,zondag,27,maart,2011,-1,-2,1016,11,0,44,Clear
+06:00,12:00,zondag,27,maart,2011,3,-2,1016,10,0,44,Sunny
+12:00,18:00,zondag,27,maart,2011,7,3,1012,16,290,26,Sunny
+18:00,00:00,zondag,27,maart,2011,4,0,1014,16,300,28,Clear
+00:00,06:00,maandag,28,maart,2011,-1,-3,1016,14,290,38,Clear
+06:00,12:00,maandag,28,maart,2011,2,-3,1016,16,260,37,Sunny
+12:00,18:00,maandag,28,maart,2011,7,5,1013,13,270,26,Sunny
+18:00,00:00,maandag,28,maart,2011,6,2,1015,18,290,28,Clear
+00:00,06:00,dinsdag,29,maart,2011,2,0,1017,13,0,40,Clear
+06:00,12:00,dinsdag,29,maart,2011,6,0,1019,11,0,40,Sunny
+12:00,18:00,dinsdag,29,maart,2011,9,7,1017,15,270,28,Sunny
+18:00,00:00,dinsdag,29,maart,2011,7,4,1020,14,0,42,Clear
+00:00,06:00,woensdag,30,maart,2011,4,3,1022,3,0,53,Clear
+06:00,12:00,woensdag,30,maart,2011,7,3,1022,5,280,47,Sunny
+12:00,18:00,woensdag,30,maart,2011,11,7,1018,10,160,37,Sunny
+18:00,00:00,woensdag,30,maart,2011,7,6,1016,9,0,50,Mostly cloudy
+00:00,06:00,donderdag,31,maart,2011,6,6,1012,8,0,65,Overcast
+06:00,12:00,donderdag,31,maart,2011,6,3,1012,17,50,79,Light rain
+06:00,12:00,donderdag,31,maart,2011,6,3,1012,17,50,79,Mostly cloudy
+12:00,18:00,donderdag,31,maart,2011,6,3,1010,21,60,75,Mostly cloudy
+18:00,00:00,donderdag,31,maart,2011,3,3,1006,22,60,88,Light rain
+18:00,00:00,donderdag,31,maart,2011,3,3,1006,22,60,88,Fog

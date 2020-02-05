@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Taxi Trip Market Share of 10 years</title>
+		<style type="text/css">
+		</style>
+	</head>
+	<body>
+	    <script src="../www/libs/highcharts/highcharts.js"></script>
+        <script src="../www/libs/highcharts/modules/series-label.js"></script>
+        <script src="../www/libs/highcharts/modules/exporting.js"></script>
+        <script src="../www/libs/highcharts/modules/export-data.js"></script>
+        <div id="container" style="width: 100%; height: 100%;"></div>
+<script type="text/javascript">
+Highcharts.chart('container', {
+    chart: {
+        type: 'area'
+    },
+    title: {
+        text: 'Taxi Trip Market Share of 10 years'
+    },
+    // subtitle: {
+    //     text: 'Source: Wikipedia.org'
+    // },
+
+    //xAxis: 10years, 2009-2019
+    xAxis: {
+        categories: ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018'],
+        tickmarkPlacement: 'on',
+        title: {
+            enabled: false
+        }
+    },
+
+    //yAxis: percentage of market share of 4 types of taxies
+    yAxis: {
+        labels: {
+            format: '{value}%'
+        },
+        title: {
+            enabled: false
+        }
+    },
+    tooltip: {
+        pointFormat: '<span style="color:{"series.color"}">{series.name}</span>: <b>{point.percentage:.1f}%</b> ({point.y:,.0f} millions)<br/>',
+        split: true
+    },
+    plotOptions: {
+        area: {
+            stacking: 'percent',
+            lineColor: '#ffffff',
+            lineWidth: 1,
+            marker: {
+                lineWidth: 1,
+                lineColor: '#ffffff'
+            }
+        }
+    },
+
+series: [{
+        name: 'Yellow Taxi',
+        data: [165.24, 162.67, 168.91, 171.55, 167.39, 159.76, 141.93, 128.44, 111.89, 101.29],
+        fillColor: 'rgba(136, 181, 231, 1)'
+    },{
+        name: 'Green Taxi',
+        data: [0, 0, 0, 0, 1.15, 15.35, 18.69, 15.96, 11.47, 8.61],
+        fillColor: 'rgba(67, 67, 72, 1)'
+    },{
+        name: 'FHV',
+        data: [0, 0, 0, 0, 0, 0, 63.86, 133.28, 192.28, 260.76],
+        fillColor: 'rgba(166, 234, 138, 1)'
+    }]
+});
+		</script>
+	</body>
+</html>

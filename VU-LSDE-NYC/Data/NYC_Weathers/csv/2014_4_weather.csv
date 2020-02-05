@@ -1,0 +1,131 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,dinsdag,1,april,2014,5,4,1019,12,0,54,Clear
+06:00,12:00,dinsdag,1,april,2014,10,4,1020,9,0,49,Sunny
+12:00,18:00,dinsdag,1,april,2014,15,12,1017,5,240,35,Sunny
+18:00,00:00,dinsdag,1,april,2014,11,8,1018,6,0,51,Clear
+00:00,06:00,woensdag,2,april,2014,7,6,1018,5,150,66,Clear
+06:00,12:00,woensdag,2,april,2014,9,6,1020,2,0,70,Overcast
+12:00,18:00,woensdag,2,april,2014,12,9,1018,3,0,64,Overcast
+18:00,00:00,woensdag,2,april,2014,11,11,1018,2,240,67,Clear
+00:00,06:00,donderdag,3,april,2014,10,9,1019,5,290,68,Clear
+06:00,12:00,donderdag,3,april,2014,14,8,1020,6,0,42,Sunny
+12:00,18:00,donderdag,3,april,2014,19,14,1017,5,180,20,Sunny
+18:00,00:00,donderdag,3,april,2014,14,8,1017,7,0,45,Sunny
+00:00,06:00,vrijdag,4,april,2014,8,6,1018,7,0,77,Light rain
+00:00,06:00,vrijdag,4,april,2014,8,6,1018,7,0,77,Overcast
+06:00,12:00,vrijdag,4,april,2014,7,6,1018,14,110,73,Overcast
+12:00,18:00,vrijdag,4,april,2014,6,5,1014,17,120,75,Overcast
+18:00,00:00,vrijdag,4,april,2014,5,4,1010,11,0,89,Fog
+00:00,06:00,zaterdag,5,april,2014,5,4,1007,8,80,88,Mostly cloudy
+06:00,12:00,zaterdag,5,april,2014,11,6,1009,18,290,63,Sunny
+12:00,18:00,zaterdag,5,april,2014,12,10,1011,17,290,38,Overcast
+18:00,00:00,zaterdag,5,april,2014,10,5,1016,11,0,41,Clear
+00:00,06:00,zondag,6,april,2014,4,3,1019,10,0,50,Clear
+06:00,12:00,zondag,6,april,2014,9,2,1022,8,0,43,Sunny
+12:00,18:00,zondag,6,april,2014,16,10,1021,4,0,21,Sunny
+18:00,00:00,zondag,6,april,2014,12,8,1022,4,0,42,Clear
+00:00,06:00,maandag,7,april,2014,8,7,1022,4,260,52,Clear
+06:00,12:00,maandag,7,april,2014,10,7,1022,8,120,55,Sunny
+12:00,18:00,maandag,7,april,2014,11,8,1017,11,0,56,Scattered clouds
+18:00,00:00,maandag,7,april,2014,7,6,1010,14,90,91,Light rain
+18:00,00:00,maandag,7,april,2014,7,6,1010,14,90,91,Fog
+00:00,06:00,dinsdag,8,april,2014,9,7,1001,6,0,92,Fog
+06:00,12:00,dinsdag,8,april,2014,16,9,997,5,30,87,Fog
+12:00,18:00,dinsdag,8,april,2014,18,16,997,14,250,45,Partly sunny
+18:00,00:00,dinsdag,8,april,2014,15,10,1002,15,310,44,Sunny
+00:00,06:00,woensdag,9,april,2014,9,7,1004,8,310,56,Clear
+06:00,12:00,woensdag,9,april,2014,14,7,1006,11,290,50,Sunny
+12:00,18:00,woensdag,9,april,2014,15,14,1007,14,300,26,Passing clouds
+18:00,00:00,woensdag,9,april,2014,13,8,1014,11,0,26,Clear
+00:00,06:00,donderdag,10,april,2014,8,6,1019,6,0,28,Clear
+06:00,12:00,donderdag,10,april,2014,13,7,1022,9,260,27,Sunny
+12:00,18:00,donderdag,10,april,2014,14,13,1020,17,180,30,Sunny
+18:00,00:00,donderdag,10,april,2014,14,13,1018,11,190,40,Clear
+00:00,06:00,vrijdag,11,april,2014,14,13,1015,9,0,41,Clear
+06:00,12:00,vrijdag,11,april,2014,20,14,1016,11,250,42,Sunny
+12:00,18:00,vrijdag,11,april,2014,23,20,1014,12,0,35,Sunny
+18:00,00:00,vrijdag,11,april,2014,19,15,1016,6,0,57,Passing clouds
+00:00,06:00,zaterdag,12,april,2014,14,11,1018,7,300,76,Passing clouds
+06:00,12:00,zaterdag,12,april,2014,18,11,1023,3,0,55,Sunny
+12:00,18:00,zaterdag,12,april,2014,23,18,1021,6,270,24,Sunny
+18:00,00:00,zaterdag,12,april,2014,17,15,1022,11,180,32,Clear
+00:00,06:00,zondag,13,april,2014,14,13,1022,5,0,44,Clear
+06:00,12:00,zondag,13,april,2014,19,12,1021,11,180,69,Passing clouds
+12:00,18:00,zondag,13,april,2014,24,21,1017,10,180,46,Sunny
+18:00,00:00,zondag,13,april,2014,23,19,1016,12,190,53,Clear
+00:00,06:00,maandag,14,april,2014,19,17,1016,6,0,70,Clear
+06:00,12:00,maandag,14,april,2014,23,17,1016,9,190,63,Sunny
+12:00,18:00,maandag,14,april,2014,23,21,1013,13,180,48,Sunny
+18:00,00:00,maandag,14,april,2014,19,16,1012,13,190,66,Clear
+00:00,06:00,dinsdag,15,april,2014,16,14,1009,11,150,85,Passing clouds
+06:00,12:00,dinsdag,15,april,2014,16,15,1006,11,180,90,Light rain
+06:00,12:00,dinsdag,15,april,2014,16,15,1006,11,180,90,Fog
+12:00,18:00,dinsdag,15,april,2014,17,11,1001,14,190,88,Fog
+18:00,00:00,dinsdag,15,april,2014,8,1,1010,19,310,85,Rain
+18:00,00:00,dinsdag,15,april,2014,8,1,1010,19,310,85,Overcast
+00:00,06:00,woensdag,16,april,2014,2,0,1016,16,310,69,Passing clouds
+06:00,12:00,woensdag,16,april,2014,5,0,1026,11,0,46,Sunny
+12:00,18:00,woensdag,16,april,2014,9,6,1030,5,0,30,Sunny
+18:00,00:00,woensdag,16,april,2014,8,4,1033,15,10,32,Clear
+00:00,06:00,donderdag,17,april,2014,4,2,1037,14,70,44,Clear
+06:00,12:00,donderdag,17,april,2014,7,2,1040,18,70,50,Sunny
+12:00,18:00,donderdag,17,april,2014,9,8,1039,8,70,45,Overcast
+18:00,00:00,donderdag,17,april,2014,7,4,1037,7,0,62,Clear
+00:00,06:00,vrijdag,18,april,2014,3,2,1035,12,70,66,Overcast
+06:00,12:00,vrijdag,18,april,2014,6,2,1034,11,110,62,Partly sunny
+12:00,18:00,vrijdag,18,april,2014,9,7,1029,7,80,50,Sunny
+18:00,00:00,vrijdag,18,april,2014,8,6,1026,3,0,62,Clear
+00:00,06:00,zaterdag,19,april,2014,7,6,1024,4,270,68,Clear
+06:00,12:00,zaterdag,19,april,2014,17,7,1025,6,0,46,Sunny
+12:00,18:00,zaterdag,19,april,2014,19,17,1024,12,0,20,Sunny
+18:00,00:00,zaterdag,19,april,2014,18,12,1026,12,50,24,Clear
+00:00,06:00,zondag,20,april,2014,12,8,1029,16,70,46,Clear
+06:00,12:00,zondag,20,april,2014,13,8,1032,14,70,41,Sunny
+12:00,18:00,zondag,20,april,2014,14,11,1031,7,0,34,Sunny
+18:00,00:00,zondag,20,april,2014,11,8,1029,6,0,39,Clear
+00:00,06:00,maandag,21,april,2014,8,6,1025,6,50,46,Clear
+06:00,12:00,maandag,21,april,2014,15,6,1022,5,40,45,Sunny
+12:00,18:00,maandag,21,april,2014,18,16,1017,9,160,27,Sunny
+18:00,00:00,maandag,21,april,2014,14,11,1013,7,170,57,Clear
+00:00,06:00,dinsdag,22,april,2014,12,11,1009,6,0,69,Clear
+06:00,12:00,dinsdag,22,april,2014,19,11,1006,11,0,62,Sunny
+12:00,18:00,dinsdag,22,april,2014,22,19,1001,8,180,46,Sunny
+18:00,00:00,dinsdag,22,april,2014,19,17,1000,9,260,62,Passing clouds
+00:00,06:00,woensdag,23,april,2014,16,11,999,9,0,62,Mostly cloudy
+06:00,12:00,woensdag,23,april,2014,11,10,1002,14,0,52,Overcast
+12:00,18:00,woensdag,23,april,2014,15,13,1003,15,300,41,Overcast
+18:00,00:00,woensdag,23,april,2014,11,7,1009,12,310,50,Partly sunny
+00:00,06:00,donderdag,24,april,2014,7,6,1011,11,0,48,Clear
+06:00,12:00,donderdag,24,april,2014,13,6,1013,14,310,27,Sunny
+12:00,18:00,donderdag,24,april,2014,16,14,1012,15,310,14,Sunny
+18:00,00:00,donderdag,24,april,2014,16,11,1015,11,310,18,Clear
+00:00,06:00,vrijdag,25,april,2014,9,8,1016,4,0,31,Clear
+06:00,12:00,vrijdag,25,april,2014,15,8,1017,6,0,28,Sunny
+12:00,18:00,vrijdag,25,april,2014,16,12,1013,7,0,26,Sunny
+18:00,00:00,vrijdag,25,april,2014,11,10,1010,9,0,52,Mostly cloudy
+00:00,06:00,zaterdag,26,april,2014,9,8,1007,10,60,88,Light rain
+00:00,06:00,zaterdag,26,april,2014,9,8,1007,10,60,88,Overcast
+06:00,12:00,zaterdag,26,april,2014,15,8,1008,7,0,74,Broken clouds
+12:00,18:00,zaterdag,26,april,2014,19,12,1007,9,0,52,Scattered clouds
+18:00,00:00,zaterdag,26,april,2014,11,10,1010,9,0,80,Light rain
+18:00,00:00,zaterdag,26,april,2014,11,10,1010,9,0,80,Mostly cloudy
+00:00,06:00,zondag,27,april,2014,11,8,1012,11,320,59,Clear
+06:00,12:00,zondag,27,april,2014,13,8,1015,6,0,50,Sunny
+12:00,18:00,zondag,27,april,2014,14,13,1016,9,300,39,Overcast
+18:00,00:00,zondag,27,april,2014,13,11,1019,8,0,45,Overcast
+00:00,06:00,maandag,28,april,2014,10,8,1019,6,20,61,Clear
+06:00,12:00,maandag,28,april,2014,14,8,1019,5,350,50,Sunny
+12:00,18:00,maandag,28,april,2014,18,16,1017,6,0,28,Sunny
+18:00,00:00,maandag,28,april,2014,16,12,1018,7,170,43,Clear
+00:00,06:00,dinsdag,29,april,2014,11,10,1022,10,0,60,Overcast
+06:00,12:00,dinsdag,29,april,2014,9,8,1027,17,110,64,Overcast
+12:00,18:00,dinsdag,29,april,2014,10,8,1028,13,110,68,Overcast
+18:00,00:00,dinsdag,29,april,2014,7,6,1029,16,90,76,Overcast
+00:00,06:00,woensdag,30,april,2014,6,5,1028,16,70,86,Rain
+00:00,06:00,woensdag,30,april,2014,6,5,1028,16,70,86,Fog
+06:00,12:00,woensdag,30,april,2014,8,6,1027,15,80,90,Light rain
+06:00,12:00,woensdag,30,april,2014,8,6,1027,15,80,90,Fog
+12:00,18:00,woensdag,30,april,2014,8,7,1024,13,80,92,Heavy rain
+12:00,18:00,woensdag,30,april,2014,8,7,1024,13,80,92,Fog
+18:00,00:00,woensdag,30,april,2014,10,8,1019,10,0,93,Heavy rain
+18:00,00:00,woensdag,30,april,2014,10,8,1019,10,0,93,Fog

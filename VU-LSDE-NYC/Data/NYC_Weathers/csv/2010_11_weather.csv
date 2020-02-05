@@ -1,0 +1,124 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,maandag,1,november,2010,6,3,1023,8,0,56,Clear
+06:00,12:00,maandag,1,november,2010,6,3,1026,10,0,52,Sunny
+12:00,18:00,maandag,1,november,2010,8,8,1026,9,0,40,Sunny
+18:00,00:00,maandag,1,november,2010,8,4,1029,9,0,53,Clear
+00:00,06:00,dinsdag,2,november,2010,4,3,1031,9,0,64,Clear
+06:00,12:00,dinsdag,2,november,2010,7,3,1032,8,0,56,Sunny
+12:00,18:00,dinsdag,2,november,2010,10,8,1029,5,0,39,Sunny
+18:00,00:00,dinsdag,2,november,2010,7,7,1028,0,0,49,Clear
+00:00,06:00,woensdag,3,november,2010,7,6,1026,5,0,62,Clear
+06:00,12:00,woensdag,3,november,2010,10,5,1024,3,0,62,Sunny
+12:00,18:00,woensdag,3,november,2010,12,9,1019,8,0,52,Scattered clouds
+18:00,00:00,woensdag,3,november,2010,10,8,1016,9,0,68,Passing clouds
+00:00,06:00,donderdag,4,november,2010,10,9,1013,6,0,76,Overcast
+06:00,12:00,donderdag,4,november,2010,9,8,1008,19,60,94,Light rain
+06:00,12:00,donderdag,4,november,2010,9,8,1008,19,60,94,Fog
+12:00,18:00,donderdag,4,november,2010,9,8,999,13,0,93,Fog
+18:00,00:00,donderdag,4,november,2010,10,9,997,7,0,95,Fog
+00:00,06:00,vrijdag,5,november,2010,8,8,995,8,0,93,Fog
+06:00,12:00,vrijdag,5,november,2010,9,8,997,7,0,88,More clouds than sun
+12:00,18:00,vrijdag,5,november,2010,11,9,1001,9,280,69,Overcast
+18:00,00:00,vrijdag,5,november,2010,9,8,1009,10,0,69,Clear
+00:00,06:00,zaterdag,6,november,2010,7,6,1014,6,0,66,Clear
+06:00,12:00,zaterdag,6,november,2010,9,5,1019,10,350,65,Sunny
+12:00,18:00,zaterdag,6,november,2010,10,9,1020,10,0,52,Overcast
+18:00,00:00,zaterdag,6,november,2010,8,6,1024,9,0,60,Clear
+00:00,06:00,zondag,7,november,2010,6,3,1025,9,0,70,Clear
+06:00,12:00,zondag,7,november,2010,8,2,1025,6,0,57,Sunny
+12:00,18:00,zondag,7,november,2010,10,8,1019,12,0,38,Sunny
+18:00,00:00,zondag,7,november,2010,8,5,1016,16,290,51,Clear
+00:00,06:00,maandag,8,november,2010,6,4,1009,18,290,56,Clear
+06:00,12:00,maandag,8,november,2010,7,5,1003,20,280,54,Partly sunny
+12:00,18:00,maandag,8,november,2010,7,6,1003,14,340,67,Overcast
+18:00,00:00,maandag,8,november,2010,6,6,1006,14,0,66,Clear
+00:00,06:00,dinsdag,9,november,2010,6,5,1009,13,290,74,Clear
+06:00,12:00,dinsdag,9,november,2010,12,5,1012,12,0,67,Sunny
+12:00,18:00,dinsdag,9,november,2010,12,11,1012,16,340,59,Sunny
+18:00,00:00,dinsdag,9,november,2010,11,9,1014,12,0,70,Mostly cloudy
+00:00,06:00,woensdag,10,november,2010,9,9,1015,12,0,70,Passing clouds
+06:00,12:00,woensdag,10,november,2010,12,9,1017,12,10,62,Overcast
+12:00,18:00,woensdag,10,november,2010,13,10,1019,13,10,44,Sunny
+18:00,00:00,woensdag,10,november,2010,9,8,1022,11,0,48,Clear
+00:00,06:00,donderdag,11,november,2010,7,6,1025,12,10,59,Clear
+06:00,12:00,donderdag,11,november,2010,11,6,1029,15,40,45,Sunny
+12:00,18:00,donderdag,11,november,2010,13,12,1029,9,0,30,Sunny
+18:00,00:00,donderdag,11,november,2010,11,9,1030,8,0,32,Clear
+00:00,06:00,vrijdag,12,november,2010,9,7,1030,11,0,36,Clear
+06:00,12:00,vrijdag,12,november,2010,15,7,1030,11,0,28,Sunny
+12:00,18:00,vrijdag,12,november,2010,16,13,1027,7,0,16,Sunny
+18:00,00:00,vrijdag,12,november,2010,13,12,1027,9,0,24,Clear
+00:00,06:00,zaterdag,13,november,2010,11,8,1025,7,0,39,Clear
+06:00,12:00,zaterdag,13,november,2010,16,8,1024,8,0,38,Sunny
+12:00,18:00,zaterdag,13,november,2010,17,15,1020,5,0,31,Sunny
+18:00,00:00,zaterdag,13,november,2010,13,11,1020,1,280,44,Clear
+00:00,06:00,zondag,14,november,2010,11,8,1019,1,10,64,Clear
+06:00,12:00,zondag,14,november,2010,15,8,1020,5,0,62,Sunny
+12:00,18:00,zondag,14,november,2010,16,12,1018,8,90,56,Sunny
+18:00,00:00,zondag,14,november,2010,11,11,1018,9,0,82,Clear
+00:00,06:00,maandag,15,november,2010,11,10,1017,9,0,86,Mostly cloudy
+06:00,12:00,maandag,15,november,2010,14,11,1017,10,0,82,Overcast
+12:00,18:00,maandag,15,november,2010,14,12,1016,8,50,76,Mostly cloudy
+18:00,00:00,maandag,15,november,2010,12,12,1017,7,0,82,Mostly cloudy
+00:00,06:00,dinsdag,16,november,2010,12,11,1018,4,70,89,Overcast
+06:00,12:00,dinsdag,16,november,2010,13,11,1018,10,0,91,Fog
+12:00,18:00,dinsdag,16,november,2010,13,12,1015,12,100,80,Overcast
+18:00,00:00,dinsdag,16,november,2010,15,13,1010,15,120,91,Low clouds
+00:00,06:00,woensdag,17,november,2010,16,15,1001,13,150,91,Passing clouds
+06:00,12:00,woensdag,17,november,2010,15,14,1000,17,0,65,Scattered clouds
+12:00,18:00,woensdag,17,november,2010,15,12,1004,19,270,45,Partly sunny
+18:00,00:00,woensdag,17,november,2010,12,11,1011,18,270,47,Passing clouds
+00:00,06:00,donderdag,18,november,2010,10,8,1016,14,260,52,Clear
+06:00,12:00,donderdag,18,november,2010,12,8,1018,9,0,58,Sunny
+12:00,18:00,donderdag,18,november,2010,13,11,1016,12,0,46,Overcast
+18:00,00:00,donderdag,18,november,2010,11,7,1018,12,270,64,Overcast
+00:00,06:00,vrijdag,19,november,2010,7,5,1021,9,0,68,Clear
+06:00,12:00,vrijdag,19,november,2010,8,5,1024,14,290,52,Sunny
+12:00,18:00,vrijdag,19,november,2010,9,7,1023,10,0,41,Sunny
+18:00,00:00,vrijdag,19,november,2010,6,5,1023,5,0,47,Clear
+00:00,06:00,zaterdag,20,november,2010,7,6,1021,14,0,58,Clear
+06:00,12:00,zaterdag,20,november,2010,11,5,1020,12,0,60,Sunny
+12:00,18:00,zaterdag,20,november,2010,12,11,1019,13,250,48,Sunny
+18:00,00:00,zaterdag,20,november,2010,11,7,1024,11,0,51,Clear
+00:00,06:00,zondag,21,november,2010,6,4,1029,7,0,51,Clear
+06:00,12:00,zondag,21,november,2010,8,4,1032,14,50,44,Sunny
+12:00,18:00,zondag,21,november,2010,9,7,1032,10,100,45,Sunny
+18:00,00:00,zondag,21,november,2010,7,7,1032,8,0,68,Passing clouds
+00:00,06:00,maandag,22,november,2010,9,8,1030,5,50,82,Mostly cloudy
+06:00,12:00,maandag,22,november,2010,17,9,1027,10,0,77,Overcast
+12:00,18:00,maandag,22,november,2010,18,17,1022,11,0,54,Sunny
+18:00,00:00,maandag,22,november,2010,16,13,1020,13,0,67,Clear
+00:00,06:00,dinsdag,23,november,2010,13,12,1017,10,0,80,Clear
+06:00,12:00,dinsdag,23,november,2010,15,12,1013,13,240,75,Sunny
+12:00,18:00,dinsdag,23,november,2010,16,15,1010,9,0,65,Sunny
+18:00,00:00,dinsdag,23,november,2010,16,10,1011,14,0,55,Clear
+00:00,06:00,woensdag,24,november,2010,9,5,1016,19,290,45,Clear
+06:00,12:00,woensdag,24,november,2010,8,5,1021,17,290,43,Sunny
+12:00,18:00,woensdag,24,november,2010,9,8,1021,16,290,26,Sunny
+18:00,00:00,woensdag,24,november,2010,7,5,1022,10,0,30,Clear
+00:00,06:00,donderdag,25,november,2010,4,4,1023,6,0,36,Overcast
+06:00,12:00,donderdag,25,november,2010,6,4,1022,4,0,37,Passing clouds
+12:00,18:00,donderdag,25,november,2010,6,4,1019,3,280,78,Broken clouds
+18:00,00:00,donderdag,25,november,2010,8,4,1013,12,130,83,Mostly cloudy
+00:00,06:00,vrijdag,26,november,2010,11,7,1005,8,60,97,Light rain
+00:00,06:00,vrijdag,26,november,2010,11,7,1005,8,60,97,Fog
+06:00,12:00,vrijdag,26,november,2010,11,10,1002,15,0,84,Mostly cloudy
+12:00,18:00,vrijdag,26,november,2010,10,7,1002,16,270,51,Sunny
+18:00,00:00,vrijdag,26,november,2010,7,3,1005,8,0,50,Clear
+00:00,06:00,zaterdag,27,november,2010,3,2,1005,14,280,50,Clear
+06:00,12:00,zaterdag,27,november,2010,5,1,1007,16,250,48,Sunny
+12:00,18:00,zaterdag,27,november,2010,6,5,1009,20,270,44,Partly sunny
+18:00,00:00,zaterdag,27,november,2010,5,4,1016,12,0,46,Passing clouds
+00:00,06:00,zondag,28,november,2010,3,2,1021,11,290,48,Clear
+06:00,12:00,zondag,28,november,2010,6,1,1026,7,0,49,Sunny
+12:00,18:00,zondag,28,november,2010,8,7,1027,7,0,41,Sunny
+18:00,00:00,zondag,28,november,2010,6,4,1030,4,0,49,Clear
+00:00,06:00,maandag,29,november,2010,4,2,1032,1,270,61,Clear
+06:00,12:00,maandag,29,november,2010,7,2,1034,4,260,61,Sunny
+12:00,18:00,maandag,29,november,2010,9,7,1033,9,0,48,Sunny
+18:00,00:00,maandag,29,november,2010,7,6,1032,3,150,68,Clear
+00:00,06:00,dinsdag,30,november,2010,9,7,1031,7,40,76,Overcast
+06:00,12:00,dinsdag,30,november,2010,12,10,1029,11,0,75,Mostly cloudy
+12:00,18:00,dinsdag,30,november,2010,12,11,1026,13,0,86,Light rain
+12:00,18:00,dinsdag,30,november,2010,12,11,1026,13,0,86,Fog
+18:00,00:00,dinsdag,30,november,2010,14,12,1022,15,130,83,Overcast

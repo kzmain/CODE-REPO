@@ -1,0 +1,124 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,vrijdag,1,september,2017,18,14,1017,9,0,57,Clear
+06:00,12:00,vrijdag,1,september,2017,19,13,1020,3,0,48,Sunny
+12:00,18:00,vrijdag,1,september,2017,21,19,1019,9,0,30,Sunny
+18:00,00:00,vrijdag,1,september,2017,20,17,1021,7,0,44,Clear
+00:00,06:00,zaterdag,2,september,2017,17,13,1023,10,0,53,Clear
+06:00,12:00,zaterdag,2,september,2017,18,12,1024,7,70,61,Sunny
+12:00,18:00,zaterdag,2,september,2017,19,18,1022,7,0,54,Sunny
+18:00,00:00,zaterdag,2,september,2017,18,14,1021,9,0,91,Light rain
+18:00,00:00,zaterdag,2,september,2017,18,14,1021,9,0,91,Fog
+00:00,06:00,zondag,3,september,2017,16,15,1017,9,0,95,Light rain
+00:00,06:00,zondag,3,september,2017,16,15,1017,9,0,95,Fog
+06:00,12:00,zondag,3,september,2017,18,16,1013,9,100,97,Fog
+12:00,18:00,zondag,3,september,2017,21,17,1012,7,0,88,Broken clouds
+18:00,00:00,zondag,3,september,2017,20,18,1012,8,0,76,Passing clouds
+00:00,06:00,maandag,4,september,2017,18,17,1014,10,270,80,Clear
+06:00,12:00,maandag,4,september,2017,24,17,1015,5,0,70,Sunny
+12:00,18:00,maandag,4,september,2017,26,25,1013,7,0,48,Sunny
+18:00,00:00,maandag,4,september,2017,24,22,1011,7,0,58,Clear
+00:00,06:00,dinsdag,5,september,2017,22,21,1010,7,0,76,Clear
+06:00,12:00,dinsdag,5,september,2017,27,21,1009,8,0,74,Passing clouds
+12:00,18:00,dinsdag,5,september,2017,29,28,1007,6,0,60,Passing clouds
+18:00,00:00,dinsdag,5,september,2017,26,22,1009,0,0,75,Passing clouds
+00:00,06:00,woensdag,6,september,2017,23,21,1010,2,0,75,Passing clouds
+06:00,12:00,woensdag,6,september,2017,21,18,1012,6,0,88,Fog
+12:00,18:00,woensdag,6,september,2017,18,17,1012,10,0,86,Overcast
+18:00,00:00,woensdag,6,september,2017,18,17,1012,4,0,92,Light rain
+18:00,00:00,woensdag,6,september,2017,18,17,1012,4,0,92,Fog
+00:00,06:00,donderdag,7,september,2017,17,16,1011,6,0,95,Passing clouds
+06:00,12:00,donderdag,7,september,2017,19,15,1012,9,0,83,Partly sunny
+12:00,18:00,donderdag,7,september,2017,22,21,1012,7,0,60,Broken clouds
+18:00,00:00,donderdag,7,september,2017,21,17,1015,4,260,56,Clear
+00:00,06:00,vrijdag,8,september,2017,18,15,1017,1,0,68,Clear
+06:00,12:00,vrijdag,8,september,2017,21,15,1019,6,0,63,Sunny
+12:00,18:00,vrijdag,8,september,2017,21,20,1019,4,0,48,Scattered clouds
+18:00,00:00,vrijdag,8,september,2017,20,16,1021,8,0,58,Clear
+00:00,06:00,zaterdag,9,september,2017,16,13,1023,6,0,74,Clear
+06:00,12:00,zaterdag,9,september,2017,19,13,1025,4,0,65,Sunny
+12:00,18:00,zaterdag,9,september,2017,21,18,1024,12,0,50,Partly sunny
+18:00,00:00,zaterdag,9,september,2017,18,15,1025,5,0,61,Clear
+00:00,06:00,zondag,10,september,2017,15,14,1026,6,0,77,Clear
+06:00,12:00,zondag,10,september,2017,21,14,1028,14,10,65,Sunny
+12:00,18:00,zondag,10,september,2017,22,21,1027,12,60,44,Sunny
+18:00,00:00,zondag,10,september,2017,20,17,1028,4,50,53,Clear
+00:00,06:00,maandag,11,september,2017,17,13,1027,3,0,70,Clear
+06:00,12:00,maandag,11,september,2017,21,13,1027,4,0,65,Sunny
+12:00,18:00,maandag,11,september,2017,24,23,1023,3,270,37,Sunny
+18:00,00:00,maandag,11,september,2017,22,19,1021,3,30,48,Clear
+00:00,06:00,dinsdag,12,september,2017,18,16,1019,0,0,72,Clear
+06:00,12:00,dinsdag,12,september,2017,23,16,1017,4,0,71,Sunny
+12:00,18:00,dinsdag,12,september,2017,26,24,1015,1,0,45,Sunny
+18:00,00:00,dinsdag,12,september,2017,24,21,1013,4,250,56,Clear
+00:00,06:00,woensdag,13,september,2017,21,18,1013,1,270,73,Clear
+06:00,12:00,woensdag,13,september,2017,26,18,1013,2,260,62,Sunny
+12:00,18:00,woensdag,13,september,2017,28,22,1012,5,240,73,Mostly cloudy
+18:00,00:00,woensdag,13,september,2017,23,22,1012,6,0,90,Mostly cloudy
+00:00,06:00,donderdag,14,september,2017,22,22,1011,1,0,90,Overcast
+06:00,12:00,donderdag,14,september,2017,25,21,1012,1,260,85,Broken clouds
+12:00,18:00,donderdag,14,september,2017,27,23,1011,5,0,69,Partly sunny
+18:00,00:00,donderdag,14,september,2017,26,23,1013,4,0,65,Passing clouds
+00:00,06:00,vrijdag,15,september,2017,23,21,1014,4,0,76,Clear
+06:00,12:00,vrijdag,15,september,2017,25,19,1017,2,280,74,Sunny
+12:00,18:00,vrijdag,15,september,2017,27,24,1017,5,0,60,Passing clouds
+18:00,00:00,vrijdag,15,september,2017,24,23,1019,0,0,74,Mostly cloudy
+00:00,06:00,zaterdag,16,september,2017,22,21,1019,2,40,91,Fog
+06:00,12:00,zaterdag,16,september,2017,26,21,1021,7,60,85,Fog
+12:00,18:00,zaterdag,16,september,2017,28,24,1021,7,0,67,Sunny
+18:00,00:00,zaterdag,16,september,2017,23,22,1021,3,160,85,Clear
+00:00,06:00,zondag,17,september,2017,22,21,1021,0,0,92,Fog
+06:00,12:00,zondag,17,september,2017,24,21,1022,4,90,82,Fog
+12:00,18:00,zondag,17,september,2017,27,24,1020,8,60,65,Mostly cloudy
+18:00,00:00,zondag,17,september,2017,23,21,1020,3,0,85,Fog
+00:00,06:00,maandag,18,september,2017,21,21,1020,8,60,85,Overcast
+06:00,12:00,maandag,18,september,2017,22,21,1021,9,0,86,Overcast
+12:00,18:00,maandag,18,september,2017,23,22,1019,12,0,80,Overcast
+18:00,00:00,maandag,18,september,2017,23,22,1019,12,70,82,Overcast
+00:00,06:00,dinsdag,19,september,2017,22,22,1017,13,60,84,Overcast
+06:00,12:00,dinsdag,19,september,2017,24,22,1016,15,70,75,Overcast
+12:00,18:00,dinsdag,19,september,2017,25,21,1013,15,60,79,Overcast
+18:00,00:00,dinsdag,19,september,2017,22,21,1012,17,50,82,Overcast
+00:00,06:00,woensdag,20,september,2017,23,22,1010,14,0,75,Overcast
+06:00,12:00,woensdag,20,september,2017,24,22,1012,13,0,73,Partly sunny
+12:00,18:00,woensdag,20,september,2017,26,26,1012,12,0,63,Scattered clouds
+18:00,00:00,woensdag,20,september,2017,26,23,1013,7,0,64,Clear
+00:00,06:00,donderdag,21,september,2017,23,22,1014,7,350,74,Clear
+06:00,12:00,donderdag,21,september,2017,26,22,1016,7,0,71,Sunny
+12:00,18:00,donderdag,21,september,2017,27,26,1016,9,0,56,Sunny
+18:00,00:00,donderdag,21,september,2017,25,23,1016,9,0,64,Clear
+00:00,06:00,vrijdag,22,september,2017,23,20,1016,12,0,51,Clear
+06:00,12:00,vrijdag,22,september,2017,26,19,1016,9,0,48,Sunny
+12:00,18:00,vrijdag,22,september,2017,28,26,1014,13,0,42,Sunny
+18:00,00:00,vrijdag,22,september,2017,26,23,1015,12,0,48,Clear
+00:00,06:00,zaterdag,23,september,2017,23,21,1016,8,0,57,Clear
+06:00,12:00,zaterdag,23,september,2017,27,20,1017,8,0,52,Sunny
+12:00,18:00,zaterdag,23,september,2017,30,29,1016,13,40,29,Sunny
+18:00,00:00,zaterdag,23,september,2017,28,24,1017,2,350,41,Clear
+00:00,06:00,zondag,24,september,2017,23,21,1017,1,280,65,Clear
+06:00,12:00,zondag,24,september,2017,30,21,1018,4,0,62,Sunny
+12:00,18:00,zondag,24,september,2017,32,29,1017,5,0,43,Sunny
+18:00,00:00,zondag,24,september,2017,27,25,1017,1,170,59,Clear
+00:00,06:00,maandag,25,september,2017,26,23,1017,1,50,71,Clear
+06:00,12:00,maandag,25,september,2017,29,22,1018,6,50,67,Sunny
+12:00,18:00,maandag,25,september,2017,31,29,1017,9,0,51,Sunny
+18:00,00:00,maandag,25,september,2017,23,22,1017,5,160,76,Clear
+00:00,06:00,dinsdag,26,september,2017,22,21,1017,2,40,85,Clear
+06:00,12:00,dinsdag,26,september,2017,25,21,1018,3,0,83,Overcast
+12:00,18:00,dinsdag,26,september,2017,28,26,1015,5,60,60,Sunny
+18:00,00:00,dinsdag,26,september,2017,24,22,1015,2,0,79,Clear
+00:00,06:00,woensdag,27,september,2017,22,21,1014,6,0,87,Clear
+06:00,12:00,woensdag,27,september,2017,28,21,1013,6,60,78,Overcast
+12:00,18:00,woensdag,27,september,2017,29,28,1010,9,0,65,Sunny
+18:00,00:00,woensdag,27,september,2017,26,24,1008,6,110,86,Clear
+00:00,06:00,donderdag,28,september,2017,24,23,1007,7,0,92,Mostly cloudy
+06:00,12:00,donderdag,28,september,2017,24,21,1008,9,0,59,Sunny
+12:00,18:00,donderdag,28,september,2017,26,22,1008,11,10,36,Sunny
+18:00,00:00,donderdag,28,september,2017,21,16,1013,5,0,47,Clear
+00:00,06:00,vrijdag,29,september,2017,16,13,1016,4,0,62,Clear
+06:00,12:00,vrijdag,29,september,2017,17,13,1018,5,290,60,Sunny
+12:00,18:00,vrijdag,29,september,2017,19,18,1016,6,290,43,Overcast
+18:00,00:00,vrijdag,29,september,2017,18,16,1017,2,280,51,Clear
+00:00,06:00,zaterdag,30,september,2017,18,14,1016,2,0,66,Mostly cloudy
+06:00,12:00,zaterdag,30,september,2017,17,14,1019,6,0,69,Partly sunny
+12:00,18:00,zaterdag,30,september,2017,18,15,1022,13,20,62,Mostly cloudy
+18:00,00:00,zaterdag,30,september,2017,14,13,1027,13,0,72,Overcast

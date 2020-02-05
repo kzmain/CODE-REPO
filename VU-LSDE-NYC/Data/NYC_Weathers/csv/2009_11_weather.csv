@@ -1,0 +1,121 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+18:00,00:00,zondag,1,november,2009,11,9,1023,11,0,59,Clear
+00:00,06:00,maandag,2,november,2009,10,9,1022,13,50,60,Passing clouds
+06:00,12:00,maandag,2,november,2009,12,9,1024,18,50,67,Partly sunny
+12:00,18:00,maandag,2,november,2009,12,11,1021,14,0,56,Overcast
+18:00,00:00,maandag,2,november,2009,11,8,1020,8,0,69,Clear
+00:00,06:00,dinsdag,3,november,2009,8,7,1019,4,30,80,Clear
+06:00,12:00,dinsdag,3,november,2009,14,7,1018,7,230,72,Sunny
+12:00,18:00,dinsdag,3,november,2009,16,13,1016,9,0,47,Sunny
+18:00,00:00,dinsdag,3,november,2009,12,8,1021,10,0,44,Clear
+00:00,06:00,woensdag,4,november,2009,8,5,1025,8,0,64,Clear
+06:00,12:00,woensdag,4,november,2009,10,5,1027,7,0,58,Sunny
+12:00,18:00,woensdag,4,november,2009,11,9,1024,9,0,45,Sunny
+18:00,00:00,woensdag,4,november,2009,9,9,1024,6,0,55,Passing clouds
+00:00,06:00,donderdag,5,november,2009,NULL,NULL,0,0,0,0,No weather data available
+06:00,12:00,donderdag,5,november,2009,NULL,NULL,0,0,0,0,No weather data available
+12:00,18:00,donderdag,5,november,2009,NULL,NULL,0,0,0,0,No weather data available
+18:00,00:00,donderdag,5,november,2009,NULL,NULL,0,0,0,0,No weather data available
+00:00,06:00,vrijdag,6,november,2009,NULL,NULL,0,0,0,0,No weather data available
+06:00,12:00,vrijdag,6,november,2009,9,5,1023,14,350,51,Sunny
+12:00,18:00,vrijdag,6,november,2009,9,6,1024,13,290,48,Scattered clouds
+18:00,00:00,vrijdag,6,november,2009,6,3,1026,5,0,61,Clear
+00:00,06:00,zaterdag,7,november,2009,3,2,1026,4,260,67,Clear
+06:00,12:00,zaterdag,7,november,2009,9,3,1026,8,0,52,Sunny
+12:00,18:00,zaterdag,7,november,2009,11,10,1022,8,0,45,Sunny
+18:00,00:00,zaterdag,7,november,2009,11,9,1022,11,0,62,Clear
+00:00,06:00,zondag,8,november,2009,11,9,1021,9,0,74,Clear
+06:00,12:00,zondag,8,november,2009,17,8,1023,6,270,64,Sunny
+12:00,18:00,zondag,8,november,2009,20,19,1024,1,0,44,Sunny
+18:00,00:00,zondag,8,november,2009,NULL,NULL,0,0,0,0,No weather data available
+00:00,06:00,maandag,9,november,2009,NULL,NULL,0,0,0,0,No weather data available
+06:00,12:00,maandag,9,november,2009,NULL,NULL,0,0,0,0,No weather data available
+12:00,18:00,maandag,9,november,2009,17,17,1026,7,0,60,Clear
+18:00,00:00,maandag,9,november,2009,17,15,1025,10,0,64,Clear
+00:00,06:00,dinsdag,10,november,2009,15,14,1024,9,0,70,Clear
+06:00,12:00,dinsdag,10,november,2009,18,14,1025,2,0,65,Sunny
+12:00,18:00,dinsdag,10,november,2009,18,18,1024,7,10,57,Sunny
+18:00,00:00,dinsdag,10,november,2009,NULL,NULL,0,0,0,0,No weather data available
+00:00,06:00,woensdag,11,november,2009,NULL,NULL,0,0,0,0,No weather data available
+06:00,12:00,woensdag,11,november,2009,NULL,NULL,0,0,0,0,No weather data available
+12:00,18:00,woensdag,11,november,2009,11,11,1027,22,60,45,Clear
+18:00,00:00,woensdag,11,november,2009,11,11,1027,13,50,48,Clear
+00:00,06:00,donderdag,12,november,2009,8,8,1024,21,40,50,Mostly cloudy
+06:00,12:00,donderdag,12,november,2009,9,8,1023,24,50,58,Light rain
+06:00,12:00,donderdag,12,november,2009,9,8,1023,24,50,58,Passing clouds
+12:00,18:00,donderdag,12,november,2009,10,8,1020,22,50,56,Scattered clouds
+18:00,00:00,donderdag,12,november,2009,10,9,1019,25,50,52,Overcast
+00:00,06:00,vrijdag,13,november,2009,10,9,1016,25,50,69,Mostly cloudy
+06:00,12:00,vrijdag,13,november,2009,11,9,1016,22,50,75,Overcast
+12:00,18:00,vrijdag,13,november,2009,13,11,1015,28,50,73,Overcast
+18:00,00:00,vrijdag,13,november,2009,12,11,1014,25,40,87,Overcast
+00:00,06:00,zaterdag,14,november,2009,12,11,1012,15,0,95,Overcast
+06:00,12:00,zaterdag,14,november,2009,14,12,1012,14,40,94,Low clouds
+12:00,18:00,zaterdag,14,november,2009,13,13,1011,9,0,97,Fog
+18:00,00:00,zaterdag,14,november,2009,13,12,1012,5,0,96,Fog
+00:00,06:00,zondag,15,november,2009,13,13,1011,4,0,95,Fog
+06:00,12:00,zondag,15,november,2009,17,13,1013,5,0,88,Overcast
+12:00,18:00,zondag,15,november,2009,19,16,1012,6,0,76,Overcast
+18:00,00:00,zondag,15,november,2009,17,14,1014,5,270,82,Clear
+00:00,06:00,maandag,16,november,2009,14,12,1015,3,0,80,Clear
+06:00,12:00,maandag,16,november,2009,14,11,1017,11,0,61,Sunny
+12:00,18:00,maandag,16,november,2009,15,13,1017,7,0,46,Sunny
+18:00,00:00,maandag,16,november,2009,12,9,1020,12,20,45,Clear
+00:00,06:00,dinsdag,17,november,2009,9,8,1022,15,40,44,Passing clouds
+06:00,12:00,dinsdag,17,november,2009,11,8,1025,14,0,43,Overcast
+12:00,18:00,dinsdag,17,november,2009,12,11,1026,7,40,36,Sunny
+18:00,00:00,dinsdag,17,november,2009,10,8,1028,12,50,54,Clear
+00:00,06:00,woensdag,18,november,2009,8,6,1031,11,0,79,Clear
+06:00,12:00,woensdag,18,november,2009,11,6,1032,13,0,73,Sunny
+12:00,18:00,woensdag,18,november,2009,11,10,1030,14,0,70,Scattered clouds
+18:00,00:00,woensdag,18,november,2009,11,9,1030,10,0,73,Overcast
+00:00,06:00,donderdag,19,november,2009,9,8,1029,9,0,80,Overcast
+06:00,12:00,donderdag,19,november,2009,12,9,1028,12,50,76,Overcast
+12:00,18:00,donderdag,19,november,2009,12,11,1024,16,60,92,Fog
+18:00,00:00,donderdag,19,november,2009,15,13,1021,6,0,96,Low clouds
+00:00,06:00,vrijdag,20,november,2009,16,15,1016,10,0,95,Light rain
+00:00,06:00,vrijdag,20,november,2009,16,15,1016,10,0,95,Mostly cloudy
+06:00,12:00,vrijdag,20,november,2009,14,13,1015,14,280,69,Sunny
+12:00,18:00,vrijdag,20,november,2009,14,11,1016,12,300,48,Passing clouds
+18:00,00:00,vrijdag,20,november,2009,11,9,1018,8,0,58,Clear
+00:00,06:00,zaterdag,21,november,2009,8,8,1018,9,0,65,Clear
+06:00,12:00,zaterdag,21,november,2009,12,8,1019,9,0,62,Sunny
+12:00,18:00,zaterdag,21,november,2009,13,12,1019,4,0,54,Sunny
+18:00,00:00,zaterdag,21,november,2009,11,8,1021,7,0,66,Clear
+00:00,06:00,zondag,22,november,2009,8,8,1023,8,0,74,Clear
+06:00,12:00,zondag,22,november,2009,12,8,1026,12,0,66,Sunny
+12:00,18:00,zondag,22,november,2009,12,11,1027,13,0,56,Sunny
+18:00,00:00,zondag,22,november,2009,10,8,1029,11,0,68,Mostly cloudy
+00:00,06:00,maandag,23,november,2009,8,7,1030,14,40,70,Overcast
+06:00,12:00,maandag,23,november,2009,10,7,1030,17,40,67,Overcast
+12:00,18:00,maandag,23,november,2009,10,9,1027,22,50,76,Overcast
+18:00,00:00,maandag,23,november,2009,9,9,1025,16,50,85,Overcast
+00:00,06:00,dinsdag,24,november,2009,9,9,1023,12,50,88,Overcast
+06:00,12:00,dinsdag,24,november,2009,13,9,1023,13,50,78,Overcast
+12:00,18:00,dinsdag,24,november,2009,14,11,1020,8,0,69,Scattered clouds
+18:00,00:00,dinsdag,24,november,2009,11,10,1021,13,50,82,Overcast
+00:00,06:00,woensdag,25,november,2009,10,10,1019,11,50,84,Overcast
+06:00,12:00,woensdag,25,november,2009,10,9,1018,11,70,87,Low clouds
+12:00,18:00,woensdag,25,november,2009,11,10,1015,9,100,92,Fog
+18:00,00:00,woensdag,25,november,2009,11,10,1014,4,70,96,Fog
+00:00,06:00,donderdag,26,november,2009,11,10,1014,2,50,91,Fog
+06:00,12:00,donderdag,26,november,2009,12,11,1014,4,0,85,Partly sunny
+12:00,18:00,donderdag,26,november,2009,14,11,1010,10,0,73,Sunny
+18:00,00:00,donderdag,26,november,2009,11,10,1006,13,40,82,Overcast
+00:00,06:00,vrijdag,27,november,2009,10,9,1001,10,0,83,Overcast
+06:00,12:00,vrijdag,27,november,2009,9,8,998,9,0,74,Overcast
+12:00,18:00,vrijdag,27,november,2009,8,7,996,21,280,58,Partly sunny
+18:00,00:00,vrijdag,27,november,2009,7,6,998,23,280,52,Mostly cloudy
+00:00,06:00,zaterdag,28,november,2009,8,6,998,22,280,58,Overcast
+06:00,12:00,zaterdag,28,november,2009,10,8,1003,19,280,52,Passing clouds
+12:00,18:00,zaterdag,28,november,2009,10,9,1007,20,280,45,Sunny
+18:00,00:00,zaterdag,28,november,2009,9,6,1010,13,260,56,Clear
+00:00,06:00,zondag,29,november,2009,6,4,1013,7,0,67,Clear
+06:00,12:00,zondag,29,november,2009,11,4,1013,5,0,52,Sunny
+12:00,18:00,zondag,29,november,2009,14,13,1010,8,0,42,Sunny
+18:00,00:00,zondag,29,november,2009,14,13,1008,13,0,48,Clear
+00:00,06:00,maandag,30,november,2009,13,12,1004,15,230,58,Passing clouds
+06:00,12:00,maandag,30,november,2009,13,12,1003,7,0,64,Overcast
+12:00,18:00,maandag,30,november,2009,9,7,1004,10,0,87,Light rain
+12:00,18:00,maandag,30,november,2009,9,7,1004,10,0,87,Mostly cloudy
+18:00,00:00,maandag,30,november,2009,7,4,1007,13,0,65,Mostly cloudy

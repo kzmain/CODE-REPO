@@ -1,0 +1,128 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,zaterdag,1,juni,2019,22,18,1009,6,280,72,Clear
+06:00,12:00,zaterdag,1,juni,2019,24,18,1011,3,50,60,Sunny
+12:00,18:00,zaterdag,1,juni,2019,26,22,1009,6,0,49,Sunny
+18:00,00:00,zaterdag,1,juni,2019,21,19,1009,3,0,73,Passing clouds
+00:00,06:00,zondag,2,juni,2019,21,18,1007,4,40,84,Fog
+06:00,12:00,zondag,2,juni,2019,25,18,1007,2,50,76,Sunny
+12:00,18:00,zondag,2,juni,2019,27,21,1005,6,0,56,Sunny
+18:00,00:00,zondag,2,juni,2019,23,17,1006,9,0,85,Scattered clouds
+00:00,06:00,maandag,3,juni,2019,17,14,1009,5,0,67,Passing clouds
+06:00,12:00,maandag,3,juni,2019,19,14,1012,9,0,52,Sunny
+12:00,18:00,maandag,3,juni,2019,21,19,1013,15,270,29,Sunny
+18:00,00:00,maandag,3,juni,2019,19,16,1016,6,0,36,Clear
+00:00,06:00,dinsdag,4,juni,2019,14,13,1018,5,0,53,Clear
+06:00,12:00,dinsdag,4,juni,2019,19,13,1020,3,0,47,Sunny
+12:00,18:00,dinsdag,4,juni,2019,21,20,1017,3,0,35,Sunny
+18:00,00:00,dinsdag,4,juni,2019,21,19,1016,6,0,39,Clear
+00:00,06:00,woensdag,5,juni,2019,19,18,1014,8,0,55,Passing clouds
+06:00,12:00,woensdag,5,juni,2019,23,18,1013,5,0,68,Partly sunny
+12:00,18:00,woensdag,5,juni,2019,27,25,1009,6,0,56,Sunny
+18:00,00:00,woensdag,5,juni,2019,26,23,1007,4,0,75,Light rain
+18:00,00:00,woensdag,5,juni,2019,26,23,1007,4,0,75,Mostly cloudy
+00:00,06:00,donderdag,6,juni,2019,22,21,1006,10,220,91,Fog
+06:00,12:00,donderdag,6,juni,2019,27,21,1006,8,0,78,Fog
+12:00,18:00,donderdag,6,juni,2019,28,27,1007,10,50,52,Scattered clouds
+18:00,00:00,donderdag,6,juni,2019,26,23,1010,4,0,56,Clear
+00:00,06:00,vrijdag,7,juni,2019,22,19,1011,1,0,74,Clear
+06:00,12:00,vrijdag,7,juni,2019,23,20,1013,5,0,64,Sunny
+12:00,18:00,vrijdag,7,juni,2019,27,23,1013,6,100,54,Sunny
+18:00,00:00,vrijdag,7,juni,2019,23,19,1015,1,0,75,Clear
+00:00,06:00,zaterdag,8,juni,2019,19,18,1017,3,30,82,Clear
+06:00,12:00,zaterdag,8,juni,2019,24,20,1020,15,40,48,Sunny
+12:00,18:00,zaterdag,8,juni,2019,27,24,1021,14,60,33,Sunny
+18:00,00:00,zaterdag,8,juni,2019,23,18,1023,8,0,42,Clear
+00:00,06:00,zondag,9,juni,2019,17,16,1024,8,0,62,Clear
+06:00,12:00,zondag,9,juni,2019,24,17,1026,11,70,56,Sunny
+12:00,18:00,zondag,9,juni,2019,25,23,1026,9,80,34,Sunny
+18:00,00:00,zondag,9,juni,2019,22,17,1025,11,0,42,Clear
+00:00,06:00,maandag,10,juni,2019,16,16,1023,11,60,70,Clear
+06:00,12:00,maandag,10,juni,2019,17,16,1020,15,70,88,Low clouds
+12:00,18:00,maandag,10,juni,2019,20,17,1017,12,70,96,Light rain
+12:00,18:00,maandag,10,juni,2019,20,17,1017,12,70,96,Fog
+18:00,00:00,maandag,10,juni,2019,21,19,1013,7,0,96,Fog
+00:00,06:00,dinsdag,11,juni,2019,21,20,1010,2,0,95,Fog
+06:00,12:00,dinsdag,11,juni,2019,21,17,1012,14,310,77,Partly sunny
+12:00,18:00,dinsdag,11,juni,2019,24,22,1014,12,290,40,Sunny
+18:00,00:00,dinsdag,11,juni,2019,24,19,1017,6,0,35,Clear
+00:00,06:00,woensdag,12,juni,2019,18,15,1020,3,0,54,Clear
+06:00,12:00,woensdag,12,juni,2019,23,16,1022,5,0,50,Sunny
+12:00,18:00,woensdag,12,juni,2019,23,20,1021,10,0,44,Sunny
+18:00,00:00,woensdag,12,juni,2019,19,18,1020,5,0,60,Clear
+00:00,06:00,donderdag,13,juni,2019,18,17,1016,9,0,68,Clear
+06:00,12:00,donderdag,13,juni,2019,17,13,1013,13,30,87,Rain
+06:00,12:00,donderdag,13,juni,2019,17,13,1013,13,30,87,Fog
+12:00,18:00,donderdag,13,juni,2019,18,15,1008,14,70,79,More clouds than sun
+18:00,00:00,donderdag,13,juni,2019,18,16,1009,5,0,87,Light rain
+18:00,00:00,donderdag,13,juni,2019,18,16,1009,5,0,87,Fog
+00:00,06:00,vrijdag,14,juni,2019,16,14,1009,6,0,94,Fog
+06:00,12:00,vrijdag,14,juni,2019,18,14,1011,13,0,71,Sunny
+12:00,18:00,vrijdag,14,juni,2019,23,19,1013,7,0,48,Passing clouds
+18:00,00:00,vrijdag,14,juni,2019,23,19,1016,8,0,37,Clear
+00:00,06:00,zaterdag,15,juni,2019,18,16,1019,5,0,52,Clear
+06:00,12:00,zaterdag,15,juni,2019,24,17,1017,5,0,50,Sunny
+12:00,18:00,zaterdag,15,juni,2019,27,26,1016,9,250,36,Sunny
+18:00,00:00,zaterdag,15,juni,2019,25,22,1015,6,0,46,Passing clouds
+00:00,06:00,zondag,16,juni,2019,22,18,1013,6,0,74,Light rain
+00:00,06:00,zondag,16,juni,2019,22,18,1013,6,0,74,Passing clouds
+06:00,12:00,zondag,16,juni,2019,25,19,1012,6,0,73,Sunny
+12:00,18:00,zondag,16,juni,2019,27,23,1009,11,0,65,Mostly cloudy
+18:00,00:00,zondag,16,juni,2019,26,23,1010,9,0,77,Passing clouds
+00:00,06:00,maandag,17,juni,2019,23,21,1012,2,260,85,Mostly cloudy
+06:00,12:00,maandag,17,juni,2019,23,21,1015,5,0,78,Broken clouds
+12:00,18:00,maandag,17,juni,2019,24,22,1016,2,0,75,Overcast
+18:00,00:00,maandag,17,juni,2019,24,21,1015,1,0,75,Mostly cloudy
+00:00,06:00,dinsdag,18,juni,2019,22,21,1015,0,0,86,Fog
+06:00,12:00,dinsdag,18,juni,2019,23,21,1015,1,140,92,Fog
+12:00,18:00,dinsdag,18,juni,2019,22,22,1012,3,0,94,Light rain
+12:00,18:00,dinsdag,18,juni,2019,22,22,1012,3,0,94,Fog
+18:00,00:00,dinsdag,18,juni,2019,21,19,1012,8,40,96,Fog
+00:00,06:00,woensdag,19,juni,2019,19,19,1012,2,60,96,Fog
+06:00,12:00,woensdag,19,juni,2019,20,19,1012,5,0,94,Fog
+12:00,18:00,woensdag,19,juni,2019,22,20,1010,7,0,89,Overcast
+18:00,00:00,woensdag,19,juni,2019,20,19,1009,6,0,96,Fog
+00:00,06:00,donderdag,20,juni,2019,19,18,1006,4,70,96,Fog
+06:00,12:00,donderdag,20,juni,2019,22,18,1004,2,0,95,Fog
+12:00,18:00,donderdag,20,juni,2019,25,23,1000,5,0,91,Fog
+18:00,00:00,donderdag,20,juni,2019,23,22,998,5,250,94,Sunny
+00:00,06:00,vrijdag,21,juni,2019,22,21,998,4,290,92,Passing clouds
+06:00,12:00,vrijdag,21,juni,2019,21,19,1000,7,0,93,Light rain
+06:00,12:00,vrijdag,21,juni,2019,21,19,1000,7,0,93,Mostly cloudy
+12:00,18:00,vrijdag,21,juni,2019,24,20,1004,11,0,60,Scattered clouds
+18:00,00:00,vrijdag,21,juni,2019,24,20,1008,6,0,44,Clear
+00:00,06:00,zaterdag,22,juni,2019,19,17,1011,9,270,60,Clear
+06:00,12:00,zaterdag,22,juni,2019,25,17,1012,9,0,52,Sunny
+12:00,18:00,zaterdag,22,juni,2019,26,26,1012,11,0,34,Passing clouds
+18:00,00:00,zaterdag,22,juni,2019,26,22,1014,4,290,36,Clear
+00:00,06:00,zondag,23,juni,2019,20,18,1016,4,280,54,Clear
+06:00,12:00,zondag,23,juni,2019,26,18,1016,7,0,49,Sunny
+12:00,18:00,zondag,23,juni,2019,28,27,1013,6,0,35,Sunny
+18:00,00:00,zondag,23,juni,2019,27,24,1012,8,270,41,Clear
+00:00,06:00,maandag,24,juni,2019,23,19,1012,4,0,57,Clear
+06:00,12:00,maandag,24,juni,2019,28,21,1012,1,280,48,Sunny
+12:00,18:00,maandag,24,juni,2019,29,27,1011,6,270,43,Sunny
+18:00,00:00,maandag,24,juni,2019,26,24,1010,2,0,61,Clear
+00:00,06:00,dinsdag,25,juni,2019,24,23,1010,1,130,77,Clear
+06:00,12:00,dinsdag,25,juni,2019,23,22,1011,4,0,95,Fog
+12:00,18:00,dinsdag,25,juni,2019,28,25,1010,3,0,75,Overcast
+18:00,00:00,dinsdag,25,juni,2019,28,23,1011,2,0,76,Passing clouds
+00:00,06:00,woensdag,26,juni,2019,23,22,1014,2,0,86,Clear
+06:00,12:00,woensdag,26,juni,2019,28,23,1017,5,0,62,Sunny
+12:00,18:00,woensdag,26,juni,2019,30,29,1015,6,0,39,Sunny
+18:00,00:00,woensdag,26,juni,2019,29,27,1016,6,0,47,Clear
+00:00,06:00,donderdag,27,juni,2019,26,22,1018,5,270,68,Clear
+06:00,12:00,donderdag,27,juni,2019,31,23,1020,5,270,56,Sunny
+12:00,18:00,donderdag,27,juni,2019,31,30,1019,5,0,34,Sunny
+18:00,00:00,donderdag,27,juni,2019,30,26,1020,3,0,36,Clear
+00:00,06:00,vrijdag,28,juni,2019,25,23,1021,4,50,52,Clear
+06:00,12:00,vrijdag,28,juni,2019,30,24,1022,2,60,52,Sunny
+12:00,18:00,vrijdag,28,juni,2019,31,29,1020,1,0,41,Passing clouds
+18:00,00:00,vrijdag,28,juni,2019,28,26,1019,7,0,45,Sunny
+00:00,06:00,zaterdag,29,juni,2019,26,24,1018,6,0,70,Clear
+06:00,12:00,zaterdag,29,juni,2019,31,24,1016,5,0,66,Sunny
+12:00,18:00,zaterdag,29,juni,2019,32,22,1013,5,0,58,Sunny
+18:00,00:00,zaterdag,29,juni,2019,24,23,1011,10,0,81,Clear
+00:00,06:00,zondag,30,juni,2019,23,22,1009,7,0,82,Clear
+06:00,12:00,zondag,30,juni,2019,27,23,1008,7,0,62,Sunny
+12:00,18:00,zondag,30,juni,2019,28,21,1008,10,350,51,Scattered clouds
+18:00,00:00,zondag,30,juni,2019,26,22,1010,7,0,48,Clear

@@ -1,0 +1,142 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,maandag,1,maart,2010,3,2,1003,14,280,66,Clear
+06:00,12:00,maandag,1,maart,2010,7,3,1005,19,290,58,Sunny
+12:00,18:00,maandag,1,maart,2010,8,6,1007,19,290,48,Sunny
+18:00,00:00,maandag,1,maart,2010,6,4,1010,10,0,62,Clear
+00:00,06:00,dinsdag,2,maart,2010,3,2,1012,7,0,70,Clear
+06:00,12:00,dinsdag,2,maart,2010,8,2,1013,7,40,62,Sunny
+12:00,18:00,dinsdag,2,maart,2010,8,5,1011,8,0,57,Scattered clouds
+18:00,00:00,dinsdag,2,maart,2010,5,3,1009,11,0,76,Mostly cloudy
+00:00,06:00,woensdag,3,maart,2010,3,1,1006,20,40,88,Overcast
+06:00,12:00,woensdag,3,maart,2010,3,1,1003,21,40,86,Overcast
+12:00,18:00,woensdag,3,maart,2010,4,4,1001,15,20,71,Overcast
+18:00,00:00,woensdag,3,maart,2010,4,4,1002,13,350,66,Overcast
+00:00,06:00,donderdag,4,maart,2010,4,3,1002,13,0,63,Passing clouds
+06:00,12:00,donderdag,4,maart,2010,6,3,1004,11,0,55,Overcast
+12:00,18:00,donderdag,4,maart,2010,8,6,1005,12,0,41,Partly sunny
+18:00,00:00,donderdag,4,maart,2010,6,2,1010,14,20,56,Overcast
+00:00,06:00,vrijdag,5,maart,2010,3,2,1012,9,0,59,Mostly cloudy
+06:00,12:00,vrijdag,5,maart,2010,7,1,1014,11,0,53,Mostly cloudy
+12:00,18:00,vrijdag,5,maart,2010,8,7,1014,15,10,28,Partly sunny
+18:00,00:00,vrijdag,5,maart,2010,6,2,1018,14,350,33,Clear
+00:00,06:00,zaterdag,6,maart,2010,2,0,1020,12,0,37,Clear
+06:00,12:00,zaterdag,6,maart,2010,9,1,1021,11,0,27,Sunny
+12:00,18:00,zaterdag,6,maart,2010,12,10,1018,9,0,18,Sunny
+18:00,00:00,zaterdag,6,maart,2010,10,6,1018,14,280,23,Clear
+00:00,06:00,zondag,7,maart,2010,5,3,1018,9,0,34,Clear
+06:00,12:00,zondag,7,maart,2010,11,3,1018,13,270,36,Sunny
+12:00,18:00,zondag,7,maart,2010,14,11,1014,14,270,31,Sunny
+18:00,00:00,zondag,7,maart,2010,12,9,1014,10,270,41,Clear
+00:00,06:00,maandag,8,maart,2010,9,6,1013,10,0,43,Clear
+06:00,12:00,maandag,8,maart,2010,13,6,1013,11,270,35,Sunny
+12:00,18:00,maandag,8,maart,2010,16,14,1010,16,300,28,Sunny
+18:00,00:00,maandag,8,maart,2010,11,11,1011,9,270,36,Clear
+00:00,06:00,dinsdag,9,maart,2010,10,7,1013,8,0,42,Clear
+06:00,12:00,dinsdag,9,maart,2010,14,7,1015,10,0,40,Sunny
+12:00,18:00,dinsdag,9,maart,2010,16,14,1013,9,290,27,Sunny
+18:00,00:00,dinsdag,9,maart,2010,14,11,1015,1,300,33,Clear
+00:00,06:00,woensdag,10,maart,2010,10,7,1015,4,10,48,Clear
+06:00,12:00,woensdag,10,maart,2010,12,7,1017,10,40,41,Sunny
+12:00,18:00,woensdag,10,maart,2010,13,11,1016,10,0,35,Sunny
+18:00,00:00,woensdag,10,maart,2010,11,8,1017,7,110,51,Overcast
+00:00,06:00,donderdag,11,maart,2010,8,7,1017,10,70,68,Passing clouds
+06:00,12:00,donderdag,11,maart,2010,9,7,1018,14,80,70,Overcast
+12:00,18:00,donderdag,11,maart,2010,11,7,1018,18,70,65,Overcast
+18:00,00:00,donderdag,11,maart,2010,7,6,1019,16,70,76,Overcast
+00:00,06:00,vrijdag,12,maart,2010,6,6,1019,21,60,79,Overcast
+06:00,12:00,vrijdag,12,maart,2010,6,5,1020,9,50,84,Low clouds
+12:00,18:00,vrijdag,12,maart,2010,6,5,1019,21,50,85,Light rain
+12:00,18:00,vrijdag,12,maart,2010,6,5,1019,21,50,85,Overcast
+18:00,00:00,vrijdag,12,maart,2010,6,4,1018,27,60,83,Light rain
+18:00,00:00,vrijdag,12,maart,2010,6,4,1018,27,60,83,Fog
+00:00,06:00,zaterdag,13,maart,2010,4,3,1015,31,70,93,Light rain
+00:00,06:00,zaterdag,13,maart,2010,4,3,1015,31,70,93,Fog
+06:00,12:00,zaterdag,13,maart,2010,6,4,1010,38,60,91,Light rain
+06:00,12:00,zaterdag,13,maart,2010,6,4,1010,38,60,91,Fog
+12:00,18:00,zaterdag,13,maart,2010,6,6,1004,39,70,94,Rain
+12:00,18:00,zaterdag,13,maart,2010,6,6,1004,39,70,94,Fog
+18:00,00:00,zaterdag,13,maart,2010,7,6,1000,35,50,94,Heavy rain
+18:00,00:00,zaterdag,13,maart,2010,7,6,1000,35,50,94,Fog
+00:00,06:00,zondag,14,maart,2010,7,7,998,35,60,92,Fog
+06:00,12:00,zondag,14,maart,2010,9,6,1000,25,60,97,Fog
+12:00,18:00,zondag,14,maart,2010,10,9,1001,21,50,90,Overcast
+18:00,00:00,zondag,14,maart,2010,9,7,1001,19,30,80,Overcast
+00:00,06:00,maandag,15,maart,2010,6,6,999,14,10,91,Light rain
+00:00,06:00,maandag,15,maart,2010,6,6,999,14,10,91,Mostly cloudy
+06:00,12:00,maandag,15,maart,2010,7,6,1001,19,30,82,Overcast
+12:00,18:00,maandag,15,maart,2010,8,7,1004,20,20,79,Overcast
+18:00,00:00,maandag,15,maart,2010,6,5,1009,21,40,79,Overcast
+00:00,06:00,dinsdag,16,maart,2010,8,5,1011,17,50,51,Overcast
+06:00,12:00,dinsdag,16,maart,2010,12,7,1014,16,30,35,Sunny
+12:00,18:00,dinsdag,16,maart,2010,16,13,1014,13,0,21,Sunny
+18:00,00:00,dinsdag,16,maart,2010,15,11,1015,7,20,24,Clear
+00:00,06:00,woensdag,17,maart,2010,9,7,1016,0,0,41,Clear
+06:00,12:00,woensdag,17,maart,2010,15,6,1017,3,0,38,Sunny
+12:00,18:00,woensdag,17,maart,2010,19,16,1014,9,250,18,Sunny
+18:00,00:00,woensdag,17,maart,2010,16,13,1012,3,160,30,Clear
+00:00,06:00,donderdag,18,maart,2010,13,10,1011,4,280,32,Clear
+06:00,12:00,donderdag,18,maart,2010,17,10,1011,6,270,34,Sunny
+12:00,18:00,donderdag,18,maart,2010,20,19,1007,8,0,18,Sunny
+18:00,00:00,donderdag,18,maart,2010,17,14,1007,2,30,32,Clear
+00:00,06:00,vrijdag,19,maart,2010,14,11,1009,1,280,33,Clear
+06:00,12:00,vrijdag,19,maart,2010,18,10,1010,5,270,34,Sunny
+12:00,18:00,vrijdag,19,maart,2010,22,19,1009,9,0,21,Sunny
+18:00,00:00,vrijdag,19,maart,2010,18,16,1011,6,0,32,Clear
+00:00,06:00,zaterdag,20,maart,2010,16,13,1013,12,220,40,Clear
+06:00,12:00,zaterdag,20,maart,2010,21,13,1016,6,0,38,Sunny
+12:00,18:00,zaterdag,20,maart,2010,23,20,1015,9,0,26,Sunny
+18:00,00:00,zaterdag,20,maart,2010,19,18,1016,6,0,33,Clear
+00:00,06:00,zondag,21,maart,2010,16,13,1018,9,0,47,Clear
+06:00,12:00,zondag,21,maart,2010,15,12,1019,13,60,52,Sunny
+12:00,18:00,zondag,21,maart,2010,17,14,1017,12,0,48,Sunny
+18:00,00:00,zondag,21,maart,2010,14,11,1017,8,110,68,Clear
+00:00,06:00,maandag,22,maart,2010,12,11,1016,8,40,80,Clear
+06:00,12:00,maandag,22,maart,2010,12,11,1016,9,0,91,Fog
+12:00,18:00,maandag,22,maart,2010,12,12,1013,8,0,96,Light rain
+12:00,18:00,maandag,22,maart,2010,12,12,1013,8,0,96,Fog
+18:00,00:00,maandag,22,maart,2010,14,12,1008,10,0,96,Light rain
+18:00,00:00,maandag,22,maart,2010,14,12,1008,10,0,96,Low clouds
+00:00,06:00,dinsdag,23,maart,2010,12,9,1004,9,150,98,Light rain
+00:00,06:00,dinsdag,23,maart,2010,12,9,1004,9,150,98,Mostly cloudy
+06:00,12:00,dinsdag,23,maart,2010,11,8,1002,10,0,93,Fog
+12:00,18:00,dinsdag,23,maart,2010,10,9,999,10,50,90,Mostly cloudy
+18:00,00:00,dinsdag,23,maart,2010,11,9,999,10,280,86,Overcast
+00:00,06:00,woensdag,24,maart,2010,7,7,1003,21,270,62,Passing clouds
+06:00,12:00,woensdag,24,maart,2010,10,6,1007,23,300,56,Sunny
+12:00,18:00,woensdag,24,maart,2010,16,12,1010,24,300,25,Sunny
+18:00,00:00,woensdag,24,maart,2010,14,12,1015,10,290,26,Clear
+00:00,06:00,donderdag,25,maart,2010,12,10,1016,4,0,32,Clear
+06:00,12:00,donderdag,25,maart,2010,16,9,1016,9,0,30,Sunny
+12:00,18:00,donderdag,25,maart,2010,15,14,1009,9,160,46,Sunny
+18:00,00:00,donderdag,25,maart,2010,16,14,1004,8,0,56,Clear
+00:00,06:00,vrijdag,26,maart,2010,11,6,1004,10,0,89,Light rain
+00:00,06:00,vrijdag,26,maart,2010,11,6,1004,10,0,89,Fog
+06:00,12:00,vrijdag,26,maart,2010,5,4,1008,18,10,72,Overcast
+12:00,18:00,vrijdag,26,maart,2010,7,4,1012,20,0,31,Sunny
+18:00,00:00,vrijdag,26,maart,2010,5,2,1018,17,20,37,Clear
+00:00,06:00,zaterdag,27,maart,2010,1,-1,1023,12,20,36,Clear
+06:00,12:00,zaterdag,27,maart,2010,3,-2,1029,13,0,32,Sunny
+12:00,18:00,zaterdag,27,maart,2010,6,3,1029,13,0,30,Sunny
+18:00,00:00,zaterdag,27,maart,2010,2,2,1030,12,160,57,Clear
+00:00,06:00,zondag,28,maart,2010,3,2,1029,11,0,68,Clear
+06:00,12:00,zondag,28,maart,2010,7,3,1028,14,0,66,Mostly cloudy
+12:00,18:00,zondag,28,maart,2010,9,7,1023,13,150,76,Overcast
+18:00,00:00,zondag,28,maart,2010,9,8,1018,14,160,87,Light rain
+18:00,00:00,zondag,28,maart,2010,9,8,1018,14,160,87,Fog
+00:00,06:00,maandag,29,maart,2010,10,9,1013,15,160,94,Rain
+00:00,06:00,maandag,29,maart,2010,10,9,1013,15,160,94,Fog
+06:00,12:00,maandag,29,maart,2010,11,10,1008,8,0,95,Fog
+12:00,18:00,maandag,29,maart,2010,12,11,1008,7,150,97,Light rain
+12:00,18:00,maandag,29,maart,2010,12,11,1008,7,150,97,Fog
+18:00,00:00,maandag,29,maart,2010,12,11,1007,10,20,96,Light rain
+18:00,00:00,maandag,29,maart,2010,12,11,1007,10,20,96,Fog
+00:00,06:00,dinsdag,30,maart,2010,10,6,1004,21,10,90,Overcast
+06:00,12:00,dinsdag,30,maart,2010,6,5,999,17,0,92,Heavy rain
+06:00,12:00,dinsdag,30,maart,2010,6,5,999,17,0,92,Fog
+12:00,18:00,dinsdag,30,maart,2010,7,6,994,15,350,93,Light rain
+12:00,18:00,dinsdag,30,maart,2010,7,6,994,15,350,93,Fog
+18:00,00:00,dinsdag,30,maart,2010,8,7,996,18,340,91,Overcast
+00:00,06:00,woensdag,31,maart,2010,8,7,1001,12,320,92,Mostly cloudy
+06:00,12:00,woensdag,31,maart,2010,11,7,1006,6,0,86,Overcast
+12:00,18:00,woensdag,31,maart,2010,14,12,1010,9,0,67,Partly sunny
+18:00,00:00,woensdag,31,maart,2010,13,11,1014,10,0,69,Overcast

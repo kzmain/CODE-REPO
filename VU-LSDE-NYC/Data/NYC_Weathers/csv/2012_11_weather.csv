@@ -1,0 +1,127 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,donderdag,1,november,2012,7,7,1001,6,0,72,Clear
+06:00,12:00,donderdag,1,november,2012,10,6,1002,9,0,68,Clear
+12:00,18:00,donderdag,1,november,2012,11,10,1001,10,280,61,Overcast
+18:00,00:00,donderdag,1,november,2012,9,9,1003,9,0,69,Overcast
+00:00,06:00,vrijdag,2,november,2012,8,8,1003,6,0,71,Overcast
+06:00,12:00,vrijdag,2,november,2012,11,8,1004,8,0,64,Broken clouds
+12:00,18:00,vrijdag,2,november,2012,11,9,1003,11,0,47,Overcast
+18:00,00:00,vrijdag,2,november,2012,8,6,1007,13,290,59,Overcast
+00:00,06:00,zaterdag,3,november,2012,6,6,1008,12,280,62,Clear
+06:00,12:00,zaterdag,3,november,2012,9,6,1010,13,300,56,Sunny
+12:00,18:00,zaterdag,3,november,2012,10,8,1011,16,310,48,Overcast
+18:00,00:00,zaterdag,3,november,2012,8,5,1013,14,310,58,Clear
+00:00,06:00,zondag,4,november,2012,5,4,1014,12,270,66,Clear
+06:00,12:00,zondag,4,november,2012,9,4,1015,8,300,60,Sunny
+12:00,18:00,zondag,4,november,2012,10,7,1014,10,0,50,Sunny
+18:00,00:00,zondag,4,november,2012,7,6,1015,6,0,58,Overcast
+00:00,06:00,maandag,5,november,2012,5,4,1015,6,0,58,Overcast
+06:00,12:00,maandag,5,november,2012,7,3,1017,8,0,52,Overcast
+12:00,18:00,maandag,5,november,2012,7,4,1017,6,0,44,Sunny
+18:00,00:00,maandag,5,november,2012,4,2,1021,8,350,49,Clear
+00:00,06:00,dinsdag,6,november,2012,1,1,1022,11,50,52,Clear
+06:00,12:00,dinsdag,6,november,2012,5,1,1024,10,60,43,Sunny
+12:00,18:00,dinsdag,6,november,2012,5,3,1021,7,60,40,Sunny
+18:00,00:00,dinsdag,6,november,2012,3,3,1020,8,0,55,Clear
+00:00,06:00,woensdag,7,november,2012,3,3,1016,19,50,55,Clear
+06:00,12:00,woensdag,7,november,2012,5,2,1013,20,50,66,Scattered clouds
+12:00,18:00,woensdag,7,november,2012,3,0,1011,15,10,94,Light rain
+12:00,18:00,woensdag,7,november,2012,3,0,1011,15,10,94,Fog
+18:00,00:00,woensdag,7,november,2012,0,-1,1009,12,350,95,Light snow
+18:00,00:00,woensdag,7,november,2012,0,-1,1009,12,350,95,Ice fog
+00:00,06:00,donderdag,8,november,2012,1,0,1008,10,0,86,Light snow
+00:00,06:00,donderdag,8,november,2012,1,0,1008,10,0,86,Ice fog
+06:00,12:00,donderdag,8,november,2012,5,1,1008,8,0,66,Overcast
+12:00,18:00,donderdag,8,november,2012,9,6,1008,13,0,43,Sunny
+18:00,00:00,donderdag,8,november,2012,6,3,1012,13,300,51,Clear
+00:00,06:00,vrijdag,9,november,2012,3,2,1014,13,300,54,Clear
+06:00,12:00,vrijdag,9,november,2012,8,3,1017,17,300,47,Sunny
+12:00,18:00,vrijdag,9,november,2012,12,9,1018,11,300,37,Sunny
+18:00,00:00,vrijdag,9,november,2012,9,7,1022,7,0,57,Clear
+00:00,06:00,zaterdag,10,november,2012,7,6,1024,7,290,65,Clear
+06:00,12:00,zaterdag,10,november,2012,11,6,1026,3,280,66,Overcast
+12:00,18:00,zaterdag,10,november,2012,12,12,1027,0,0,55,Overcast
+18:00,00:00,zaterdag,10,november,2012,12,10,1030,0,0,62,Clear
+00:00,06:00,zondag,11,november,2012,11,10,1031,3,170,79,Fog
+06:00,12:00,zondag,11,november,2012,17,11,1032,4,0,71,Sunny
+12:00,18:00,zondag,11,november,2012,17,13,1031,2,0,67,Sunny
+18:00,00:00,zondag,11,november,2012,14,12,1032,6,0,70,Clear
+00:00,06:00,maandag,12,november,2012,13,10,1031,3,220,82,Clear
+06:00,12:00,maandag,12,november,2012,18,9,1031,3,0,86,Fog
+12:00,18:00,maandag,12,november,2012,18,15,1027,11,190,80,Sunny
+18:00,00:00,maandag,12,november,2012,16,15,1024,7,0,89,Passing clouds
+00:00,06:00,dinsdag,13,november,2012,16,10,1022,11,0,90,Overcast
+06:00,12:00,dinsdag,13,november,2012,10,7,1025,9,0,85,Light rain
+06:00,12:00,dinsdag,13,november,2012,10,7,1025,9,0,85,Mostly cloudy
+12:00,18:00,dinsdag,13,november,2012,8,7,1027,9,0,69,Mostly cloudy
+18:00,00:00,dinsdag,13,november,2012,7,4,1030,11,0,58,Overcast
+00:00,06:00,woensdag,14,november,2012,4,3,1032,10,0,61,Clear
+06:00,12:00,woensdag,14,november,2012,7,3,1033,13,70,56,Sunny
+12:00,18:00,woensdag,14,november,2012,8,6,1032,7,0,48,Sunny
+18:00,00:00,woensdag,14,november,2012,6,4,1032,10,0,50,Clear
+00:00,06:00,donderdag,15,november,2012,3,2,1031,8,0,56,Clear
+06:00,12:00,donderdag,15,november,2012,7,2,1030,11,0,60,Sunny
+12:00,18:00,donderdag,15,november,2012,7,6,1028,5,50,48,Sunny
+18:00,00:00,donderdag,15,november,2012,6,4,1027,6,30,54,Clear
+00:00,06:00,vrijdag,16,november,2012,4,3,1026,3,0,66,Clear
+06:00,12:00,vrijdag,16,november,2012,7,3,1027,11,0,58,Sunny
+12:00,18:00,vrijdag,16,november,2012,8,6,1028,10,10,46,Sunny
+18:00,00:00,vrijdag,16,november,2012,6,4,1031,8,0,55,Clear
+00:00,06:00,zaterdag,17,november,2012,4,4,1032,8,0,58,Clear
+06:00,12:00,zaterdag,17,november,2012,10,4,1036,11,0,55,Sunny
+12:00,18:00,zaterdag,17,november,2012,11,9,1036,6,40,47,Sunny
+18:00,00:00,zaterdag,17,november,2012,8,6,1037,8,50,53,Clear
+00:00,06:00,zondag,18,november,2012,5,4,1037,7,20,63,Clear
+06:00,12:00,zondag,18,november,2012,9,3,1038,13,0,68,Sunny
+12:00,18:00,zondag,18,november,2012,9,8,1036,12,70,61,Sunny
+18:00,00:00,zondag,18,november,2012,8,6,1036,9,0,66,Clear
+00:00,06:00,maandag,19,november,2012,6,3,1034,11,40,75,Clear
+06:00,12:00,maandag,19,november,2012,7,3,1032,11,60,75,Overcast
+12:00,18:00,maandag,19,november,2012,8,7,1028,10,60,70,Partly sunny
+18:00,00:00,maandag,19,november,2012,8,6,1026,4,30,74,Passing clouds
+00:00,06:00,dinsdag,20,november,2012,6,4,1023,8,40,74,Clear
+06:00,12:00,dinsdag,20,november,2012,9,4,1022,8,40,61,Sunny
+12:00,18:00,dinsdag,20,november,2012,10,8,1020,5,60,53,Sunny
+18:00,00:00,dinsdag,20,november,2012,8,7,1021,5,20,61,Clear
+00:00,06:00,woensdag,21,november,2012,7,5,1021,5,50,66,Clear
+06:00,12:00,woensdag,21,november,2012,11,5,1023,11,30,58,Sunny
+12:00,18:00,woensdag,21,november,2012,11,9,1022,6,0,46,Sunny
+18:00,00:00,woensdag,21,november,2012,8,7,1024,6,60,55,Clear
+00:00,06:00,donderdag,22,november,2012,7,6,1024,7,0,70,Clear
+06:00,12:00,donderdag,22,november,2012,11,6,1025,7,50,71,Sunny
+12:00,18:00,donderdag,22,november,2012,12,10,1022,3,0,57,Sunny
+18:00,00:00,donderdag,22,november,2012,9,8,1021,0,0,74,Clear
+00:00,06:00,vrijdag,23,november,2012,8,7,1019,5,250,83,Clear
+06:00,12:00,vrijdag,23,november,2012,12,7,1016,11,280,72,Sunny
+12:00,18:00,vrijdag,23,november,2012,12,10,1010,7,0,71,Sunny
+18:00,00:00,vrijdag,23,november,2012,12,10,1006,8,0,70,Mostly cloudy
+00:00,06:00,zaterdag,24,november,2012,10,5,1006,15,290,52,Clear
+06:00,12:00,zaterdag,24,november,2012,6,4,1007,14,300,42,Sunny
+12:00,18:00,zaterdag,24,november,2012,6,4,1007,13,280,41,Scattered clouds
+18:00,00:00,zaterdag,24,november,2012,3,2,1010,18,280,44,Clear
+00:00,06:00,zondag,25,november,2012,2,1,1012,10,280,45,Passing clouds
+06:00,12:00,zondag,25,november,2012,4,1,1013,13,280,44,Sunny
+12:00,18:00,zondag,25,november,2012,4,3,1012,9,0,48,Scattered clouds
+18:00,00:00,zondag,25,november,2012,3,2,1014,8,0,53,Overcast
+00:00,06:00,maandag,26,november,2012,3,2,1015,7,0,50,Clear
+06:00,12:00,maandag,26,november,2012,7,3,1019,11,270,46,Sunny
+12:00,18:00,maandag,26,november,2012,8,7,1020,8,0,32,Sunny
+18:00,00:00,maandag,26,november,2012,6,5,1024,6,310,40,Clear
+00:00,06:00,dinsdag,27,november,2012,6,5,1024,6,60,44,Overcast
+06:00,12:00,dinsdag,27,november,2012,5,1,1025,10,0,84,Light rain
+06:00,12:00,dinsdag,27,november,2012,5,1,1025,10,0,84,Fog
+12:00,18:00,dinsdag,27,november,2012,2,1,1023,9,0,95,Light snow
+12:00,18:00,dinsdag,27,november,2012,2,1,1023,9,0,95,Fog
+18:00,00:00,dinsdag,27,november,2012,3,2,1023,12,0,89,Mostly cloudy
+00:00,06:00,woensdag,28,november,2012,3,1,1023,6,0,80,Overcast
+06:00,12:00,woensdag,28,november,2012,4,1,1023,5,0,66,Passing clouds
+12:00,18:00,woensdag,28,november,2012,4,2,1022,12,0,51,Partly sunny
+18:00,00:00,woensdag,28,november,2012,2,2,1025,8,280,56,Clear
+00:00,06:00,donderdag,29,november,2012,2,1,1026,11,270,57,Clear
+06:00,12:00,donderdag,29,november,2012,4,2,1027,9,0,53,Sunny
+12:00,18:00,donderdag,29,november,2012,6,4,1026,11,230,48,Sunny
+18:00,00:00,donderdag,29,november,2012,5,4,1026,10,230,52,Clear
+00:00,06:00,vrijdag,30,november,2012,4,4,1027,5,280,53,Clear
+06:00,12:00,vrijdag,30,november,2012,7,3,1029,6,50,49,Partly sunny
+12:00,18:00,vrijdag,30,november,2012,8,6,1029,10,70,58,Overcast
+18:00,00:00,vrijdag,30,november,2012,6,3,1030,15,60,73,Overcast

@@ -1,0 +1,8 @@
+Exception: VE 2015 01 01's data not processed.
+Exception: VE 2015 01 03's data not processed.
+Exception: VE 2015 01 07's data not processed.
+Exception: VE 2015 01 04's data not processed.
+Exception: VE 2015 01 02's data not processed.
+Exception: VE 2015 01 05's data not processed.
+Exception: VE 2015 01 06's data not processed.
+Exception: VE 2015 01 08's data not processed.

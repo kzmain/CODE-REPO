@@ -1,0 +1,140 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,zondag,1,december,2013,4,2,1026,3,300,67,Mostly cloudy
+06:00,12:00,zondag,1,december,2013,8,3,1023,2,70,65,Sunny
+12:00,18:00,zondag,1,december,2013,9,8,1018,4,270,48,Overcast
+18:00,00:00,zondag,1,december,2013,9,7,1017,3,280,50,Overcast
+00:00,06:00,maandag,2,december,2013,7,6,1015,3,300,56,Passing clouds
+06:00,12:00,maandag,2,december,2013,9,6,1015,5,60,68,Overcast
+12:00,18:00,maandag,2,december,2013,9,7,1013,5,60,68,Partly sunny
+18:00,00:00,maandag,2,december,2013,7,5,1013,7,60,78,Clear
+00:00,06:00,dinsdag,3,december,2013,6,4,1012,4,20,82,Overcast
+06:00,12:00,dinsdag,3,december,2013,9,3,1013,4,300,71,Sunny
+12:00,18:00,dinsdag,3,december,2013,12,11,1013,6,290,48,Sunny
+18:00,00:00,dinsdag,3,december,2013,10,6,1015,6,50,65,Clear
+00:00,06:00,woensdag,4,december,2013,6,6,1017,5,40,73,Clear
+06:00,12:00,woensdag,4,december,2013,9,5,1019,3,0,65,Sunny
+12:00,18:00,woensdag,4,december,2013,11,9,1019,3,160,59,Overcast
+18:00,00:00,woensdag,4,december,2013,10,9,1020,7,80,69,Overcast
+00:00,06:00,donderdag,5,december,2013,10,9,1020,4,80,85,Fog
+06:00,12:00,donderdag,5,december,2013,14,10,1019,3,60,87,Fog
+12:00,18:00,donderdag,5,december,2013,16,14,1016,4,180,78,Overcast
+18:00,00:00,donderdag,5,december,2013,16,14,1015,2,160,85,Overcast
+00:00,06:00,vrijdag,6,december,2013,16,14,1012,3,0,89,Fog
+06:00,12:00,vrijdag,6,december,2013,12,8,1016,10,30,85,Light rain
+06:00,12:00,vrijdag,6,december,2013,12,8,1016,10,30,85,Mostly cloudy
+12:00,18:00,vrijdag,6,december,2013,7,7,1017,8,0,85,Overcast
+18:00,00:00,vrijdag,6,december,2013,6,3,1020,14,50,84,Light rain
+18:00,00:00,vrijdag,6,december,2013,6,3,1020,14,50,84,Mostly cloudy
+00:00,06:00,zaterdag,7,december,2013,2,2,1021,6,0,85,Overcast
+06:00,12:00,zaterdag,7,december,2013,4,3,1026,7,0,69,Sunny
+12:00,18:00,zaterdag,7,december,2013,5,3,1027,11,0,47,Sunny
+18:00,00:00,zaterdag,7,december,2013,3,0,1032,11,300,44,Clear
+00:00,06:00,zondag,8,december,2013,-1,-2,1034,7,0,50,Clear
+06:00,12:00,zondag,8,december,2013,0,-2,1035,10,60,50,Sunny
+12:00,18:00,zondag,8,december,2013,1,-1,1034,10,0,63,Light snow
+12:00,18:00,zondag,8,december,2013,1,-1,1034,10,0,63,Mostly cloudy
+18:00,00:00,zondag,8,december,2013,0,-1,1031,11,0,83,Low clouds
+00:00,06:00,maandag,9,december,2013,2,0,878,14,70,90,Light freezing rain
+00:00,06:00,maandag,9,december,2013,2,0,878,14,70,90,Ice fog
+06:00,12:00,maandag,9,december,2013,2,1,1020,12,50,90,Fog
+12:00,18:00,maandag,9,december,2013,4,3,1015,8,0,87,Fog
+18:00,00:00,maandag,9,december,2013,3,3,1016,8,0,82,Clear
+00:00,06:00,dinsdag,10,december,2013,3,2,1015,7,250,77,Clear
+06:00,12:00,dinsdag,10,december,2013,3,1,1015,7,0,85,Light snow
+06:00,12:00,dinsdag,10,december,2013,3,1,1015,7,0,85,Fog
+12:00,18:00,dinsdag,10,december,2013,2,1,1013,12,280,79,Light snow
+12:00,18:00,dinsdag,10,december,2013,2,1,1013,12,280,79,Fog
+18:00,00:00,dinsdag,10,december,2013,1,-1,1018,13,270,61,Clear
+00:00,06:00,woensdag,11,december,2013,-2,-3,1023,9,0,52,Clear
+06:00,12:00,woensdag,11,december,2013,-1,-3,1026,12,250,51,Sunny
+12:00,18:00,woensdag,11,december,2013,1,-1,1023,10,0,46,Sunny
+18:00,00:00,woensdag,11,december,2013,0,-1,1023,12,260,50,Clear
+00:00,06:00,donderdag,12,december,2013,-2,-4,1024,9,0,54,Clear
+06:00,12:00,donderdag,12,december,2013,-3,-5,1027,17,310,41,Sunny
+12:00,18:00,donderdag,12,december,2013,-3,-3,1024,7,0,37,Sunny
+18:00,00:00,donderdag,12,december,2013,-3,-5,1023,11,0,42,Clear
+00:00,06:00,vrijdag,13,december,2013,-4,-5,1021,8,0,44,Clear
+06:00,12:00,vrijdag,13,december,2013,-1,-4,1022,13,270,42,Overcast
+12:00,18:00,vrijdag,13,december,2013,2,1,1022,7,0,41,Sunny
+18:00,00:00,vrijdag,13,december,2013,1,1,1026,5,270,45,Clear
+00:00,06:00,zaterdag,14,december,2013,1,-3,1029,8,0,57,Passing clouds
+06:00,12:00,zaterdag,14,december,2013,-3,-4,1032,15,70,75,Light snow
+06:00,12:00,zaterdag,14,december,2013,-3,-4,1032,15,70,75,Overcast
+12:00,18:00,zaterdag,14,december,2013,-3,-4,1027,22,60,82,Snow
+12:00,18:00,zaterdag,14,december,2013,-3,-4,1027,22,60,82,Overcast
+18:00,00:00,zaterdag,14,december,2013,1,-6,1017,18,70,86,Snow
+18:00,00:00,zaterdag,14,december,2013,1,-6,1017,18,70,86,Ice fog
+00:00,06:00,zondag,15,december,2013,3,0,1002,19,60,88,Light rain
+00:00,06:00,zondag,15,december,2013,3,0,1002,19,60,88,Fog
+06:00,12:00,zondag,15,december,2013,2,-1,1002,11,300,81,Overcast
+12:00,18:00,zondag,15,december,2013,4,3,1005,12,300,66,Mostly cloudy
+18:00,00:00,zondag,15,december,2013,3,1,1009,10,240,56,Passing clouds
+00:00,06:00,maandag,16,december,2013,1,-2,1012,13,280,54,Overcast
+06:00,12:00,maandag,16,december,2013,-2,-3,1017,15,270,48,Sunny
+12:00,18:00,maandag,16,december,2013,-1,-2,1019,12,320,38,Sunny
+18:00,00:00,maandag,16,december,2013,-2,-4,1023,8,0,45,Clear
+00:00,06:00,dinsdag,17,december,2013,-2,-3,1023,7,0,47,Overcast
+06:00,12:00,dinsdag,17,december,2013,-2,-4,1021,11,0,77,Light snow
+06:00,12:00,dinsdag,17,december,2013,-2,-4,1021,11,0,77,Overcast
+12:00,18:00,dinsdag,17,december,2013,0,-3,1015,6,0,84,Light snow
+12:00,18:00,dinsdag,17,december,2013,0,-3,1015,6,0,84,Ice fog
+18:00,00:00,dinsdag,17,december,2013,-3,-4,1015,10,0,78,Passing clouds
+00:00,06:00,woensdag,18,december,2013,-4,-5,1014,9,10,75,Overcast
+06:00,12:00,woensdag,18,december,2013,1,-4,1017,11,290,66,Sunny
+12:00,18:00,woensdag,18,december,2013,3,1,1018,12,0,49,Passing clouds
+18:00,00:00,woensdag,18,december,2013,1,0,1021,9,0,54,Clear
+00:00,06:00,donderdag,19,december,2013,0,-1,1022,7,250,59,Clear
+06:00,12:00,donderdag,19,december,2013,4,1,1020,9,0,56,Sunny
+12:00,18:00,donderdag,19,december,2013,7,5,1018,9,260,45,Sunny
+18:00,00:00,donderdag,19,december,2013,8,7,1020,5,240,47,Clear
+00:00,06:00,vrijdag,20,december,2013,7,6,1019,0,0,53,Clear
+06:00,12:00,vrijdag,20,december,2013,9,6,1018,7,0,54,Sunny
+12:00,18:00,vrijdag,20,december,2013,11,10,1015,8,280,44,Sunny
+18:00,00:00,vrijdag,20,december,2013,12,11,1016,16,250,58,Overcast
+00:00,06:00,zaterdag,21,december,2013,12,11,1015,14,250,77,Clear
+06:00,12:00,zaterdag,21,december,2013,14,12,1015,12,260,71,Sunny
+12:00,18:00,zaterdag,21,december,2013,17,15,1013,7,260,61,Sunny
+18:00,00:00,zaterdag,21,december,2013,18,17,1013,13,200,66,Clear
+00:00,06:00,zondag,22,december,2013,19,17,1011,5,0,76,Overcast
+06:00,12:00,zondag,22,december,2013,21,18,1012,9,0,72,Overcast
+12:00,18:00,zondag,22,december,2013,21,18,1012,12,190,66,Overcast
+18:00,00:00,zondag,22,december,2013,19,18,1014,8,0,69,Clear
+00:00,06:00,maandag,23,december,2013,17,16,1015,6,260,78,Mostly cloudy
+06:00,12:00,maandag,23,december,2013,16,15,1015,4,0,91,Light rain
+06:00,12:00,maandag,23,december,2013,16,15,1015,4,0,91,Fog
+12:00,18:00,maandag,23,december,2013,12,11,1016,8,0,88,Light rain
+12:00,18:00,maandag,23,december,2013,12,11,1016,8,0,88,Fog
+18:00,00:00,maandag,23,december,2013,11,6,1019,8,0,74,Mostly cloudy
+00:00,06:00,dinsdag,24,december,2013,5,2,1021,7,0,53,Clear
+06:00,12:00,dinsdag,24,december,2013,4,1,1021,9,0,56,Sunny
+12:00,18:00,dinsdag,24,december,2013,5,2,1020,12,310,45,Overcast
+18:00,00:00,dinsdag,24,december,2013,2,-3,1025,18,310,52,Passing clouds
+00:00,06:00,woensdag,25,december,2013,-4,-7,1030,13,300,48,Clear
+06:00,12:00,woensdag,25,december,2013,-4,-7,1033,7,0,48,Sunny
+12:00,18:00,woensdag,25,december,2013,-2,-3,1032,1,0,40,Sunny
+18:00,00:00,woensdag,25,december,2013,-1,-2,1032,7,190,50,Clear
+00:00,06:00,donderdag,26,december,2013,-1,-1,1028,6,0,61,Mostly cloudy
+06:00,12:00,donderdag,26,december,2013,1,-1,1025,6,280,58,Mostly cloudy
+12:00,18:00,donderdag,26,december,2013,2,1,1022,12,280,62,Passing clouds
+18:00,00:00,donderdag,26,december,2013,2,1,1025,8,270,60,Clear
+00:00,06:00,vrijdag,27,december,2013,1,0,1026,8,290,59,Clear
+06:00,12:00,vrijdag,27,december,2013,3,0,1027,7,0,50,Sunny
+12:00,18:00,vrijdag,27,december,2013,4,3,1025,7,250,41,Partly sunny
+18:00,00:00,vrijdag,27,december,2013,4,3,1026,7,290,50,Clear
+00:00,06:00,zaterdag,28,december,2013,4,3,1024,10,250,50,Clear
+06:00,12:00,zaterdag,28,december,2013,8,3,1023,13,240,45,Sunny
+12:00,18:00,zaterdag,28,december,2013,13,10,1019,8,0,32,Sunny
+18:00,00:00,zaterdag,28,december,2013,11,9,1019,11,0,39,Clear
+00:00,06:00,zondag,29,december,2013,9,8,1017,6,270,41,Clear
+06:00,12:00,zondag,29,december,2013,9,7,1015,6,0,55,Overcast
+12:00,18:00,zondag,29,december,2013,6,5,1002,15,70,92,Rain
+12:00,18:00,zondag,29,december,2013,6,5,1002,15,70,92,Fog
+18:00,00:00,zondag,29,december,2013,7,5,1002,12,0,80,Clear
+00:00,06:00,maandag,30,december,2013,6,5,1008,9,250,74,Clear
+06:00,12:00,maandag,30,december,2013,7,4,1013,8,0,70,Mostly cloudy
+12:00,18:00,maandag,30,december,2013,3,-1,1018,11,310,50,Overcast
+18:00,00:00,maandag,30,december,2013,-2,-5,1022,10,0,48,Clear
+00:00,06:00,dinsdag,31,december,2013,-5,-6,1021,7,0,52,Passing clouds
+06:00,12:00,dinsdag,31,december,2013,-2,-6,1020,5,0,51,Sunny
+12:00,18:00,dinsdag,31,december,2013,0,-2,1019,11,260,55,Broken clouds
+18:00,00:00,dinsdag,31,december,2013,0,-3,1023,15,290,43,Clear

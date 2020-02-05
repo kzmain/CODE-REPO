@@ -1,0 +1,208 @@
+<!DOCTYPE HTML>
+<!--
+	Directive by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-tables-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-gl-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-api-1.3.4.min.js"></script>
+		<title>NYC TAXI ANALYSIS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+          #yearly{
+            width: 100%;
+            height: 300px;
+          } 
+          #yearly_increasement{
+            width: 80%;
+            height: 350px;
+          }
+          #yearly_marketshare{
+            width: 100%;
+            height: 400px;
+          }
+          #monthly{
+            width: 100%;
+            height: 400px;
+          }
+          #seasonally{
+            width: 100%;
+            height: 600px;
+          }
+          
+          #pop{
+            width: 100%;
+            height: 400px;
+          }
+          #yellow_div{
+          	height: 800px;
+          }
+          #top_yellow{
+            width: 100%;
+            height: 100%;
+          }
+          #green_div{
+          	height: 800px;
+          }
+          #top_green{
+            width: 100%;
+            height: 100%;
+          }
+          #fhv_div{
+          	height: 800px;
+          }
+          #top_fhv{
+            width: 100%;
+            height: 100%;
+          }
+          #rush_hour_div{
+          	height: 800px;
+          }
+          #rush_hour{
+            width: 100%;
+            height: 100%;
+          }
+          #holiday_div{
+          	height: 800px;
+          }
+          #holiday{
+            width: 100%;
+            height: 100%;
+          }
+          #routes_div{
+          	height: 800px;
+          }
+          #routes{
+            width: 100%;
+            height: 100%;
+          }
+          object{
+            width: 90%;
+            height: 100%;
+          }
+        </style>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+				<img class="logo icon fa-paper-plane" src="./www/pics/icon_png_edition.png">
+				<h1>New York Taxi Usage Analysis</h1>
+				<p>NYC Taxi analysis through out 10 years, conducted by <a href = "https://github.com/kzmain/">Kai</a> and <a href="https://github.com/Yizhen-Zhao">Yi Zhen</a></p>
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+				<header class="major container medium">
+					<h2>TOP 10 YELLOW TAXI ZONE</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container" id="yellow_div">
+					<div id="top_yellow"></div>
+					<script type="text/javascript">
+						function load_top_yellow() {
+     document.getElementById("top_yellow").innerHTML='<object type="text/html" data="./v_top_district/top_yellow.html" ></object>';
+  }
+  						load_top_yellow();
+					</script>
+				</div>
+
+				<header class="major container medium">
+					<h2>REAL RUSH HOUR</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container" id="rush_hour_div">
+					<div id="rush_hour"></div>
+					<script type="text/javascript">
+						function load_rush_hour() {
+     document.getElementById("rush_hour").innerHTML='<object type="text/html" data="./v_rush_hour/rush_hour_map.html" ></object>';
+  }
+  						load_rush_hour();
+					</script>
+				</div>
+
+				
+
+				<header class="major container medium">
+					<h2>HOLIDAY INFLUENCE</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container" id="holiday_div">
+					<div id="holiday"></div>
+					<script type="text/javascript">
+						function load_holiday() {
+     document.getElementById("holiday").innerHTML='<object type="text/html" data="./v_holiday/holiday.html" ></object>';
+  }
+  						load_holiday();
+					</script>
+				</div>
+
+				<header class="major container medium">
+					<h2>WEATHER INFLUENCE</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container" id="routes_div">
+					<div id="routes"></div>
+					<script type="text/javascript">
+						function load_routes() {
+     document.getElementById("routes").innerHTML='<object type="text/html" data="./v_routes/routes.html" ></object>';
+  }
+  						load_routes();
+					</script>
+				</div>
+
+				<footer class="major container medium">
+					<ul class="actions special">
+						<li><a href="./index.html" class="button">Page 1</a></li>
+					</ul>
+				</footer>
+
+
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				<div class="container medium">
+
+					<p>LSDE 2019 GROUP 11</p>
+
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+				</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

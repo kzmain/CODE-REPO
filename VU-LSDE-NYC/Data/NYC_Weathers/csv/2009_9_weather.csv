@@ -1,0 +1,96 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+12:00,18:00,dinsdag,8,september,2009,23,23,1017,0,0,64,Passing clouds
+18:00,00:00,dinsdag,8,september,2009,NULL,NULL,0,0,0,0,No weather data available
+00:00,06:00,woensdag,9,september,2009,22,19,1018,9,40,73,Clear
+06:00,12:00,woensdag,9,september,2009,20,20,1019,7,0,73,Scattered clouds
+12:00,18:00,woensdag,9,september,2009,23,22,1021,12,70,59,Mostly cloudy
+18:00,00:00,woensdag,9,september,2009,22,18,1024,19,60,57,Passing clouds
+00:00,06:00,donderdag,10,september,2009,18,16,1027,12,50,62,Clear
+06:00,12:00,donderdag,10,september,2009,18,16,1029,19,70,70,Broken clouds
+12:00,18:00,donderdag,10,september,2009,19,19,1029,24,60,56,Sunny
+18:00,00:00,donderdag,10,september,2009,18,16,1027,23,60,64,Overcast
+00:00,06:00,vrijdag,11,september,2009,16,13,1024,20,40,88,Light rain
+00:00,06:00,vrijdag,11,september,2009,16,13,1024,20,40,88,Overcast
+06:00,12:00,vrijdag,11,september,2009,16,13,1021,28,40,93,Overcast
+12:00,18:00,vrijdag,11,september,2009,18,16,1017,28,70,97,Light rain
+12:00,18:00,vrijdag,11,september,2009,18,16,1017,28,70,97,Fog
+18:00,00:00,vrijdag,11,september,2009,19,17,1016,14,60,98,Low clouds
+00:00,06:00,zaterdag,12,september,2009,18,17,1015,10,0,96,Mostly cloudy
+06:00,12:00,zaterdag,12,september,2009,19,18,1015,11,0,94,Fog
+12:00,18:00,zaterdag,12,september,2009,19,19,1014,9,0,91,Fog
+18:00,00:00,zaterdag,12,september,2009,19,18,1013,6,0,94,Mostly cloudy
+00:00,06:00,zondag,13,september,2009,19,18,1013,6,0,90,Overcast
+06:00,12:00,zondag,13,september,2009,22,18,1012,5,0,82,Sunny
+12:00,18:00,zondag,13,september,2009,26,24,1011,9,0,52,Sunny
+18:00,00:00,zondag,13,september,2009,22,20,1012,6,0,70,Clear
+00:00,06:00,maandag,14,september,2009,18,17,1013,5,280,84,Clear
+06:00,12:00,maandag,14,september,2009,22,16,1014,6,0,76,Sunny
+12:00,18:00,maandag,14,september,2009,24,23,1012,12,0,51,Sunny
+18:00,00:00,maandag,14,september,2009,23,19,1012,9,0,58,Clear
+00:00,06:00,dinsdag,15,september,2009,19,18,1012,6,0,78,Clear
+06:00,12:00,dinsdag,15,september,2009,23,18,1013,8,0,71,Sunny
+12:00,18:00,dinsdag,15,september,2009,25,24,1013,5,0,56,Sunny
+18:00,00:00,dinsdag,15,september,2009,24,21,1015,6,0,62,Clear
+00:00,06:00,woensdag,16,september,2009,21,18,1017,10,0,66,Overcast
+06:00,12:00,woensdag,16,september,2009,19,18,1021,21,60,78,Overcast
+12:00,18:00,woensdag,16,september,2009,19,18,1023,16,100,71,Overcast
+18:00,00:00,woensdag,16,september,2009,18,17,1025,18,60,76,Mostly cloudy
+00:00,06:00,donderdag,17,september,2009,17,14,1025,14,40,78,Mostly cloudy
+06:00,12:00,donderdag,17,september,2009,14,13,1025,14,40,78,Overcast
+12:00,18:00,donderdag,17,september,2009,17,14,1023,10,0,66,Sunny
+18:00,00:00,donderdag,17,september,2009,15,13,1021,1,0,78,Clear
+00:00,06:00,vrijdag,18,september,2009,14,14,1019,4,240,80,Clear
+06:00,12:00,vrijdag,18,september,2009,20,14,1018,9,0,77,Partly sunny
+12:00,18:00,vrijdag,18,september,2009,23,22,1015,13,0,53,Sunny
+18:00,00:00,vrijdag,18,september,2009,21,19,1017,9,0,59,Clear
+00:00,06:00,zaterdag,19,september,2009,18,13,1020,9,0,59,Clear
+06:00,12:00,zaterdag,19,september,2009,17,12,1024,9,0,57,Sunny
+12:00,18:00,zaterdag,19,september,2009,21,18,1024,7,0,37,Sunny
+18:00,00:00,zaterdag,19,september,2009,17,15,1025,2,320,58,Clear
+00:00,06:00,zondag,20,september,2009,14,12,1027,2,30,73,Clear
+06:00,12:00,zondag,20,september,2009,21,13,1027,6,20,66,Sunny
+12:00,18:00,zondag,20,september,2009,23,20,1026,7,0,45,Sunny
+18:00,00:00,zondag,20,september,2009,19,16,1025,6,0,65,Clear
+00:00,06:00,maandag,21,september,2009,16,14,1026,9,250,79,Clear
+06:00,12:00,maandag,21,september,2009,22,14,1022,2,0,72,Sunny
+12:00,18:00,maandag,21,september,2009,24,21,1025,8,0,58,Sunny
+18:00,00:00,maandag,21,september,2009,19,18,1026,8,0,83,Clear
+00:00,06:00,dinsdag,22,september,2009,19,18,1026,2,160,89,Passing clouds
+06:00,12:00,dinsdag,22,september,2009,22,18,1026,2,0,80,Mostly cloudy
+12:00,18:00,dinsdag,22,september,2009,22,21,1024,7,0,68,Partly sunny
+18:00,00:00,dinsdag,22,september,2009,21,21,1024,8,0,73,Clear
+00:00,06:00,woensdag,23,september,2009,21,21,1023,7,0,84,Clear
+06:00,12:00,woensdag,23,september,2009,24,21,1022,9,0,82,Partly sunny
+12:00,18:00,woensdag,23,september,2009,27,24,1018,9,0,71,Passing clouds
+18:00,00:00,woensdag,23,september,2009,26,24,1017,11,0,76,Passing clouds
+00:00,06:00,donderdag,24,september,2009,24,21,1016,8,0,92,Fog
+06:00,12:00,donderdag,24,september,2009,26,21,1017,6,0,77,Sunny
+12:00,18:00,donderdag,24,september,2009,28,25,1015,11,0,51,Passing clouds
+18:00,00:00,donderdag,24,september,2009,24,20,1017,6,0,54,Clear
+00:00,06:00,vrijdag,25,september,2009,19,16,1019,7,0,62,Clear
+06:00,12:00,vrijdag,25,september,2009,19,16,1022,13,0,60,Sunny
+12:00,18:00,vrijdag,25,september,2009,20,18,1024,17,30,42,Sunny
+18:00,00:00,vrijdag,25,september,2009,17,14,1027,11,0,51,Clear
+00:00,06:00,zaterdag,26,september,2009,14,12,1027,10,0,64,Clear
+06:00,12:00,zaterdag,26,september,2009,17,13,1027,12,0,56,Scattered clouds
+12:00,18:00,zaterdag,26,september,2009,19,16,1023,12,0,53,Broken clouds
+18:00,00:00,zaterdag,26,september,2009,16,14,1019,8,0,82,Light rain
+18:00,00:00,zaterdag,26,september,2009,16,14,1019,8,0,82,Fog
+00:00,06:00,zondag,27,september,2009,16,14,1015,5,0,96,Light rain
+00:00,06:00,zondag,27,september,2009,16,14,1015,5,0,96,Fog
+06:00,12:00,zondag,27,september,2009,18,16,1008,9,0,98,Light rain
+06:00,12:00,zondag,27,september,2009,18,16,1008,9,0,98,Fog
+12:00,18:00,zondag,27,september,2009,19,18,1001,7,0,96,Fog
+18:00,00:00,zondag,27,september,2009,19,17,1000,9,0,93,Passing clouds
+00:00,06:00,maandag,28,september,2009,16,14,1002,10,0,92,Clear
+06:00,12:00,maandag,28,september,2009,21,14,1003,11,0,81,Sunny
+12:00,18:00,maandag,28,september,2009,22,20,998,12,0,73,Overcast
+18:00,00:00,maandag,28,september,2009,16,15,1000,6,0,92,Overcast
+00:00,06:00,dinsdag,29,september,2009,15,13,1001,10,0,69,Clear
+06:00,12:00,dinsdag,29,september,2009,18,13,1002,14,0,62,Sunny
+12:00,18:00,dinsdag,29,september,2009,19,17,1002,15,250,55,Overcast
+18:00,00:00,dinsdag,29,september,2009,17,14,1004,11,240,66,Passing clouds
+00:00,06:00,woensdag,30,september,2009,14,13,1006,8,0,79,Clear
+06:00,12:00,woensdag,30,september,2009,14,12,1009,14,0,64,Sunny
+12:00,18:00,woensdag,30,september,2009,15,14,1011,14,270,59,Overcast
+18:00,00:00,woensdag,30,september,2009,13,10,1014,12,0,62,Clear

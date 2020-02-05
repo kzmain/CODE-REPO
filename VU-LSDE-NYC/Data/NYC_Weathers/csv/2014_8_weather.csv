@@ -1,0 +1,128 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,vrijdag,1,augustus,2014,23,22,1021,5,0,76,Clear
+06:00,12:00,vrijdag,1,augustus,2014,28,22,1022,4,0,70,Sunny
+12:00,18:00,vrijdag,1,augustus,2014,28,24,1022,8,0,67,Broken clouds
+18:00,00:00,vrijdag,1,augustus,2014,24,23,1022,6,0,68,Sunny
+00:00,06:00,zaterdag,2,augustus,2014,23,19,1022,3,0,78,Passing clouds
+06:00,12:00,zaterdag,2,augustus,2014,22,18,1022,11,90,87,Fog
+12:00,18:00,zaterdag,2,augustus,2014,23,22,1020,17,60,66,Overcast
+18:00,00:00,zaterdag,2,augustus,2014,22,19,1020,10,100,78,Sunny
+00:00,06:00,zondag,3,augustus,2014,20,19,1020,0,0,87,Fog
+06:00,12:00,zondag,3,augustus,2014,22,19,1020,6,0,86,Light rain
+06:00,12:00,zondag,3,augustus,2014,22,19,1020,6,0,86,Fog
+12:00,18:00,zondag,3,augustus,2014,24,23,1018,5,0,65,Overcast
+18:00,00:00,zondag,3,augustus,2014,23,21,1018,2,0,77,Scattered clouds
+00:00,06:00,maandag,4,augustus,2014,22,21,1018,4,0,82,Overcast
+06:00,12:00,maandag,4,augustus,2014,27,22,1018,4,0,72,Passing clouds
+12:00,18:00,maandag,4,augustus,2014,28,27,1017,8,0,56,Sunny
+18:00,00:00,maandag,4,augustus,2014,27,24,1017,4,0,64,Sunny
+00:00,06:00,dinsdag,5,augustus,2014,24,22,1017,2,280,69,Clear
+06:00,12:00,dinsdag,5,augustus,2014,29,22,1017,4,0,61,Sunny
+12:00,18:00,dinsdag,5,augustus,2014,31,28,1014,2,50,41,Sunny
+18:00,00:00,dinsdag,5,augustus,2014,26,25,1013,4,0,60,Clear
+00:00,06:00,woensdag,6,augustus,2014,23,22,1012,3,0,72,Clear
+06:00,12:00,woensdag,6,augustus,2014,26,22,1012,5,0,65,Sunny
+12:00,18:00,woensdag,6,augustus,2014,28,26,1011,4,0,44,Passing clouds
+18:00,00:00,woensdag,6,augustus,2014,27,23,1012,6,0,52,Clear
+00:00,06:00,donderdag,7,augustus,2014,22,19,1013,6,0,59,Clear
+06:00,12:00,donderdag,7,augustus,2014,27,19,1014,5,0,52,Sunny
+12:00,18:00,donderdag,7,augustus,2014,28,27,1013,9,0,34,Scattered clouds
+18:00,00:00,donderdag,7,augustus,2014,26,22,1015,6,0,38,Clear
+00:00,06:00,vrijdag,8,augustus,2014,20,19,1017,4,0,58,Clear
+06:00,12:00,vrijdag,8,augustus,2014,26,18,1019,8,290,55,Sunny
+12:00,18:00,vrijdag,8,augustus,2014,28,26,1017,4,0,37,Sunny
+18:00,00:00,vrijdag,8,augustus,2014,26,23,1018,3,340,44,Clear
+00:00,06:00,zaterdag,9,augustus,2014,22,19,1018,2,0,62,Clear
+06:00,12:00,zaterdag,9,augustus,2014,28,20,1020,5,0,52,Sunny
+12:00,18:00,zaterdag,9,augustus,2014,30,28,1018,8,0,30,Sunny
+18:00,00:00,zaterdag,9,augustus,2014,27,23,1019,3,30,44,Sunny
+00:00,06:00,zondag,10,augustus,2014,23,20,1020,4,0,61,Clear
+06:00,12:00,zondag,10,augustus,2014,29,21,1020,4,30,54,Sunny
+12:00,18:00,zondag,10,augustus,2014,31,28,1019,7,80,36,Partly sunny
+18:00,00:00,zondag,10,augustus,2014,27,24,1019,4,0,44,Clear
+00:00,06:00,maandag,11,augustus,2014,24,22,1020,5,280,57,Passing clouds
+06:00,12:00,maandag,11,augustus,2014,29,22,1020,2,0,50,Sunny
+12:00,18:00,maandag,11,augustus,2014,29,26,1020,6,0,39,Sunny
+18:00,00:00,maandag,11,augustus,2014,25,23,1019,4,0,64,Clear
+00:00,06:00,dinsdag,12,augustus,2014,23,23,1018,4,0,72,Clear
+06:00,12:00,dinsdag,12,augustus,2014,25,23,1017,8,0,68,More clouds than sun
+12:00,18:00,dinsdag,12,augustus,2014,26,23,1015,7,0,76,Broken clouds
+18:00,00:00,dinsdag,12,augustus,2014,24,22,1013,11,0,82,Mostly cloudy
+00:00,06:00,woensdag,13,augustus,2014,22,20,1009,8,0,91,Light rain
+00:00,06:00,woensdag,13,augustus,2014,22,20,1009,8,0,91,Overcast
+06:00,12:00,woensdag,13,augustus,2014,22,20,1006,10,0,91,Light rain
+06:00,12:00,woensdag,13,augustus,2014,22,20,1006,10,0,91,Fog
+12:00,18:00,woensdag,13,augustus,2014,28,23,1005,6,0,66,Partly sunny
+18:00,00:00,woensdag,13,augustus,2014,24,22,1007,10,290,68,Passing clouds
+00:00,06:00,donderdag,14,augustus,2014,21,18,1009,5,0,63,Clear
+06:00,12:00,donderdag,14,augustus,2014,22,17,1012,8,0,55,Sunny
+12:00,18:00,donderdag,14,augustus,2014,25,24,1010,4,0,39,Passing clouds
+18:00,00:00,donderdag,14,augustus,2014,24,21,1011,9,0,47,Sunny
+00:00,06:00,vrijdag,15,augustus,2014,19,16,1012,6,0,57,Clear
+06:00,12:00,vrijdag,15,augustus,2014,23,16,1014,9,0,51,Sunny
+12:00,18:00,vrijdag,15,augustus,2014,22,21,1014,11,310,46,Overcast
+18:00,00:00,vrijdag,15,augustus,2014,21,20,1015,7,280,49,Overcast
+00:00,06:00,zaterdag,16,augustus,2014,19,18,1015,7,0,58,Clear
+06:00,12:00,zaterdag,16,augustus,2014,24,18,1016,4,270,55,Sunny
+12:00,18:00,zaterdag,16,augustus,2014,25,24,1014,6,0,42,Sunny
+18:00,00:00,zaterdag,16,augustus,2014,24,22,1013,7,0,44,Clear
+00:00,06:00,zondag,17,augustus,2014,22,21,1012,8,220,54,Clear
+06:00,12:00,zondag,17,augustus,2014,24,19,1011,6,0,66,Sunny
+12:00,18:00,zondag,17,augustus,2014,27,25,1010,4,0,47,Partly sunny
+18:00,00:00,zondag,17,augustus,2014,26,21,1012,4,0,45,Clear
+00:00,06:00,maandag,18,augustus,2014,20,17,1012,5,0,61,Clear
+06:00,12:00,maandag,18,augustus,2014,23,17,1013,8,290,60,Sunny
+12:00,18:00,maandag,18,augustus,2014,27,26,1010,7,0,39,Scattered clouds
+18:00,00:00,maandag,18,augustus,2014,26,22,1011,5,30,44,Clear
+00:00,06:00,dinsdag,19,augustus,2014,21,17,1012,7,0,66,Clear
+06:00,12:00,dinsdag,19,augustus,2014,26,18,1013,9,0,61,Sunny
+12:00,18:00,dinsdag,19,augustus,2014,27,24,1012,4,0,53,Sunny
+18:00,00:00,dinsdag,19,augustus,2014,24,22,1013,5,0,72,Clear
+00:00,06:00,woensdag,20,augustus,2014,22,21,1014,1,160,76,Clear
+06:00,12:00,woensdag,20,augustus,2014,27,22,1016,2,0,62,Passing clouds
+12:00,18:00,woensdag,20,augustus,2014,28,26,1015,4,0,44,Sunny
+18:00,00:00,woensdag,20,augustus,2014,24,23,1016,4,0,56,Clear
+00:00,06:00,donderdag,21,augustus,2014,23,19,1017,2,240,73,Overcast
+06:00,12:00,donderdag,21,augustus,2014,27,19,1018,2,0,70,Sunny
+12:00,18:00,donderdag,21,augustus,2014,28,24,1017,9,0,52,Sunny
+18:00,00:00,donderdag,21,augustus,2014,23,21,1017,7,170,69,Sunny
+00:00,06:00,vrijdag,22,augustus,2014,21,19,1017,5,0,92,Fog
+06:00,12:00,vrijdag,22,augustus,2014,23,19,1017,11,0,78,Partly sunny
+12:00,18:00,vrijdag,22,augustus,2014,25,21,1017,8,0,63,More clouds than sun
+18:00,00:00,vrijdag,22,augustus,2014,22,21,1017,7,100,66,Overcast
+00:00,06:00,zaterdag,23,augustus,2014,21,20,1018,8,0,70,Passing clouds
+06:00,12:00,zaterdag,23,augustus,2014,22,20,1019,14,60,70,Overcast
+12:00,18:00,zaterdag,23,augustus,2014,24,22,1019,8,90,57,Partly sunny
+18:00,00:00,zaterdag,23,augustus,2014,21,19,1020,0,0,75,Overcast
+00:00,06:00,zondag,24,augustus,2014,21,18,1020,5,0,75,Clear
+06:00,12:00,zondag,24,augustus,2014,25,18,1021,8,350,65,Sunny
+12:00,18:00,zondag,24,augustus,2014,26,23,1020,5,60,51,Partly sunny
+18:00,00:00,zondag,24,augustus,2014,22,20,1021,1,0,68,Clear
+00:00,06:00,maandag,25,augustus,2014,19,18,1021,3,0,79,Clear
+06:00,12:00,maandag,25,augustus,2014,28,18,1022,3,0,63,Sunny
+12:00,18:00,maandag,25,augustus,2014,31,29,1020,8,0,36,Sunny
+18:00,00:00,maandag,25,augustus,2014,28,24,1020,4,250,46,Clear
+00:00,06:00,dinsdag,26,augustus,2014,24,21,1020,2,20,69,Clear
+06:00,12:00,dinsdag,26,augustus,2014,29,22,1021,2,0,65,Sunny
+12:00,18:00,dinsdag,26,augustus,2014,31,27,1020,5,0,50,Sunny
+18:00,00:00,dinsdag,26,augustus,2014,26,22,1019,4,0,60,Clear
+00:00,06:00,woensdag,27,augustus,2014,23,21,1017,7,0,65,Clear
+06:00,12:00,woensdag,27,augustus,2014,29,22,1017,1,260,59,Sunny
+12:00,18:00,woensdag,27,augustus,2014,32,30,1013,6,0,43,Sunny
+18:00,00:00,woensdag,27,augustus,2014,29,25,1012,6,0,59,Sunny
+00:00,06:00,donderdag,28,augustus,2014,26,22,1011,6,0,65,Passing clouds
+06:00,12:00,donderdag,28,augustus,2014,26,21,1012,8,0,53,Sunny
+12:00,18:00,donderdag,28,augustus,2014,27,26,1012,9,0,35,Passing clouds
+18:00,00:00,donderdag,28,augustus,2014,25,19,1016,8,0,41,Clear
+00:00,06:00,vrijdag,29,augustus,2014,19,17,1019,3,0,55,Clear
+06:00,12:00,vrijdag,29,augustus,2014,23,16,1022,2,80,56,Sunny
+12:00,18:00,vrijdag,29,augustus,2014,26,23,1022,6,50,40,Sunny
+18:00,00:00,vrijdag,29,augustus,2014,22,19,1024,7,0,56,Clear
+00:00,06:00,zaterdag,30,augustus,2014,21,19,1025,3,0,62,Clear
+06:00,12:00,zaterdag,30,augustus,2014,26,19,1025,2,0,56,Passing clouds
+12:00,18:00,zaterdag,30,augustus,2014,26,24,1023,5,0,59,Mostly cloudy
+18:00,00:00,zaterdag,30,augustus,2014,23,23,1021,2,0,70,Overcast
+00:00,06:00,zondag,31,augustus,2014,24,23,1021,5,0,71,Mostly cloudy
+06:00,12:00,zondag,31,augustus,2014,29,23,1019,6,0,73,Overcast
+12:00,18:00,zondag,31,augustus,2014,32,23,1016,4,230,69,Broken clouds
+18:00,00:00,zondag,31,augustus,2014,24,24,1016,5,0,89,Passing clouds

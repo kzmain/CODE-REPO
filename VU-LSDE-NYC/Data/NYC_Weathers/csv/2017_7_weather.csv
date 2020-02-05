@@ -1,0 +1,130 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,zaterdag,1,juli,2017,26,24,1014,5,0,75,Clear
+06:00,12:00,zaterdag,1,juli,2017,28,25,1015,8,0,76,Scattered clouds
+12:00,18:00,zaterdag,1,juli,2017,29,24,1012,6,0,82,Light rain
+12:00,18:00,zaterdag,1,juli,2017,29,24,1012,6,0,82,Fog
+18:00,00:00,zaterdag,1,juli,2017,26,22,1012,7,0,90,Light rain
+18:00,00:00,zaterdag,1,juli,2017,26,22,1012,7,0,90,Fog
+00:00,06:00,zondag,2,juli,2017,23,22,1014,4,0,93,Passing clouds
+06:00,12:00,zondag,2,juli,2017,28,23,1015,8,0,70,Sunny
+12:00,18:00,zondag,2,juli,2017,31,29,1014,9,0,47,Scattered clouds
+18:00,00:00,zondag,2,juli,2017,29,28,1014,8,0,50,Clear
+00:00,06:00,maandag,3,juli,2017,27,24,1014,1,0,64,Clear
+06:00,12:00,maandag,3,juli,2017,29,25,1015,4,0,52,Sunny
+12:00,18:00,maandag,3,juli,2017,31,22,1015,4,0,62,Sunny
+18:00,00:00,maandag,3,juli,2017,27,23,1015,4,0,63,Passing clouds
+00:00,06:00,dinsdag,4,juli,2017,23,22,1016,6,0,71,Passing clouds
+06:00,12:00,dinsdag,4,juli,2017,27,21,1019,7,70,54,Overcast
+12:00,18:00,dinsdag,4,juli,2017,28,27,1017,1,70,49,Sunny
+18:00,00:00,dinsdag,4,juli,2017,26,24,1019,3,200,51,Passing clouds
+00:00,06:00,woensdag,5,juli,2017,23,21,1020,4,0,58,Clear
+06:00,12:00,woensdag,5,juli,2017,28,22,1022,10,0,56,Sunny
+12:00,18:00,woensdag,5,juli,2017,29,26,1022,10,0,46,Passing clouds
+18:00,00:00,woensdag,5,juli,2017,25,22,1022,6,0,52,Sunny
+00:00,06:00,donderdag,6,juli,2017,22,22,1021,6,0,70,Clear
+06:00,12:00,donderdag,6,juli,2017,23,22,1021,5,0,69,Partly sunny
+12:00,18:00,donderdag,6,juli,2017,24,23,1019,8,0,56,Sunny
+18:00,00:00,donderdag,6,juli,2017,23,23,1016,5,0,67,Overcast
+00:00,06:00,vrijdag,7,juli,2017,23,21,1012,10,60,85,Light rain
+00:00,06:00,vrijdag,7,juli,2017,23,21,1012,10,60,85,Fog
+06:00,12:00,vrijdag,7,juli,2017,21,20,1009,13,60,95,Fog
+12:00,18:00,vrijdag,7,juli,2017,26,22,1008,9,0,77,Overcast
+18:00,00:00,vrijdag,7,juli,2017,26,22,1007,2,0,85,Passing clouds
+00:00,06:00,zaterdag,8,juli,2017,22,21,1007,3,0,94,Clear
+06:00,12:00,zaterdag,8,juli,2017,28,21,1008,1,0,78,Sunny
+12:00,18:00,zaterdag,8,juli,2017,28,28,1007,10,250,57,Sunny
+18:00,00:00,zaterdag,8,juli,2017,27,24,1010,3,280,57,Passing clouds
+00:00,06:00,zondag,9,juli,2017,23,19,1013,5,0,58,Passing clouds
+06:00,12:00,zondag,9,juli,2017,26,21,1016,6,0,50,Sunny
+12:00,18:00,zondag,9,juli,2017,27,26,1016,8,0,41,Passing clouds
+18:00,00:00,zondag,9,juli,2017,26,23,1017,2,170,48,Clear
+00:00,06:00,maandag,10,juli,2017,23,21,1018,4,260,52,Clear
+06:00,12:00,maandag,10,juli,2017,27,22,1018,6,0,50,Sunny
+12:00,18:00,maandag,10,juli,2017,28,27,1016,7,0,55,Passing clouds
+18:00,00:00,maandag,10,juli,2017,27,25,1015,5,0,64,Mostly cloudy
+00:00,06:00,dinsdag,11,juli,2017,25,24,1014,2,0,75,Mostly cloudy
+06:00,12:00,dinsdag,11,juli,2017,27,24,1014,7,0,74,Passing clouds
+12:00,18:00,dinsdag,11,juli,2017,29,28,1013,4,0,64,Partly sunny
+18:00,00:00,dinsdag,11,juli,2017,29,27,1014,4,280,64,Clear
+00:00,06:00,woensdag,12,juli,2017,27,26,1014,5,0,72,Clear
+06:00,12:00,woensdag,12,juli,2017,29,25,1015,5,0,71,Sunny
+12:00,18:00,woensdag,12,juli,2017,31,30,1014,8,0,56,Scattered clouds
+18:00,00:00,woensdag,12,juli,2017,30,27,1015,9,0,65,Clear
+00:00,06:00,donderdag,13,juli,2017,27,27,1015,8,270,72,Clear
+06:00,12:00,donderdag,13,juli,2017,31,27,1015,6,0,63,Sunny
+12:00,18:00,donderdag,13,juli,2017,32,27,1014,10,270,61,Sunny
+18:00,00:00,donderdag,13,juli,2017,27,23,1016,6,70,77,Overcast
+00:00,06:00,vrijdag,14,juli,2017,23,19,1018,10,0,88,Low clouds
+06:00,12:00,vrijdag,14,juli,2017,19,18,1019,8,0,94,Light rain
+06:00,12:00,vrijdag,14,juli,2017,19,18,1019,8,0,94,Fog
+12:00,18:00,vrijdag,14,juli,2017,21,20,1017,5,0,94,Fog
+18:00,00:00,vrijdag,14,juli,2017,21,20,1016,9,0,95,Fog
+00:00,06:00,zaterdag,15,juli,2017,21,20,1014,5,60,96,Fog
+06:00,12:00,zaterdag,15,juli,2017,26,20,1015,4,0,90,Fog
+12:00,18:00,zaterdag,15,juli,2017,28,27,1012,6,0,54,Scattered clouds
+18:00,00:00,zaterdag,15,juli,2017,27,24,1013,5,0,54,Clear
+00:00,06:00,zondag,16,juli,2017,23,21,1014,3,290,73,Clear
+06:00,12:00,zondag,16,juli,2017,27,21,1015,3,0,65,Sunny
+12:00,18:00,zondag,16,juli,2017,29,28,1014,6,0,50,Sunny
+18:00,00:00,zondag,16,juli,2017,27,24,1015,5,0,64,Clear
+00:00,06:00,maandag,17,juli,2017,24,23,1016,1,0,75,Clear
+06:00,12:00,maandag,17,juli,2017,29,23,1017,4,250,65,Sunny
+12:00,18:00,maandag,17,juli,2017,29,27,1017,6,0,65,Passing clouds
+18:00,00:00,maandag,17,juli,2017,26,25,1018,4,0,82,Passing clouds
+00:00,06:00,dinsdag,18,juli,2017,25,23,1018,3,0,81,Clear
+06:00,12:00,dinsdag,18,juli,2017,29,24,1019,2,290,71,Sunny
+12:00,18:00,dinsdag,18,juli,2017,31,28,1018,6,190,60,Sunny
+18:00,00:00,dinsdag,18,juli,2017,28,26,1018,5,0,71,Clear
+00:00,06:00,woensdag,19,juli,2017,26,25,1017,7,0,81,Clear
+06:00,12:00,woensdag,19,juli,2017,31,25,1017,2,0,68,Sunny
+12:00,18:00,woensdag,19,juli,2017,33,32,1015,6,0,41,Sunny
+18:00,00:00,woensdag,19,juli,2017,32,29,1015,2,0,50,Clear
+00:00,06:00,donderdag,20,juli,2017,28,26,1015,1,290,66,Clear
+06:00,12:00,donderdag,20,juli,2017,33,26,1015,1,0,64,Sunny
+12:00,18:00,donderdag,20,juli,2017,34,32,1012,9,280,44,Sunny
+18:00,00:00,donderdag,20,juli,2017,32,26,1012,7,290,64,Passing clouds
+00:00,06:00,vrijdag,21,juli,2017,26,25,1012,3,280,71,Passing clouds
+06:00,12:00,vrijdag,21,juli,2017,31,25,1013,6,0,63,Passing clouds
+12:00,18:00,vrijdag,21,juli,2017,33,31,1011,7,0,43,Sunny
+18:00,00:00,vrijdag,21,juli,2017,31,29,1011,7,0,54,Clear
+00:00,06:00,zaterdag,22,juli,2017,29,26,1011,4,0,65,Passing clouds
+06:00,12:00,zaterdag,22,juli,2017,31,26,1012,3,0,55,Sunny
+12:00,18:00,zaterdag,22,juli,2017,33,29,1009,6,0,41,Sunny
+18:00,00:00,zaterdag,22,juli,2017,27,23,1008,4,0,75,Overcast
+00:00,06:00,zondag,23,juli,2017,22,22,1008,2,0,96,Fog
+06:00,12:00,zondag,23,juli,2017,25,22,1009,2,260,92,Fog
+12:00,18:00,zondag,23,juli,2017,26,23,1010,4,0,83,Mostly cloudy
+18:00,00:00,zondag,23,juli,2017,24,23,1011,8,0,78,Partly cloudy
+00:00,06:00,maandag,24,juli,2017,23,21,1009,11,0,87,Mostly cloudy
+06:00,12:00,maandag,24,juli,2017,21,18,1009,14,0,95,Light rain
+06:00,12:00,maandag,24,juli,2017,21,18,1009,14,0,95,Fog
+12:00,18:00,maandag,24,juli,2017,21,17,1011,11,0,84,Overcast
+18:00,00:00,maandag,24,juli,2017,19,18,1013,11,0,78,Overcast
+00:00,06:00,dinsdag,25,juli,2017,18,17,1016,8,0,84,Overcast
+06:00,12:00,dinsdag,25,juli,2017,18,18,1018,8,0,82,Overcast
+12:00,18:00,dinsdag,25,juli,2017,22,19,1020,7,0,72,Mostly cloudy
+18:00,00:00,dinsdag,25,juli,2017,20,19,1022,10,70,74,Mostly cloudy
+00:00,06:00,woensdag,26,juli,2017,19,18,1024,9,60,73,Overcast
+06:00,12:00,woensdag,26,juli,2017,24,19,1024,6,70,60,Sunny
+12:00,18:00,woensdag,26,juli,2017,24,23,1022,6,0,56,Sunny
+18:00,00:00,woensdag,26,juli,2017,22,19,1021,5,160,61,Clear
+00:00,06:00,donderdag,27,juli,2017,20,19,1019,4,0,78,Clear
+06:00,12:00,donderdag,27,juli,2017,24,19,1017,5,0,75,Broken clouds
+12:00,18:00,donderdag,27,juli,2017,25,23,1014,6,160,79,Overcast
+18:00,00:00,donderdag,27,juli,2017,25,23,1012,2,0,81,Passing clouds
+00:00,06:00,vrijdag,28,juli,2017,23,22,1011,2,0,88,Passing clouds
+06:00,12:00,vrijdag,28,juli,2017,27,23,1011,4,0,79,Partly sunny
+12:00,18:00,vrijdag,28,juli,2017,29,27,1009,5,0,58,Partly sunny
+18:00,00:00,vrijdag,28,juli,2017,27,24,1009,8,0,70,Passing clouds
+00:00,06:00,zaterdag,29,juli,2017,24,22,1008,18,70,51,Clear
+06:00,12:00,zaterdag,29,juli,2017,22,20,1009,17,60,54,Partly sunny
+12:00,18:00,zaterdag,29,juli,2017,24,22,1010,14,50,55,Overcast
+18:00,00:00,zaterdag,29,juli,2017,24,21,1011,11,40,51,Clear
+00:00,06:00,zondag,30,juli,2017,21,18,1013,6,0,58,Clear
+06:00,12:00,zondag,30,juli,2017,24,18,1016,9,0,54,Sunny
+12:00,18:00,zondag,30,juli,2017,27,26,1016,9,0,36,Sunny
+18:00,00:00,zondag,30,juli,2017,26,22,1017,4,40,47,Clear
+00:00,06:00,maandag,31,juli,2017,21,19,1018,5,260,60,Clear
+06:00,12:00,maandag,31,juli,2017,28,19,1018,2,300,56,Sunny
+12:00,18:00,maandag,31,juli,2017,31,29,1017,3,0,40,Sunny
+18:00,00:00,maandag,31,juli,2017,28,25,1017,2,0,56,Clear

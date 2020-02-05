@@ -1,0 +1,125 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,woensdag,1,september,2010,28,25,1017,2,0,57,Clear
+06:00,12:00,woensdag,1,september,2010,33,25,1018,3,0,52,Sunny
+12:00,18:00,woensdag,1,september,2010,35,31,1016,6,0,34,Sunny
+18:00,00:00,woensdag,1,september,2010,30,28,1015,8,160,54,Clear
+00:00,06:00,donderdag,2,september,2010,28,26,1016,8,0,57,Clear
+06:00,12:00,donderdag,2,september,2010,33,26,1016,6,220,57,Sunny
+12:00,18:00,donderdag,2,september,2010,34,32,1014,13,0,47,Sunny
+18:00,00:00,donderdag,2,september,2010,31,27,1013,12,0,54,Clear
+00:00,06:00,vrijdag,3,september,2010,27,24,1012,5,0,58,Clear
+06:00,12:00,vrijdag,3,september,2010,28,24,1009,7,50,67,Sunny
+12:00,18:00,vrijdag,3,september,2010,29,27,1003,20,60,69,Sunny
+18:00,00:00,vrijdag,3,september,2010,28,26,1000,9,0,67,Clear
+00:00,06:00,zaterdag,4,september,2010,26,23,1000,13,270,57,Passing clouds
+06:00,12:00,zaterdag,4,september,2010,26,22,1003,19,270,47,Sunny
+12:00,18:00,zaterdag,4,september,2010,27,24,1004,17,270,32,Partly sunny
+18:00,00:00,zaterdag,4,september,2010,24,19,1009,18,270,40,Clear
+00:00,06:00,zondag,5,september,2010,18,16,1012,11,270,53,Clear
+06:00,12:00,zondag,5,september,2010,22,17,1014,10,0,47,Sunny
+12:00,18:00,zondag,5,september,2010,24,23,1014,10,0,32,Sunny
+18:00,00:00,zondag,5,september,2010,23,18,1018,5,0,40,Clear
+00:00,06:00,maandag,6,september,2010,18,16,1021,1,280,57,Clear
+06:00,12:00,maandag,6,september,2010,24,16,1023,2,0,48,Sunny
+12:00,18:00,maandag,6,september,2010,26,23,1022,10,0,36,Sunny
+18:00,00:00,maandag,6,september,2010,22,22,1022,12,0,62,Clear
+00:00,06:00,dinsdag,7,september,2010,22,21,1022,9,0,69,Clear
+06:00,12:00,dinsdag,7,september,2010,28,21,1021,10,0,67,Sunny
+12:00,18:00,dinsdag,7,september,2010,31,28,1017,11,0,49,Sunny
+18:00,00:00,dinsdag,7,september,2010,27,25,1015,11,0,67,Clear
+00:00,06:00,woensdag,8,september,2010,24,24,1011,13,220,68,Clear
+06:00,12:00,woensdag,8,september,2010,29,24,1008,13,260,60,Sunny
+12:00,18:00,woensdag,8,september,2010,32,28,1005,13,0,24,Sunny
+18:00,00:00,woensdag,8,september,2010,25,19,1009,14,300,48,Clear
+00:00,06:00,donderdag,9,september,2010,19,17,1009,8,260,58,Clear
+06:00,12:00,donderdag,9,september,2010,19,17,1008,11,0,57,Mostly cloudy
+12:00,18:00,donderdag,9,september,2010,21,20,1008,15,300,49,Broken clouds
+18:00,00:00,donderdag,9,september,2010,19,17,1010,11,0,57,Passing clouds
+00:00,06:00,vrijdag,10,september,2010,17,16,1009,12,270,65,Clear
+06:00,12:00,vrijdag,10,september,2010,22,16,1011,6,0,60,Sunny
+12:00,18:00,vrijdag,10,september,2010,23,21,1011,13,290,46,Overcast
+18:00,00:00,vrijdag,10,september,2010,20,17,1014,7,0,53,Overcast
+00:00,06:00,zaterdag,11,september,2010,17,15,1015,6,0,67,Clear
+06:00,12:00,zaterdag,11,september,2010,24,15,1016,8,0,57,Sunny
+12:00,18:00,zaterdag,11,september,2010,26,24,1015,9,0,35,Sunny
+18:00,00:00,zaterdag,11,september,2010,22,19,1016,10,0,60,Clear
+00:00,06:00,zondag,12,september,2010,19,18,1017,10,0,72,Clear
+06:00,12:00,zondag,12,september,2010,18,18,1017,11,0,70,Sunny
+12:00,18:00,zondag,12,september,2010,19,16,1017,11,90,82,Overcast
+18:00,00:00,zondag,12,september,2010,16,16,1018,11,60,92,Mostly cloudy
+00:00,06:00,maandag,13,september,2010,16,16,1016,5,50,93,Mostly cloudy
+06:00,12:00,maandag,13,september,2010,20,16,1016,4,0,82,Overcast
+12:00,18:00,maandag,13,september,2010,24,21,1012,6,0,54,Scattered clouds
+18:00,00:00,maandag,13,september,2010,18,17,1013,6,0,93,Fog
+00:00,06:00,dinsdag,14,september,2010,17,16,1012,5,260,92,Fog
+06:00,12:00,dinsdag,14,september,2010,23,16,1013,5,0,76,Sunny
+12:00,18:00,dinsdag,14,september,2010,24,22,1012,17,260,39,Sunny
+18:00,00:00,dinsdag,14,september,2010,19,17,1015,2,0,48,Clear
+00:00,06:00,woensdag,15,september,2010,17,15,1016,7,260,58,Clear
+06:00,12:00,woensdag,15,september,2010,19,14,1019,11,0,53,Sunny
+12:00,18:00,woensdag,15,september,2010,22,21,1018,13,0,37,Sunny
+18:00,00:00,woensdag,15,september,2010,19,16,1021,7,0,48,Clear
+00:00,06:00,donderdag,16,september,2010,14,14,1021,2,40,61,Clear
+06:00,12:00,donderdag,16,september,2010,19,14,1020,12,110,56,Sunny
+12:00,18:00,donderdag,16,september,2010,22,21,1014,13,160,73,Overcast
+18:00,00:00,donderdag,16,september,2010,21,19,1010,7,0,94,Light rain
+18:00,00:00,donderdag,16,september,2010,21,19,1010,7,0,94,Fog
+00:00,06:00,vrijdag,17,september,2010,19,19,1008,10,0,95,Fog
+06:00,12:00,vrijdag,17,september,2010,21,19,1012,5,250,82,Fog
+12:00,18:00,vrijdag,17,september,2010,21,20,1015,7,10,60,Overcast
+18:00,00:00,vrijdag,17,september,2010,18,16,1020,6,0,65,Clear
+00:00,06:00,zaterdag,18,september,2010,16,15,1021,2,0,74,Mostly cloudy
+06:00,12:00,zaterdag,18,september,2010,20,16,1023,10,0,67,Mostly cloudy
+12:00,18:00,zaterdag,18,september,2010,21,19,1022,2,0,65,Overcast
+18:00,00:00,zaterdag,18,september,2010,18,18,1021,6,0,74,Clear
+00:00,06:00,zondag,19,september,2010,18,17,1021,5,250,81,Clear
+06:00,12:00,zondag,19,september,2010,23,17,1021,2,260,72,Sunny
+12:00,18:00,zondag,19,september,2010,27,23,1017,4,0,48,Sunny
+18:00,00:00,zondag,19,september,2010,22,21,1016,5,0,67,Overcast
+00:00,06:00,maandag,20,september,2010,21,17,1015,10,0,72,Passing clouds
+06:00,12:00,maandag,20,september,2010,21,16,1016,13,0,52,Sunny
+12:00,18:00,maandag,20,september,2010,23,21,1015,14,0,37,Sunny
+18:00,00:00,maandag,20,september,2010,19,16,1018,7,0,46,Clear
+00:00,06:00,dinsdag,21,september,2010,15,13,1021,6,30,54,Clear
+06:00,12:00,dinsdag,21,september,2010,21,13,1024,2,0,51,Sunny
+12:00,18:00,dinsdag,21,september,2010,22,20,1021,12,170,43,Sunny
+18:00,00:00,dinsdag,21,september,2010,19,18,1019,11,0,68,Clear
+00:00,06:00,woensdag,22,september,2010,18,18,1019,12,0,78,Clear
+06:00,12:00,woensdag,22,september,2010,26,18,1018,12,0,74,Sunny
+12:00,18:00,woensdag,22,september,2010,30,28,1015,7,0,49,Sunny
+18:00,00:00,woensdag,22,september,2010,27,21,1016,7,0,77,Fog
+00:00,06:00,donderdag,23,september,2010,21,20,1019,5,270,87,Clear
+06:00,12:00,donderdag,23,september,2010,24,19,1022,7,50,70,Sunny
+12:00,18:00,donderdag,23,september,2010,27,22,1022,11,0,57,Sunny
+18:00,00:00,donderdag,23,september,2010,21,19,1022,8,0,80,Clear
+00:00,06:00,vrijdag,24,september,2010,20,19,1021,4,0,87,Fog
+06:00,12:00,vrijdag,24,september,2010,23,19,1020,2,240,83,Fog
+12:00,18:00,vrijdag,24,september,2010,29,26,1015,7,0,63,Sunny
+18:00,00:00,vrijdag,24,september,2010,27,24,1012,8,0,73,Clear
+00:00,06:00,zaterdag,25,september,2010,26,24,1010,12,0,67,Clear
+06:00,12:00,zaterdag,25,september,2010,29,24,1010,12,0,60,Sunny
+12:00,18:00,zaterdag,25,september,2010,31,29,1008,15,260,31,Sunny
+18:00,00:00,zaterdag,25,september,2010,27,21,1011,7,0,39,Clear
+00:00,06:00,zondag,26,september,2010,19,18,1015,12,0,57,Clear
+06:00,12:00,zondag,26,september,2010,21,18,1017,7,0,52,Sunny
+12:00,18:00,zondag,26,september,2010,22,21,1017,17,60,58,Sunny
+18:00,00:00,zondag,26,september,2010,21,17,1018,18,50,67,Mostly cloudy
+00:00,06:00,maandag,27,september,2010,17,16,1018,11,60,88,Fog
+06:00,12:00,maandag,27,september,2010,19,17,1018,0,0,96,Light rain
+06:00,12:00,maandag,27,september,2010,19,17,1018,0,0,96,Fog
+12:00,18:00,maandag,27,september,2010,22,19,1015,0,0,93,Fog
+18:00,00:00,maandag,27,september,2010,22,22,1013,0,0,94,Light rain
+18:00,00:00,maandag,27,september,2010,22,22,1013,0,0,94,Fog
+00:00,06:00,dinsdag,28,september,2010,22,22,1009,0,0,94,Light rain
+00:00,06:00,dinsdag,28,september,2010,22,22,1009,0,0,94,Fog
+06:00,12:00,dinsdag,28,september,2010,22,21,1008,0,0,92,Fog
+12:00,18:00,dinsdag,28,september,2010,23,21,1006,7,0,94,Fog
+18:00,00:00,dinsdag,28,september,2010,22,22,1007,8,0,91,Passing clouds
+00:00,06:00,woensdag,29,september,2010,21,18,1010,8,270,81,Clear
+06:00,12:00,woensdag,29,september,2010,23,18,1014,6,0,64,Sunny
+12:00,18:00,woensdag,29,september,2010,25,23,1014,8,0,52,Sunny
+18:00,00:00,woensdag,29,september,2010,22,21,1014,7,0,70,Passing clouds
+00:00,06:00,donderdag,30,september,2010,21,21,1013,9,0,85,Low clouds
+06:00,12:00,donderdag,30,september,2010,23,21,1009,12,0,96,Fog
+12:00,18:00,donderdag,30,september,2010,23,23,1007,10,160,92,Fog
+18:00,00:00,donderdag,30,september,2010,23,23,1005,0,0,91,Fog

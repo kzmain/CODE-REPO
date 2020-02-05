@@ -1,0 +1,130 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,zaterdag,1,oktober,2016,14,13,1023,12,0,90,Overcast
+06:00,12:00,zaterdag,1,oktober,2016,16,14,1023,14,70,85,Overcast
+12:00,18:00,zaterdag,1,oktober,2016,17,16,1022,10,70,82,Overcast
+18:00,00:00,zaterdag,1,oktober,2016,16,14,1021,11,70,84,Overcast
+00:00,06:00,zondag,2,oktober,2016,14,14,1020,6,0,88,Low clouds
+06:00,12:00,zondag,2,oktober,2016,16,14,1020,8,10,85,Overcast
+12:00,18:00,zondag,2,oktober,2016,17,16,1018,3,0,82,Overcast
+18:00,00:00,zondag,2,oktober,2016,17,17,1017,0,0,85,Overcast
+00:00,06:00,maandag,3,oktober,2016,17,16,1016,3,0,89,Fog
+06:00,12:00,maandag,3,oktober,2016,20,16,1016,4,0,81,Overcast
+12:00,18:00,maandag,3,oktober,2016,22,20,1016,5,0,62,Scattered clouds
+18:00,00:00,maandag,3,oktober,2016,19,18,1018,0,0,74,Passing clouds
+00:00,06:00,dinsdag,4,oktober,2016,18,17,1022,10,0,81,Overcast
+06:00,12:00,dinsdag,4,oktober,2016,18,16,1026,14,60,74,Mostly cloudy
+12:00,18:00,dinsdag,4,oktober,2016,20,18,1025,13,0,58,Partly sunny
+18:00,00:00,dinsdag,4,oktober,2016,19,16,1027,11,60,68,Mostly cloudy
+00:00,06:00,woensdag,5,oktober,2016,16,13,1027,10,0,71,Clear
+06:00,12:00,woensdag,5,oktober,2016,17,12,1028,11,70,68,Passing clouds
+12:00,18:00,woensdag,5,oktober,2016,19,17,1026,9,0,53,Sunny
+18:00,00:00,woensdag,5,oktober,2016,16,14,1026,1,140,76,Clear
+00:00,06:00,donderdag,6,oktober,2016,14,13,1026,4,40,86,Clear
+06:00,12:00,donderdag,6,oktober,2016,19,13,1027,1,30,78,Sunny
+12:00,18:00,donderdag,6,oktober,2016,23,20,1025,6,0,47,Sunny
+18:00,00:00,donderdag,6,oktober,2016,18,16,1026,3,160,78,Clear
+00:00,06:00,vrijdag,7,oktober,2016,15,14,1025,0,0,88,Clear
+06:00,12:00,vrijdag,7,oktober,2016,21,14,1026,3,100,76,Fog
+12:00,18:00,vrijdag,7,oktober,2016,23,19,1024,8,0,47,Sunny
+18:00,00:00,vrijdag,7,oktober,2016,17,16,1023,4,0,76,Clear
+00:00,06:00,zaterdag,8,oktober,2016,16,14,1021,3,40,89,Clear
+06:00,12:00,zaterdag,8,oktober,2016,19,15,1020,6,60,84,Passing clouds
+12:00,18:00,zaterdag,8,oktober,2016,20,19,1017,2,110,85,Fog
+18:00,00:00,zaterdag,8,oktober,2016,18,18,1017,2,0,94,Fog
+00:00,06:00,zondag,9,oktober,2016,18,14,1015,4,10,93,Light rain
+00:00,06:00,zondag,9,oktober,2016,18,14,1015,4,10,93,Fog
+06:00,12:00,zondag,9,oktober,2016,13,11,1016,13,10,87,Light rain
+06:00,12:00,zondag,9,oktober,2016,13,11,1016,13,10,87,Fog
+12:00,18:00,zondag,9,oktober,2016,14,11,1016,17,20,75,Overcast
+18:00,00:00,zondag,9,oktober,2016,14,12,1018,9,0,55,Clear
+00:00,06:00,maandag,10,oktober,2016,12,8,1020,10,0,59,Clear
+06:00,12:00,maandag,10,oktober,2016,14,8,1023,9,0,51,Sunny
+12:00,18:00,maandag,10,oktober,2016,17,15,1024,7,0,33,Sunny
+18:00,00:00,maandag,10,oktober,2016,15,11,1027,4,0,46,Clear
+00:00,06:00,dinsdag,11,oktober,2016,10,8,1030,7,0,60,Clear
+06:00,12:00,dinsdag,11,oktober,2016,14,8,1032,7,70,55,Sunny
+12:00,18:00,dinsdag,11,oktober,2016,17,14,1030,4,0,54,Sunny
+18:00,00:00,dinsdag,11,oktober,2016,13,13,1030,3,150,73,Clear
+00:00,06:00,woensdag,12,oktober,2016,13,12,1029,2,0,83,Passing clouds
+06:00,12:00,woensdag,12,oktober,2016,17,12,1028,1,90,74,Sunny
+12:00,18:00,woensdag,12,oktober,2016,18,16,1025,3,0,61,Sunny
+18:00,00:00,woensdag,12,oktober,2016,15,14,1023,2,0,80,Clear
+00:00,06:00,donderdag,13,oktober,2016,14,13,1020,1,290,90,Fog
+06:00,12:00,donderdag,13,oktober,2016,19,13,1019,2,0,82,Sunny
+12:00,18:00,donderdag,13,oktober,2016,19,17,1018,7,0,73,Partly sunny
+18:00,00:00,donderdag,13,oktober,2016,17,13,1021,5,290,67,Clear
+00:00,06:00,vrijdag,14,oktober,2016,12,9,1024,7,0,63,Clear
+06:00,12:00,vrijdag,14,oktober,2016,13,9,1027,10,0,59,Sunny
+12:00,18:00,vrijdag,14,oktober,2016,16,14,1027,7,0,41,Sunny
+18:00,00:00,vrijdag,14,oktober,2016,13,10,1028,6,20,51,Clear
+00:00,06:00,zaterdag,15,oktober,2016,10,8,1029,5,30,67,Clear
+06:00,12:00,zaterdag,15,oktober,2016,16,8,1031,4,0,63,Sunny
+12:00,18:00,zaterdag,15,oktober,2016,18,14,1028,4,0,52,Sunny
+18:00,00:00,zaterdag,15,oktober,2016,14,13,1027,6,0,68,Clear
+00:00,06:00,zondag,16,oktober,2016,13,12,1025,4,0,80,Clear
+06:00,12:00,zondag,16,oktober,2016,17,12,1023,7,0,74,Sunny
+12:00,18:00,zondag,16,oktober,2016,21,18,1018,4,0,62,Overcast
+18:00,00:00,zondag,16,oktober,2016,19,18,1017,11,0,72,Clear
+00:00,06:00,maandag,17,oktober,2016,18,17,1015,6,0,78,Passing clouds
+06:00,12:00,maandag,17,oktober,2016,24,17,1014,4,260,74,Overcast
+12:00,18:00,maandag,17,oktober,2016,27,24,1012,4,0,53,Sunny
+18:00,00:00,maandag,17,oktober,2016,24,22,1012,3,260,62,Clear
+00:00,06:00,dinsdag,18,oktober,2016,22,19,1013,6,0,73,Clear
+06:00,12:00,dinsdag,18,oktober,2016,25,19,1013,3,250,69,Sunny
+12:00,18:00,dinsdag,18,oktober,2016,27,24,1011,8,170,57,Sunny
+18:00,00:00,dinsdag,18,oktober,2016,24,22,1011,7,0,71,Clear
+00:00,06:00,woensdag,19,oktober,2016,22,21,1011,9,0,77,Clear
+06:00,12:00,woensdag,19,oktober,2016,26,21,1014,8,280,70,Partly sunny
+12:00,18:00,woensdag,19,oktober,2016,29,26,1015,6,0,44,Sunny
+18:00,00:00,woensdag,19,oktober,2016,25,19,1019,5,0,44,Clear
+00:00,06:00,donderdag,20,oktober,2016,18,17,1020,9,60,59,Clear
+06:00,12:00,donderdag,20,oktober,2016,20,17,1021,12,0,66,Passing clouds
+12:00,18:00,donderdag,20,oktober,2016,21,20,1018,11,0,72,Overcast
+18:00,00:00,donderdag,20,oktober,2016,20,19,1016,9,0,84,Low clouds
+00:00,06:00,vrijdag,21,oktober,2016,21,19,1012,6,0,88,Mostly cloudy
+06:00,12:00,vrijdag,21,oktober,2016,20,19,1008,4,0,91,Rain
+06:00,12:00,vrijdag,21,oktober,2016,20,19,1008,4,0,91,Fog
+12:00,18:00,vrijdag,21,oktober,2016,21,19,1002,5,0,92,Partly sunny
+18:00,00:00,vrijdag,21,oktober,2016,19,17,998,3,80,93,Fog
+00:00,06:00,zaterdag,22,oktober,2016,14,10,996,11,300,87,Mostly cloudy
+06:00,12:00,zaterdag,22,oktober,2016,10,8,996,12,290,84,Light rain
+06:00,12:00,zaterdag,22,oktober,2016,10,8,996,12,290,84,Overcast
+12:00,18:00,zaterdag,22,oktober,2016,10,8,999,19,290,70,More clouds than sun
+18:00,00:00,zaterdag,22,oktober,2016,10,9,1004,16,290,58,Overcast
+00:00,06:00,zondag,23,oktober,2016,9,8,1007,15,280,49,Clear
+06:00,12:00,zondag,23,oktober,2016,14,8,1009,12,280,51,Sunny
+12:00,18:00,zondag,23,oktober,2016,16,14,1010,14,290,41,Passing clouds
+18:00,00:00,zondag,23,oktober,2016,15,13,1012,8,0,50,Clear
+00:00,06:00,maandag,24,oktober,2016,14,11,1009,5,0,72,Overcast
+06:00,12:00,maandag,24,oktober,2016,15,11,1013,10,300,68,Sunny
+12:00,18:00,maandag,24,oktober,2016,16,14,1014,14,290,36,Passing clouds
+18:00,00:00,maandag,24,oktober,2016,12,9,1019,10,0,49,Clear
+00:00,06:00,dinsdag,25,oktober,2016,9,8,1021,7,0,54,Clear
+06:00,12:00,dinsdag,25,oktober,2016,10,8,1023,9,300,59,More clouds than sun
+12:00,18:00,dinsdag,25,oktober,2016,11,10,1023,9,0,42,Overcast
+18:00,00:00,dinsdag,25,oktober,2016,9,7,1027,12,300,43,Clear
+00:00,06:00,woensdag,26,oktober,2016,6,4,1028,6,0,56,Clear
+06:00,12:00,woensdag,26,oktober,2016,8,3,1030,6,0,56,Sunny
+12:00,18:00,woensdag,26,oktober,2016,10,8,1029,7,350,38,Scattered clouds
+18:00,00:00,woensdag,26,oktober,2016,8,7,1031,5,0,41,Clear
+00:00,06:00,donderdag,27,oktober,2016,7,6,1031,8,70,49,Mostly cloudy
+06:00,12:00,donderdag,27,oktober,2016,7,5,1030,11,0,71,Light rain
+06:00,12:00,donderdag,27,oktober,2016,7,5,1030,11,0,71,Overcast
+12:00,18:00,donderdag,27,oktober,2016,9,6,1024,9,0,90,Cloudy
+18:00,00:00,donderdag,27,oktober,2016,12,9,1018,8,60,95,Fog
+00:00,06:00,vrijdag,28,oktober,2016,12,7,1017,8,290,91,Passing clouds
+06:00,12:00,vrijdag,28,oktober,2016,8,7,1020,15,310,65,Partly sunny
+12:00,18:00,vrijdag,28,oktober,2016,8,7,1020,16,300,53,Overcast
+18:00,00:00,vrijdag,28,oktober,2016,7,6,1023,11,0,60,Clear
+00:00,06:00,zaterdag,29,oktober,2016,6,4,1023,2,290,70,Clear
+06:00,12:00,zaterdag,29,oktober,2016,11,4,1021,5,0,61,Sunny
+12:00,18:00,zaterdag,29,oktober,2016,17,13,1014,8,0,50,Sunny
+18:00,00:00,zaterdag,29,oktober,2016,18,16,1013,9,0,58,Passing clouds
+00:00,06:00,zondag,30,oktober,2016,18,17,1012,10,0,68,Mostly cloudy
+06:00,12:00,zondag,30,oktober,2016,22,18,1012,2,0,66,Sunny
+12:00,18:00,zondag,30,oktober,2016,24,16,1010,5,0,71,Partly sunny
+18:00,00:00,zondag,30,oktober,2016,16,13,1013,5,0,88,Mostly cloudy
+00:00,06:00,maandag,31,oktober,2016,13,8,1016,8,0,70,Overcast
+06:00,12:00,maandag,31,oktober,2016,9,7,1021,9,0,60,Scattered clouds
+12:00,18:00,maandag,31,oktober,2016,12,11,1022,4,0,43,Sunny
+18:00,00:00,maandag,31,oktober,2016,11,8,1025,7,0,53,Clear

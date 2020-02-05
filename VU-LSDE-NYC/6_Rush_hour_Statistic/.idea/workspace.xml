@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f17c97d-04f3-4673-9d32-38a72d9b0bf9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rush_hour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/.idea/modules/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/.idea/modules/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/reports/untitled-untitled$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/untitled/untitled$sources_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/untitled/untitled$sources_2.11/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/untitled/untitled$sources_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/scala-2.11/resolution-cache/untitled/untitled$sources_2.11/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Data_Clean/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Data_Clean/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/.idea/5_Web_Visualization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/.idea/5_Web_Visualization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/scripts/rush_hours/rush_hour_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/scripts/rush_hours/rush_hour_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/html/routes/a1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/html/routes/a1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h0.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h10.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h12.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h13.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h14.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h15.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h16.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h17.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h18.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h20.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h21.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h23.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h7.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/clear/h7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h0.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h10.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h12.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h13.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h14.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h15.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h16.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h17.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h18.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h20.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h21.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h23.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h7.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h8.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h9.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/fog/h9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h0.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h10.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h12.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h13.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h14.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h15.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h16.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h17.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h18.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h20.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h21.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h23.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h7.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h8.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h9.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/heavy_rain/h9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/light_snow/h10.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/light_snow/h10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h0.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h10.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h12.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h13.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h14.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h15.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h16.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h17.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h17.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h18.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h18.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h20.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h21.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h22.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h22.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h23.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h23.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h7.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h8.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h9.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5_Web_Visualization/www/js/route_js/snow/h9.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled$rush_hour.coverage" NAME="rush_hour Coverage Results" MODIFIED="1572578504256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/app.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3360">
+              <caret line="224" column="1" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rush_hour.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.6/site-packages/py4j/protocol.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="327" selection-start-line="327" selection-end-line="327" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.6/site-packages/pyspark/sql/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>process_green_taxi_after_2016_07</find>
+      <find>path_result</find>
+      <find>LocationID</find>
+      <find>process_green_taxi_before_2016_07</find>
+      <find>p_location_id</find>
+      <find>d_location_id</find>
+      <find>show()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>d_id</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/app.scala" />
+        <option value="$PROJECT_DIR$/rush_hour.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="392" />
+    <option name="y" value="83" />
+    <option name="width" value="1082" />
+    <option name="height" value="967" />
+  </component>
+  <component name="ProjectId" id="1SYMrDienPA9qC2NTUt9HFo6aCI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="6_Rush_hour_Statistic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="6_Rush_hour_Statistic" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572382947840" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rush_hour">
+    <configuration name="app" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rush_hour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rush_hour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rush_hour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="untitled" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root-2_data_clean [file:/Users/kzmain/_Repository/LSDE-NYC/2_Data_Clean/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="untitled-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="86123036" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3500172521" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f17c97d-04f3-4673-9d32-38a72d9b0bf9" name="Default Changelist" comment="" />
+      <created>1571736272395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571736272395</updated>
+      <workItem from="1571736273777" duration="676000" />
+      <workItem from="1571739912312" duration="55000" />
+      <workItem from="1571739986337" duration="23000" />
+      <workItem from="1572004106965" duration="661000" />
+      <workItem from="1572078565621" duration="130000" />
+      <workItem from="1572078714554" duration="4000" />
+      <workItem from="1572082674608" duration="618000" />
+      <workItem from="1572094286109" duration="13000" />
+      <workItem from="1572096354695" duration="6260000" />
+      <workItem from="1572233040257" duration="2777000" />
+      <workItem from="1572372954681" duration="2567000" />
+      <workItem from="1572577060514" duration="2071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13675000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="392" y="83" width="1082" height="967" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20865385" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61485714" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.392" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rush_hour.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rush_hour.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/app.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="224" column="1" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/pyspark/sql/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/py4j/protocol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rush_hour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

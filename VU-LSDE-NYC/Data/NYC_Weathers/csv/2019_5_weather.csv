@@ -1,0 +1,140 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,woensdag,1,mei,2019,12,12,1030,3,0,70,Mostly cloudy
+06:00,12:00,woensdag,1,mei,2019,12,11,1031,3,0,72,More clouds than sun
+12:00,18:00,woensdag,1,mei,2019,13,11,1028,3,0,64,Overcast
+18:00,00:00,woensdag,1,mei,2019,11,10,1024,1,0,92,Fog
+00:00,06:00,donderdag,2,mei,2019,11,10,1021,0,0,96,Fog
+06:00,12:00,donderdag,2,mei,2019,21,11,1020,2,270,84,Fog
+12:00,18:00,donderdag,2,mei,2019,25,16,1019,6,50,57,Sunny
+18:00,00:00,donderdag,2,mei,2019,15,12,1022,5,0,80,Mostly cloudy
+00:00,06:00,vrijdag,3,mei,2019,11,10,1022,4,50,85,Low clouds
+06:00,12:00,vrijdag,3,mei,2019,12,10,1020,8,0,88,Fog
+12:00,18:00,vrijdag,3,mei,2019,13,12,1018,4,40,84,Overcast
+18:00,00:00,vrijdag,3,mei,2019,12,12,1016,2,50,93,Fog
+00:00,06:00,zaterdag,4,mei,2019,12,12,1014,1,0,96,Fog
+06:00,12:00,zaterdag,4,mei,2019,16,12,1013,1,0,94,Fog
+12:00,18:00,zaterdag,4,mei,2019,22,17,1010,5,0,72,Mostly cloudy
+18:00,00:00,zaterdag,4,mei,2019,18,14,1010,1,0,86,Fog
+00:00,06:00,zondag,5,mei,2019,14,13,1010,3,50,95,Rain
+00:00,06:00,zondag,5,mei,2019,14,13,1010,3,50,95,Fog
+06:00,12:00,zondag,5,mei,2019,12,12,1010,11,50,97,Light rain
+06:00,12:00,zondag,5,mei,2019,12,12,1010,11,50,97,Fog
+12:00,18:00,zondag,5,mei,2019,12,11,1010,14,50,96,Rain
+12:00,18:00,zondag,5,mei,2019,12,11,1010,14,50,96,Fog
+18:00,00:00,zondag,5,mei,2019,11,11,1011,12,50,95,Rain
+18:00,00:00,zondag,5,mei,2019,11,11,1011,12,50,95,Fog
+00:00,06:00,maandag,6,mei,2019,11,11,1011,9,0,89,Overcast
+06:00,12:00,maandag,6,mei,2019,19,11,1015,10,0,64,Sunny
+12:00,18:00,maandag,6,mei,2019,22,16,1016,3,0,52,Overcast
+18:00,00:00,maandag,6,mei,2019,16,13,1019,3,0,67,Passing clouds
+00:00,06:00,dinsdag,7,mei,2019,13,12,1021,1,0,74,Passing clouds
+06:00,12:00,dinsdag,7,mei,2019,19,12,1022,3,0,65,Overcast
+12:00,18:00,dinsdag,7,mei,2019,21,19,1020,5,0,59,Sunny
+18:00,00:00,dinsdag,7,mei,2019,19,14,1020,2,60,86,Fog
+00:00,06:00,woensdag,8,mei,2019,15,13,1021,8,0,88,Mostly cloudy
+06:00,12:00,woensdag,8,mei,2019,19,13,1024,9,0,65,Overcast
+12:00,18:00,woensdag,8,mei,2019,21,17,1023,7,0,48,Sunny
+18:00,00:00,woensdag,8,mei,2019,16,13,1024,2,170,67,Clear
+00:00,06:00,donderdag,9,mei,2019,13,12,1026,9,50,83,Passing clouds
+06:00,12:00,donderdag,9,mei,2019,14,12,1027,11,0,56,Overcast
+12:00,18:00,donderdag,9,mei,2019,16,13,1026,3,100,49,Overcast
+18:00,00:00,donderdag,9,mei,2019,13,13,1024,6,0,68,Overcast
+00:00,06:00,vrijdag,10,mei,2019,14,13,1021,5,0,76,Low clouds
+06:00,12:00,vrijdag,10,mei,2019,18,14,1018,3,0,85,Overcast
+12:00,18:00,vrijdag,10,mei,2019,23,18,1015,0,0,79,Partly sunny
+18:00,00:00,vrijdag,10,mei,2019,22,21,1013,2,0,73,Clear
+00:00,06:00,zaterdag,11,mei,2019,21,14,1014,6,0,81,Overcast
+06:00,12:00,zaterdag,11,mei,2019,17,13,1017,7,0,60,Sunny
+12:00,18:00,zaterdag,11,mei,2019,21,18,1016,4,0,34,Sunny
+18:00,00:00,zaterdag,11,mei,2019,20,14,1015,3,0,57,Overcast
+00:00,06:00,zondag,12,mei,2019,14,9,1015,9,50,92,Light rain
+00:00,06:00,zondag,12,mei,2019,14,9,1015,9,50,92,Fog
+06:00,12:00,zondag,12,mei,2019,9,8,1015,17,50,94,Light rain
+06:00,12:00,zondag,12,mei,2019,9,8,1015,17,50,94,Fog
+12:00,18:00,zondag,12,mei,2019,8,7,1013,14,50,94,Rain
+12:00,18:00,zondag,12,mei,2019,8,7,1013,14,50,94,Fog
+18:00,00:00,zondag,12,mei,2019,8,7,1013,11,50,92,Light rain
+18:00,00:00,zondag,12,mei,2019,8,7,1013,11,50,92,Fog
+00:00,06:00,maandag,13,mei,2019,7,6,1013,11,0,95,Light rain
+00:00,06:00,maandag,13,mei,2019,7,6,1013,11,0,95,Fog
+06:00,12:00,maandag,13,mei,2019,8,7,1012,10,50,94,Light rain
+06:00,12:00,maandag,13,mei,2019,8,7,1012,10,50,94,Mostly cloudy
+12:00,18:00,maandag,13,mei,2019,9,8,1011,5,0,94,Rain
+12:00,18:00,maandag,13,mei,2019,9,8,1011,5,0,94,Fog
+18:00,00:00,maandag,13,mei,2019,9,8,1011,10,0,93,Overcast
+00:00,06:00,dinsdag,14,mei,2019,8,7,1010,8,0,91,Overcast
+06:00,12:00,dinsdag,14,mei,2019,9,7,1010,3,50,87,Overcast
+12:00,18:00,dinsdag,14,mei,2019,11,9,1009,0,0,89,Light rain
+12:00,18:00,dinsdag,14,mei,2019,11,9,1009,0,0,89,Fog
+18:00,00:00,dinsdag,14,mei,2019,9,8,1010,3,0,93,Light rain
+18:00,00:00,dinsdag,14,mei,2019,9,8,1010,3,0,93,Fog
+00:00,06:00,woensdag,15,mei,2019,8,7,1011,4,0,93,Overcast
+06:00,12:00,woensdag,15,mei,2019,14,7,1012,7,0,67,Sunny
+12:00,18:00,woensdag,15,mei,2019,21,17,1009,3,290,40,Passing clouds
+18:00,00:00,woensdag,15,mei,2019,19,17,1010,6,0,47,Mostly cloudy
+00:00,06:00,donderdag,16,mei,2019,16,12,1010,4,20,85,Light rain
+00:00,06:00,donderdag,16,mei,2019,16,12,1010,4,20,85,Fog
+06:00,12:00,donderdag,16,mei,2019,19,12,1012,6,0,68,Partly sunny
+12:00,18:00,donderdag,16,mei,2019,23,21,1010,6,0,33,Passing clouds
+18:00,00:00,donderdag,16,mei,2019,22,17,1011,2,0,44,Clear
+00:00,06:00,vrijdag,17,mei,2019,17,16,1010,5,0,62,Passing clouds
+06:00,12:00,vrijdag,17,mei,2019,24,17,1009,9,0,58,Sunny
+12:00,18:00,vrijdag,17,mei,2019,24,20,1007,8,0,56,Overcast
+18:00,00:00,vrijdag,17,mei,2019,24,19,1008,6,0,69,Passing clouds
+00:00,06:00,zaterdag,18,mei,2019,18,13,1011,5,0,60,Clear
+06:00,12:00,zaterdag,18,mei,2019,21,14,1015,5,0,52,Sunny
+12:00,18:00,zaterdag,18,mei,2019,24,21,1015,6,0,33,Sunny
+18:00,00:00,zaterdag,18,mei,2019,19,16,1017,2,0,53,Clear
+00:00,06:00,zondag,19,mei,2019,17,16,1018,1,210,66,Clear
+06:00,12:00,zondag,19,mei,2019,23,17,1018,4,0,67,Passing clouds
+12:00,18:00,zondag,19,mei,2019,24,23,1015,6,0,68,Sunny
+18:00,00:00,zondag,19,mei,2019,23,21,1013,6,0,81,Clear
+00:00,06:00,maandag,20,mei,2019,21,19,1012,3,0,94,Fog
+06:00,12:00,maandag,20,mei,2019,27,20,1010,10,0,72,Passing clouds
+12:00,18:00,maandag,20,mei,2019,29,28,1007,9,0,47,Partly sunny
+18:00,00:00,maandag,20,mei,2019,28,22,1007,10,270,43,Clear
+00:00,06:00,dinsdag,21,mei,2019,20,15,1010,7,0,51,Clear
+06:00,12:00,dinsdag,21,mei,2019,17,14,1014,14,0,47,Sunny
+12:00,18:00,dinsdag,21,mei,2019,21,18,1013,5,0,30,Sunny
+18:00,00:00,dinsdag,21,mei,2019,21,16,1018,7,0,32,Clear
+00:00,06:00,woensdag,22,mei,2019,16,12,1021,5,0,47,Clear
+06:00,12:00,woensdag,22,mei,2019,21,13,1023,9,0,40,Sunny
+12:00,18:00,woensdag,22,mei,2019,23,22,1023,5,0,25,Sunny
+18:00,00:00,woensdag,22,mei,2019,22,19,1023,5,0,38,Clear
+00:00,06:00,donderdag,23,mei,2019,18,14,1023,6,220,56,Clear
+06:00,12:00,donderdag,23,mei,2019,18,13,1023,7,0,84,Partly sunny
+12:00,18:00,donderdag,23,mei,2019,22,18,1016,5,0,78,Scattered clouds
+18:00,00:00,donderdag,23,mei,2019,20,18,1012,6,0,91,Scattered clouds
+00:00,06:00,vrijdag,24,mei,2019,21,19,1009,9,280,82,Clear
+06:00,12:00,vrijdag,24,mei,2019,22,19,1011,15,300,51,Sunny
+12:00,18:00,vrijdag,24,mei,2019,23,21,1014,10,330,46,Scattered clouds
+18:00,00:00,vrijdag,24,mei,2019,21,16,1019,7,350,55,Clear
+00:00,06:00,zaterdag,25,mei,2019,16,13,1021,2,140,71,Passing clouds
+06:00,12:00,zaterdag,25,mei,2019,21,14,1024,5,0,63,Sunny
+12:00,18:00,zaterdag,25,mei,2019,21,18,1021,8,140,50,Sunny
+18:00,00:00,zaterdag,25,mei,2019,17,16,1019,5,0,65,Overcast
+00:00,06:00,zondag,26,mei,2019,17,16,1015,9,0,79,Overcast
+06:00,12:00,zondag,26,mei,2019,28,18,1014,7,0,72,Sunny
+12:00,18:00,zondag,26,mei,2019,30,21,1012,6,0,54,Sunny
+18:00,00:00,zondag,26,mei,2019,22,21,1012,5,0,88,Clear
+00:00,06:00,maandag,27,mei,2019,22,18,1012,7,0,61,Clear
+06:00,12:00,maandag,27,mei,2019,25,18,1014,8,0,56,Sunny
+12:00,18:00,maandag,27,mei,2019,27,25,1012,10,30,36,Sunny
+18:00,00:00,maandag,27,mei,2019,24,21,1013,2,30,45,Clear
+00:00,06:00,dinsdag,28,mei,2019,21,18,1012,7,60,58,Clear
+06:00,12:00,dinsdag,28,mei,2019,18,17,1012,9,0,79,Light rain
+06:00,12:00,dinsdag,28,mei,2019,18,17,1012,9,0,79,Fog
+12:00,18:00,dinsdag,28,mei,2019,21,17,1007,5,0,84,Partly sunny
+18:00,00:00,dinsdag,28,mei,2019,22,19,1005,5,0,90,Passing clouds
+00:00,06:00,woensdag,29,mei,2019,21,19,1005,6,0,86,Clear
+06:00,12:00,woensdag,29,mei,2019,18,16,1008,9,50,83,Overcast
+12:00,18:00,woensdag,29,mei,2019,19,17,1007,2,0,72,Overcast
+18:00,00:00,woensdag,29,mei,2019,14,13,1008,6,0,96,Fog
+00:00,06:00,donderdag,30,mei,2019,14,14,1008,4,0,95,Fog
+06:00,12:00,donderdag,30,mei,2019,19,14,1010,4,70,90,Fog
+12:00,18:00,donderdag,30,mei,2019,21,17,1008,6,0,82,Mostly cloudy
+18:00,00:00,donderdag,30,mei,2019,18,16,1006,3,0,96,Fog
+00:00,06:00,vrijdag,31,mei,2019,18,17,1005,5,0,97,Fog
+06:00,12:00,vrijdag,31,mei,2019,24,18,1008,2,0,75,Sunny
+12:00,18:00,vrijdag,31,mei,2019,26,24,1008,2,300,48,Passing clouds
+18:00,00:00,vrijdag,31,mei,2019,24,22,1009,7,250,53,Clear

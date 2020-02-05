@@ -1,0 +1,59 @@
+<style>
+  /* Always set the map height explicitly to define the size of the div
+   * element that contains the map. */
+  #holiday_chart {
+    width: 600px;
+    height: 600px;
+    color: red;
+    display: inline-block;
+  }
+  object{
+    height: 100%;
+    width: 100%;
+  }
+</style>
+<div id="maps">
+  <div id="holiday_chart"></div>
+  <div>
+    <select id="holiday">
+      <option value="new_years_day">New Year's Day</option>
+      <option value="martin_luther_king_jr._day">Martin Luther King Jr. Day</option>
+      <option value="super_bowl_liii">Super Bowl LIII</option>
+      <option value="valentines_day">Valentine's Day</option>
+      <option value="presidents_day">Presidents' Day</option>
+      <option value="st._patricks_day">St. Patrick's Day</option>
+      <option value="good_friday">Good Friday</option>
+      <option value="easter_sunday">Easter Sunday</option>
+      <option value="mothers_day">Mother's Day</option>
+      <option value="memorial_day">Memorial Day</option>
+      <option value="flag_day">Flag Day</option>
+      <option value="fathers_day">Father's Day</option>
+      <option value="independent_day">Independent Day</option>
+      <option value="parents_day">Parents' Day</option>
+      <option value="labor_day">Labor Day</option>
+      <option value="patriot_day">Patriot Day</option>
+      <option value="day_of_atonement">Day of Atonement</option>
+      <option value="halloween">Halloween</option>
+      <option value="new_york_city_marathon">New York City Marathon</option>
+      <option value="veterans_day">Veterans Day</option>
+      <option value="thanksgiving_day">Thanksgiving Day</option>
+      <option value="black_friday">Black Friday</option>
+      <option value="christmas_eve">Christmas Eve</option>
+      <option value="christmas_day">Christmas Day</option>
+      <option value="new_years_eve">New year's Eve</option>
+    </select>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var box = document.getElementById("holiday");
+  var data_dir = "../www/html/holiday/"
+  box.onchange = function() {
+    load(this.value);
+  }
+
+  function load(holiday_name) {
+     document.getElementById("holiday_chart").innerHTML='<object type="text/html" data="' + data_dir + '/'+holiday_name+'.html" ></object>';
+  }
+  load("new_years_day")
+</script>

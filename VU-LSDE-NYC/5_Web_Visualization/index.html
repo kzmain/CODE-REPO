@@ -1,0 +1,268 @@
+<!DOCTYPE HTML>
+<!--
+	Directive by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-tables-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-gl-1.3.4.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-api-1.3.4.min.js"></script>
+		<title>NYC TAXI ANALYSIS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+          #routes{
+            width: 100%;
+            height: 700px;
+          }
+          #yearly{
+            width: 100%;
+            height: 300px;
+          } 
+          #yearly_increasement{
+            width: 80%;
+            height: 350px;
+          }
+          #yearly_marketshare{
+            width: 100%;
+            height: 400px;
+          }
+          #monthly{
+            width: 100%;
+            height: 400px;
+          }
+          #seasonally{
+            width: 100%;
+            height: 600px;
+          }
+          
+          #pop{
+            width: 100%;
+            height: 400px;
+          }
+          #yellow_div{
+          	height: 800px;
+          }
+          #top_yellow{
+            width: 100%;
+            height: 100%;
+          }
+          #green_div{
+          	height: 800px;
+          }
+          #top_green{
+            width: 100%;
+            height: 100%;
+          }
+          #fhv_div{
+          	height: 800px;
+          }
+          #top_fhv{
+            width: 100%;
+            height: 100%;
+          }
+          #rush_hour{
+            width: 60%;
+            height: 70%;
+          }
+          #holiday{
+            width: 60%;
+            height: 80%;
+          }
+          object{
+            width: 90%;
+            height: 100%;
+          }
+        </style>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+				<img class="logo icon fa-paper-plane" src="./www/pics/icon_png_edition.png">
+				<h1>New York Taxi Usage Analysis</h1>
+				<p>NYC Taxi analysis through out 10 years, conducted by <a href = "https://github.com/kzmain/">Kai</a> and <a href="https://github.com/Yizhen-Zhao">Yi Zhen</a></p>
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<header class="major container medium">
+					<h2>10 YEARS TAXI USAGE</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container">
+					<div id="yearly"></div>
+					<script type="text/javascript">
+						function load_yearly() {
+                        	document.getElementById("yearly").innerHTML='<object type="text/html" data="./v_yearly/yearly_usage.html" ></object>';
+  						}
+  						load_yearly();
+					</script>
+				</div>
+
+
+				<header class="major container medium">
+					<h2>10 YEARS INCREASEMENT PERCENTAGE</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container">
+					<div id="yearly_increasement"></div>
+					<script type="text/javascript">
+						function load_yearly_increasement() {
+						     document.getElementById("yearly_increasement").innerHTML='<object type="text/html" data="./v_yearly/yearly_increasement.html" ></object>';
+  						}
+  						load_yearly_increasement();
+					</script>
+				</div>
+
+
+				<header class="major container medium">
+					<h2>10 YEARS MARKET SHARING TRENDING</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container">
+					<div id="yearly_marketshare"></div>
+					<script type="text/javascript">
+						function load_yearly_marketshare() {
+     document.getElementById("yearly_marketshare").innerHTML='<object type="text/html" data="./v_yearly/marketshare.html" ></object>';
+  }
+  						load_yearly_marketshare();
+					</script>
+				</div>
+				<header class="major container medium">
+					<h2>10 YEARS MONTHLY TRENDING</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container">
+					<div id="monthly"></div>
+					<script type="text/javascript">
+						function load_monthly() {
+     document.getElementById("monthly").innerHTML='<object type="text/html" data="./v_monthly/monthly.html" ></object>';
+  }
+  						load_monthly();
+					</script>
+				</div>
+				<header class="major container medium">
+					<h2>10 YEARS SEASONALLY CHANGE</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container">
+					<div id="seasonally"></div>
+					<script type="text/javascript">
+						function load_seasonally() {
+     document.getElementById("seasonally").innerHTML='<object type="text/html" data="./v_seasonally/seasonally.html" ></object>';
+  }
+  						load_seasonally();
+					</script>
+				</div>
+				<header class="major container medium">
+					<h2>10 YEARS TAXI TRIPS SUM & GDP & POPULATION</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container">
+					<div id="pop"></div>
+					<script type="text/javascript">
+						function load_pop() {
+     document.getElementById("pop").innerHTML='<object type="text/html" data="./v_population_gdp/pop.html" ></object>';
+  }
+  						load_pop();
+					</script>
+				</div>
+				<header class="major container medium">
+					<h2>FHV TOP 10 ZONES</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container" id="fhv_div">
+					<div id="top_fhv"></div>
+					<script type="text/javascript">
+						function load_top_fhv() {
+     document.getElementById("top_fhv").innerHTML='<object type="text/html" data="/v_top_district/top_fhv.html" ></object>';
+  }
+  						load_top_fhv();
+					</script>
+				</div>
+
+				<header class="major container medium">
+					<h2>GREEN TOP 10 ZONES</h2>
+					<!--
+					<p>Tellus erat mauris ipsum fermentum<br />
+					etiam vivamus nunc nibh morbi.</p>
+					-->
+				</header>
+
+				<div class="box container" id="green_div">
+					<div id="top_green"></div>
+					<script type="text/javascript">
+						function load_top_green() {
+     document.getElementById("top_green").innerHTML='<object type="text/html" data="/v_top_district/top_green.html" ></object>';
+  }
+  						load_top_green();
+					</script>
+
+
+
+				</div>
+
+				<footer class="major container medium">
+					<ul class="actions special">
+						<li><a href="./index2.html" class="button">Page 2</a></li>
+					</ul>
+				</footer>
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				<div class="container medium">
+
+					<p>LSDE 2019 GROUP 11</p>
+
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+				</div>
+			</div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

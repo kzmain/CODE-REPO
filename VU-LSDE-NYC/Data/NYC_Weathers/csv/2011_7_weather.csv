@@ -1,0 +1,129 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,vrijdag,1,juli,2011,21,18,1015,2,0,55,Clear
+06:00,12:00,vrijdag,1,juli,2011,26,17,1016,10,280,48,Sunny
+12:00,18:00,vrijdag,1,juli,2011,28,26,1015,5,50,45,Passing clouds
+18:00,00:00,vrijdag,1,juli,2011,26,22,1017,6,0,56,Clear
+00:00,06:00,zaterdag,2,juli,2011,22,20,1017,1,30,69,Clear
+06:00,12:00,zaterdag,2,juli,2011,28,22,1018,5,0,60,Sunny
+12:00,18:00,zaterdag,2,juli,2011,30,26,1016,5,0,47,Scattered clouds
+18:00,00:00,zaterdag,2,juli,2011,25,23,1015,9,0,62,Clear
+00:00,06:00,zondag,3,juli,2011,23,22,1013,11,0,71,Passing clouds
+06:00,12:00,zondag,3,juli,2011,22,21,1013,6,0,94,Light rain
+06:00,12:00,zondag,3,juli,2011,22,21,1013,6,0,94,Fog
+12:00,18:00,zondag,3,juli,2011,23,22,1012,2,0,91,Light rain
+12:00,18:00,zondag,3,juli,2011,23,22,1012,2,0,91,Fog
+18:00,00:00,zondag,3,juli,2011,23,22,1012,5,0,94,Fog
+00:00,06:00,maandag,4,juli,2011,22,21,1011,1,270,94,Fog
+06:00,12:00,maandag,4,juli,2011,27,22,1012,1,260,83,Fog
+12:00,18:00,maandag,4,juli,2011,29,28,1010,8,0,52,Passing clouds
+18:00,00:00,maandag,4,juli,2011,28,24,1010,6,0,46,Clear
+00:00,06:00,dinsdag,5,juli,2011,23,22,1012,4,0,59,Clear
+06:00,12:00,dinsdag,5,juli,2011,29,22,1013,5,0,46,Sunny
+12:00,18:00,dinsdag,5,juli,2011,31,30,1013,10,0,32,Sunny
+18:00,00:00,dinsdag,5,juli,2011,29,25,1013,5,0,44,Clear
+00:00,06:00,woensdag,6,juli,2011,25,23,1014,6,0,74,Clear
+06:00,12:00,woensdag,6,juli,2011,30,24,1014,3,0,64,Sunny
+12:00,18:00,woensdag,6,juli,2011,32,27,1012,10,0,59,Sunny
+18:00,00:00,woensdag,6,juli,2011,28,25,1012,8,0,61,Clear
+00:00,06:00,donderdag,7,juli,2011,24,23,1012,7,0,79,Clear
+06:00,12:00,donderdag,7,juli,2011,31,24,1013,5,0,65,Sunny
+12:00,18:00,donderdag,7,juli,2011,33,27,1012,8,0,54,Sunny
+18:00,00:00,donderdag,7,juli,2011,27,25,1013,5,0,69,Sunny
+00:00,06:00,vrijdag,8,juli,2011,25,24,1012,1,0,75,Clear
+06:00,12:00,vrijdag,8,juli,2011,28,24,1012,2,0,73,Sunny
+12:00,18:00,vrijdag,8,juli,2011,28,23,1010,8,0,79,Scattered clouds
+18:00,00:00,vrijdag,8,juli,2011,22,21,1009,9,20,95,Light rain
+18:00,00:00,vrijdag,8,juli,2011,22,21,1009,9,20,95,Fog
+00:00,06:00,zaterdag,9,juli,2011,21,19,1008,6,0,95,Fog
+06:00,12:00,zaterdag,9,juli,2011,29,20,1010,7,0,74,Sunny
+12:00,18:00,zaterdag,9,juli,2011,30,27,1011,9,0,44,Sunny
+18:00,00:00,zaterdag,9,juli,2011,29,24,1014,9,0,42,Clear
+00:00,06:00,zondag,10,juli,2011,23,20,1017,1,30,62,Clear
+06:00,12:00,zondag,10,juli,2011,28,21,1018,3,0,55,Sunny
+12:00,18:00,zondag,10,juli,2011,30,28,1017,6,0,46,Sunny
+18:00,00:00,zondag,10,juli,2011,28,24,1016,2,150,59,Clear
+00:00,06:00,maandag,11,juli,2011,24,23,1016,2,240,71,Clear
+06:00,12:00,maandag,11,juli,2011,32,24,1015,2,0,65,Sunny
+12:00,18:00,maandag,11,juli,2011,32,30,1012,15,240,55,Scattered clouds
+18:00,00:00,maandag,11,juli,2011,30,27,1008,12,0,68,Clear
+00:00,06:00,dinsdag,12,juli,2011,27,26,1006,14,220,78,Clear
+06:00,12:00,dinsdag,12,juli,2011,32,26,1006,11,270,64,Sunny
+12:00,18:00,dinsdag,12,juli,2011,34,32,1005,13,0,43,Passing clouds
+18:00,00:00,dinsdag,12,juli,2011,32,29,1006,9,0,45,Clear
+00:00,06:00,woensdag,13,juli,2011,28,25,1007,6,0,54,Clear
+06:00,12:00,woensdag,13,juli,2011,27,24,1008,9,0,54,Sunny
+12:00,18:00,woensdag,13,juli,2011,29,28,1007,11,0,44,Sunny
+18:00,00:00,woensdag,13,juli,2011,29,21,1009,10,280,61,Clear
+00:00,06:00,donderdag,14,juli,2011,21,18,1012,9,0,63,Clear
+06:00,12:00,donderdag,14,juli,2011,26,19,1015,15,350,58,Sunny
+12:00,18:00,donderdag,14,juli,2011,28,24,1016,14,0,40,Sunny
+18:00,00:00,donderdag,14,juli,2011,23,21,1017,7,0,68,Clear
+00:00,06:00,vrijdag,15,juli,2011,21,19,1018,8,0,71,Clear
+06:00,12:00,vrijdag,15,juli,2011,29,20,1018,6,0,56,Sunny
+12:00,18:00,vrijdag,15,juli,2011,31,27,1017,9,0,40,Partly sunny
+18:00,00:00,vrijdag,15,juli,2011,26,23,1018,6,0,53,Clear
+00:00,06:00,zaterdag,16,juli,2011,23,22,1019,4,0,70,Clear
+06:00,12:00,zaterdag,16,juli,2011,29,22,1021,7,0,56,Sunny
+12:00,18:00,zaterdag,16,juli,2011,32,28,1019,8,0,42,Partly sunny
+18:00,00:00,zaterdag,16,juli,2011,29,26,1020,9,0,40,Clear
+00:00,06:00,zondag,17,juli,2011,24,22,1021,10,0,62,Clear
+06:00,12:00,zondag,17,juli,2011,29,22,1021,8,0,62,Sunny
+12:00,18:00,zondag,17,juli,2011,32,31,1019,8,0,41,Sunny
+18:00,00:00,zondag,17,juli,2011,31,26,1018,9,0,50,Clear
+00:00,06:00,maandag,18,juli,2011,26,24,1016,15,230,71,Clear
+06:00,12:00,maandag,18,juli,2011,32,24,1015,9,0,65,Sunny
+12:00,18:00,maandag,18,juli,2011,35,32,1011,9,0,42,Passing clouds
+18:00,00:00,maandag,18,juli,2011,32,24,1011,5,0,79,Fog
+00:00,06:00,dinsdag,19,juli,2011,25,24,1010,4,0,90,Fog
+06:00,12:00,dinsdag,19,juli,2011,31,24,1010,7,0,73,Sunny
+12:00,18:00,dinsdag,19,juli,2011,34,32,1009,9,0,40,Sunny
+18:00,00:00,dinsdag,19,juli,2011,29,26,1011,4,0,67,Clear
+00:00,06:00,woensdag,20,juli,2011,27,24,1011,1,20,76,Clear
+06:00,12:00,woensdag,20,juli,2011,30,24,1013,6,0,66,Sunny
+12:00,18:00,woensdag,20,juli,2011,31,28,1012,10,0,58,Sunny
+18:00,00:00,woensdag,20,juli,2011,27,24,1011,6,0,83,Clear
+00:00,06:00,donderdag,21,juli,2011,25,24,1010,1,250,90,Fog
+06:00,12:00,donderdag,21,juli,2011,33,26,1010,10,0,80,Fog
+12:00,18:00,donderdag,21,juli,2011,36,34,1007,11,0,54,Scattered clouds
+18:00,00:00,donderdag,21,juli,2011,34,30,1007,13,0,66,Clear
+00:00,06:00,vrijdag,22,juli,2011,30,29,1008,9,0,74,Clear
+06:00,12:00,vrijdag,22,juli,2011,38,29,1010,8,0,60,Sunny
+12:00,18:00,vrijdag,22,juli,2011,39,38,1010,10,0,38,Sunny
+18:00,00:00,vrijdag,22,juli,2011,37,32,1010,4,0,42,Clear
+00:00,06:00,zaterdag,23,juli,2011,32,29,1011,1,60,64,Clear
+06:00,12:00,zaterdag,23,juli,2011,33,28,1013,7,0,55,Sunny
+12:00,18:00,zaterdag,23,juli,2011,37,34,1011,9,0,41,Sunny
+18:00,00:00,zaterdag,23,juli,2011,34,31,1012,9,270,51,Clear
+00:00,06:00,zondag,24,juli,2011,30,29,1011,2,280,62,Clear
+06:00,12:00,zondag,24,juli,2011,31,29,1013,6,0,60,Sunny
+12:00,18:00,zondag,24,juli,2011,33,26,1013,9,0,70,Sunny
+18:00,00:00,zondag,24,juli,2011,29,26,1013,5,60,77,Clear
+00:00,06:00,maandag,25,juli,2011,26,24,1013,5,0,77,Passing clouds
+06:00,12:00,maandag,25,juli,2011,26,24,1013,11,0,62,Broken clouds
+12:00,18:00,maandag,25,juli,2011,26,21,1012,11,0,84,Light rain
+12:00,18:00,maandag,25,juli,2011,26,21,1012,11,0,84,Fog
+18:00,00:00,maandag,25,juli,2011,21,20,1009,7,130,94,Light rain
+18:00,00:00,maandag,25,juli,2011,21,20,1009,7,130,94,Broken clouds
+00:00,06:00,dinsdag,26,juli,2011,21,21,1008,4,0,90,Overcast
+06:00,12:00,dinsdag,26,juli,2011,29,22,1008,4,260,76,Sunny
+12:00,18:00,dinsdag,26,juli,2011,32,31,1005,11,0,43,Scattered clouds
+18:00,00:00,dinsdag,26,juli,2011,31,22,1006,5,0,76,Fog
+00:00,06:00,woensdag,27,juli,2011,22,21,1009,8,0,76,Clear
+06:00,12:00,woensdag,27,juli,2011,27,21,1012,10,0,62,Sunny
+12:00,18:00,woensdag,27,juli,2011,29,27,1012,8,0,45,Partly sunny
+18:00,00:00,woensdag,27,juli,2011,28,25,1014,3,0,52,Clear
+00:00,06:00,donderdag,28,juli,2011,24,22,1016,1,300,72,Clear
+06:00,12:00,donderdag,28,juli,2011,29,23,1017,7,0,62,Sunny
+12:00,18:00,donderdag,28,juli,2011,30,26,1017,6,0,56,Sunny
+18:00,00:00,donderdag,28,juli,2011,27,26,1016,4,0,58,Overcast
+00:00,06:00,vrijdag,29,juli,2011,26,22,1015,7,0,79,Overcast
+06:00,12:00,vrijdag,29,juli,2011,26,22,1015,6,0,92,Fog
+12:00,18:00,vrijdag,29,juli,2011,29,27,1012,5,0,74,Scattered clouds
+18:00,00:00,vrijdag,29,juli,2011,26,24,1010,9,0,98,Fog
+00:00,06:00,zaterdag,30,juli,2011,24,23,1011,11,0,85,Clear
+06:00,12:00,zaterdag,30,juli,2011,31,23,1013,11,300,60,Sunny
+12:00,18:00,zaterdag,30,juli,2011,33,32,1013,11,0,37,Sunny
+18:00,00:00,zaterdag,30,juli,2011,31,26,1015,4,10,44,Clear
+06:00,12:00,zondag,31,juli,2011,29,23,1018,5,0,57,Sunny
+12:00,18:00,zondag,31,juli,2011,33,31,1016,8,0,38,Scattered clouds
+18:00,00:00,zondag,31,juli,2011,28,26,1015,5,0,61,Passing clouds

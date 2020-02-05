@@ -1,0 +1,127 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,donderdag,1,maart,2012,4,3,1005,0,0,96,Light rain
+00:00,06:00,donderdag,1,maart,2012,4,3,1005,0,0,96,Low clouds
+06:00,12:00,donderdag,1,maart,2012,5,3,1005,1,20,94,Low clouds
+12:00,18:00,donderdag,1,maart,2012,5,4,1008,3,0,89,Overcast
+18:00,00:00,donderdag,1,maart,2012,4,3,1013,9,0,81,Overcast
+00:00,06:00,vrijdag,2,maart,2012,2,1,1017,13,70,77,Mostly cloudy
+06:00,12:00,vrijdag,2,maart,2012,3,1,1020,10,0,76,Overcast
+12:00,18:00,vrijdag,2,maart,2012,4,3,1017,13,0,77,Overcast
+18:00,00:00,vrijdag,2,maart,2012,6,4,1012,15,110,86,Light rain
+18:00,00:00,vrijdag,2,maart,2012,6,4,1012,15,110,86,Fog
+00:00,06:00,zaterdag,3,maart,2012,7,6,1004,8,0,96,Fog
+06:00,12:00,zaterdag,3,maart,2012,10,7,999,0,0,95,Fog
+12:00,18:00,zaterdag,3,maart,2012,13,11,998,3,240,51,Sunny
+18:00,00:00,zaterdag,3,maart,2012,12,7,1003,15,280,31,Clear
+00:00,06:00,zondag,4,maart,2012,7,4,1005,12,270,44,Clear
+06:00,12:00,zondag,4,maart,2012,6,4,1005,7,0,43,Sunny
+12:00,18:00,zondag,4,maart,2012,6,5,1002,13,270,37,Overcast
+18:00,00:00,zondag,4,maart,2012,5,2,1006,13,270,53,Passing clouds
+00:00,06:00,maandag,5,maart,2012,2,0,1010,13,0,53,Passing clouds
+06:00,12:00,maandag,5,maart,2012,5,0,1015,15,270,43,Sunny
+12:00,18:00,maandag,5,maart,2012,6,4,1018,13,0,28,Sunny
+18:00,00:00,maandag,5,maart,2012,2,-2,1026,13,0,27,Clear
+00:00,06:00,dinsdag,6,maart,2012,-2,-3,1032,12,0,44,Clear
+06:00,12:00,dinsdag,6,maart,2012,3,-3,1036,11,0,42,Sunny
+12:00,18:00,dinsdag,6,maart,2012,6,3,1035,10,0,35,Sunny
+18:00,00:00,dinsdag,6,maart,2012,5,3,1035,12,210,46,Clear
+00:00,06:00,woensdag,7,maart,2012,4,3,1035,15,210,63,Clear
+06:00,12:00,woensdag,7,maart,2012,12,4,1034,14,230,58,Sunny
+12:00,18:00,woensdag,7,maart,2012,16,14,1028,14,0,32,Sunny
+18:00,00:00,woensdag,7,maart,2012,15,13,1027,11,0,51,Clear
+00:00,06:00,donderdag,8,maart,2012,12,12,1025,12,220,71,Clear
+06:00,12:00,donderdag,8,maart,2012,19,12,1022,0,0,66,Sunny
+12:00,18:00,donderdag,8,maart,2012,21,19,1016,6,210,48,Sunny
+18:00,00:00,donderdag,8,maart,2012,18,17,1012,13,0,57,Clear
+00:00,06:00,vrijdag,9,maart,2012,17,6,1014,12,290,71,Mostly cloudy
+06:00,12:00,vrijdag,9,maart,2012,6,5,1020,10,270,48,Sunny
+12:00,18:00,vrijdag,9,maart,2012,10,7,1019,8,270,32,Overcast
+18:00,00:00,vrijdag,9,maart,2012,6,3,1024,13,280,44,Passing clouds
+00:00,06:00,zaterdag,10,maart,2012,2,-2,1028,17,280,36,Clear
+06:00,12:00,zaterdag,10,maart,2012,3,-2,1032,8,0,39,Sunny
+12:00,18:00,zaterdag,10,maart,2012,6,4,1032,1,0,32,Sunny
+18:00,00:00,zaterdag,10,maart,2012,4,4,1034,8,0,34,Clear
+00:00,06:00,zondag,11,maart,2012,3,3,1033,13,0,39,Clear
+06:00,12:00,zondag,11,maart,2012,9,2,1033,12,250,43,Sunny
+12:00,18:00,zondag,11,maart,2012,15,11,1028,11,240,30,Sunny
+18:00,00:00,zondag,11,maart,2012,14,11,1027,11,0,37,Clear
+00:00,06:00,maandag,12,maart,2012,10,9,1027,9,240,49,Clear
+06:00,12:00,maandag,12,maart,2012,16,9,1026,6,250,48,Sunny
+12:00,18:00,maandag,12,maart,2012,21,17,1023,8,0,32,Sunny
+18:00,00:00,maandag,12,maart,2012,17,16,1021,5,0,44,Clear
+00:00,06:00,dinsdag,13,maart,2012,16,12,1018,6,0,66,Mostly cloudy
+06:00,12:00,dinsdag,13,maart,2012,16,13,1017,10,0,81,Overcast
+12:00,18:00,dinsdag,13,maart,2012,23,18,1014,6,240,57,Broken clouds
+18:00,00:00,dinsdag,13,maart,2012,22,19,1015,7,0,56,Clear
+00:00,06:00,woensdag,14,maart,2012,19,16,1016,4,0,56,Clear
+06:00,12:00,woensdag,14,maart,2012,18,14,1020,4,0,41,Sunny
+12:00,18:00,woensdag,14,maart,2012,21,19,1019,11,290,16,Sunny
+18:00,00:00,woensdag,14,maart,2012,19,16,1021,6,0,17,Clear
+00:00,06:00,donderdag,15,maart,2012,10,7,1024,14,60,82,Clear
+06:00,12:00,donderdag,15,maart,2012,9,7,1027,10,0,80,Overcast
+12:00,18:00,donderdag,15,maart,2012,10,8,1026,7,0,70,Overcast
+18:00,00:00,donderdag,15,maart,2012,8,7,1026,11,60,88,Fog
+00:00,06:00,vrijdag,16,maart,2012,7,6,1024,12,130,94,Fog
+06:00,12:00,vrijdag,16,maart,2012,7,6,1024,7,50,94,Fog
+12:00,18:00,vrijdag,16,maart,2012,10,7,1021,4,50,84,Overcast
+18:00,00:00,vrijdag,16,maart,2012,10,10,1021,2,0,86,Fog
+00:00,06:00,zaterdag,17,maart,2012,10,8,1023,4,110,89,Fog
+06:00,12:00,zaterdag,17,maart,2012,15,8,1027,8,50,78,Sunny
+12:00,18:00,zaterdag,17,maart,2012,16,12,1027,11,0,62,Sunny
+18:00,00:00,zaterdag,17,maart,2012,11,8,1028,3,0,82,Clear
+00:00,06:00,zondag,18,maart,2012,8,8,1028,4,0,86,Overcast
+06:00,12:00,zondag,18,maart,2012,11,8,1028,6,0,88,Fog
+12:00,18:00,zondag,18,maart,2012,17,11,1026,4,0,69,Sunny
+18:00,00:00,zondag,18,maart,2012,13,11,1023,2,150,79,Clear
+00:00,06:00,maandag,19,maart,2012,14,13,1022,10,240,79,Clear
+06:00,12:00,maandag,19,maart,2012,20,13,1023,5,220,74,Sunny
+12:00,18:00,maandag,19,maart,2012,23,20,1022,11,150,53,Sunny
+18:00,00:00,maandag,19,maart,2012,19,17,1023,3,0,54,Clear
+00:00,06:00,dinsdag,20,maart,2012,16,14,1024,2,40,81,Clear
+06:00,12:00,dinsdag,20,maart,2012,19,13,1026,6,40,85,Fog
+12:00,18:00,dinsdag,20,maart,2012,22,19,1025,4,160,66,Passing clouds
+18:00,00:00,dinsdag,20,maart,2012,18,16,1026,6,170,88,Low clouds
+00:00,06:00,woensdag,21,maart,2012,16,14,1027,4,0,92,Low clouds
+06:00,12:00,woensdag,21,maart,2012,16,14,1028,5,50,95,Fog
+12:00,18:00,woensdag,21,maart,2012,19,16,1027,9,160,78,Overcast
+18:00,00:00,woensdag,21,maart,2012,16,14,1026,5,150,94,Fog
+00:00,06:00,donderdag,22,maart,2012,14,14,1025,0,0,97,Fog
+06:00,12:00,donderdag,22,maart,2012,20,13,1024,5,0,90,Fog
+12:00,18:00,donderdag,22,maart,2012,24,21,1020,9,0,60,Sunny
+18:00,00:00,donderdag,22,maart,2012,21,19,1019,6,160,71,Clear
+00:00,06:00,vrijdag,23,maart,2012,19,17,1018,4,280,78,Clear
+06:00,12:00,vrijdag,23,maart,2012,23,17,1019,10,0,62,Sunny
+12:00,18:00,vrijdag,23,maart,2012,24,18,1018,11,70,45,Partly sunny
+18:00,00:00,vrijdag,23,maart,2012,17,15,1018,3,180,48,Clear
+00:00,06:00,zaterdag,24,maart,2012,16,14,1017,7,70,54,Passing clouds
+06:00,12:00,zaterdag,24,maart,2012,17,14,1018,15,60,35,Sunny
+12:00,18:00,zaterdag,24,maart,2012,18,14,1017,13,0,25,Sunny
+18:00,00:00,zaterdag,24,maart,2012,13,10,1016,13,0,36,Clear
+00:00,06:00,zondag,25,maart,2012,8,7,1013,17,50,77,Overcast
+06:00,12:00,zondag,25,maart,2012,8,8,1011,17,60,73,Overcast
+12:00,18:00,zondag,25,maart,2012,11,9,1009,10,0,71,Overcast
+18:00,00:00,zondag,25,maart,2012,11,9,1007,4,40,76,Clear
+00:00,06:00,maandag,26,maart,2012,11,11,1006,1,0,74,Clear
+06:00,12:00,maandag,26,maart,2012,12,11,1008,14,300,52,Sunny
+12:00,18:00,maandag,26,maart,2012,10,7,1011,22,300,22,Sunny
+18:00,00:00,maandag,26,maart,2012,6,2,1018,9,320,27,Clear
+00:00,06:00,dinsdag,27,maart,2012,2,-1,1021,9,0,26,Clear
+06:00,12:00,dinsdag,27,maart,2012,4,-1,1025,10,0,25,Sunny
+12:00,18:00,dinsdag,27,maart,2012,11,7,1023,12,0,13,Sunny
+18:00,00:00,dinsdag,27,maart,2012,10,8,1023,2,290,15,Clear
+00:00,06:00,woensdag,28,maart,2012,8,7,1018,12,0,29,Clear
+06:00,12:00,woensdag,28,maart,2012,13,7,1012,12,0,50,Sunny
+12:00,18:00,woensdag,28,maart,2012,19,12,1004,3,0,47,Sunny
+18:00,00:00,woensdag,28,maart,2012,19,17,1001,9,280,55,Mostly cloudy
+00:00,06:00,donderdag,29,maart,2012,16,11,1003,13,300,58,Overcast
+06:00,12:00,donderdag,29,maart,2012,11,10,1007,12,290,55,Passing clouds
+12:00,18:00,donderdag,29,maart,2012,13,11,1010,11,300,43,Overcast
+18:00,00:00,donderdag,29,maart,2012,9,7,1015,10,0,48,Overcast
+00:00,06:00,vrijdag,30,maart,2012,7,5,1017,8,0,49,Overcast
+06:00,12:00,vrijdag,30,maart,2012,9,4,1018,9,0,44,Sunny
+12:00,18:00,vrijdag,30,maart,2012,13,11,1016,3,0,25,Sunny
+18:00,00:00,vrijdag,30,maart,2012,9,7,1015,5,0,57,Clear
+00:00,06:00,zaterdag,31,maart,2012,5,3,1014,11,0,93,Mostly cloudy
+06:00,12:00,zaterdag,31,maart,2012,5,4,1012,13,80,94,Fog
+12:00,18:00,zaterdag,31,maart,2012,6,5,1012,13,60,89,Overcast
+18:00,00:00,zaterdag,31,maart,2012,6,6,1013,8,0,77,Overcast

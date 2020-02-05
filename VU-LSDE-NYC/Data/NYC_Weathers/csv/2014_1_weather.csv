@@ -1,0 +1,134 @@
+time_stamp,time_duration,day_in_week,day_in_month,month,year,temp_h,temp_l,baro,wind,wd,hum,weather
+00:00,06:00,woensdag,1,januari,2014,-4,-4,1027,9,280,46,Clear
+06:00,12:00,woensdag,1,januari,2014,-1,-4,1029,11,270,50,Sunny
+12:00,18:00,woensdag,1,januari,2014,1,-1,1027,5,240,50,Passing clouds
+18:00,00:00,woensdag,1,januari,2014,1,0,1026,11,60,57,Overcast
+00:00,06:00,donderdag,2,januari,2014,1,-2,1022,15,60,69,Mostly cloudy
+06:00,12:00,donderdag,2,januari,2014,-3,-3,1018,23,70,75,Overcast
+12:00,18:00,donderdag,2,januari,2014,-3,-4,1011,19,40,75,Overcast
+18:00,00:00,donderdag,2,januari,2014,-4,-8,1006,21,50,81,Snow
+18:00,00:00,donderdag,2,januari,2014,-4,-8,1006,21,50,81,Ice fog
+00:00,06:00,vrijdag,3,januari,2014,-9,-12,1006,20,30,80,Heavy snow
+00:00,06:00,vrijdag,3,januari,2014,-9,-12,1006,20,30,80,Ice fog
+06:00,12:00,vrijdag,3,januari,2014,-8,-12,1015,11,350,68,Light snow
+06:00,12:00,vrijdag,3,januari,2014,-8,-12,1015,11,350,68,Overcast
+12:00,18:00,vrijdag,3,januari,2014,-8,-10,1024,17,320,46,Sunny
+18:00,00:00,vrijdag,3,januari,2014,-11,-13,1031,12,310,47,Clear
+00:00,06:00,zaterdag,4,januari,2014,-12,-13,1032,4,0,57,Clear
+06:00,12:00,zaterdag,4,januari,2014,-6,-12,1033,7,290,50,Sunny
+12:00,18:00,zaterdag,4,januari,2014,-3,-6,1028,10,260,38,Sunny
+18:00,00:00,zaterdag,4,januari,2014,-2,-3,1027,8,0,50,Clear
+00:00,06:00,zondag,5,januari,2014,-2,-3,1025,5,240,65,Clear
+06:00,12:00,zondag,5,januari,2014,0,-2,1026,2,270,78,Light snow
+06:00,12:00,zondag,5,januari,2014,0,-2,1026,2,270,78,Fog
+12:00,18:00,zondag,5,januari,2014,2,0,1021,8,0,88,Fog
+18:00,00:00,zondag,5,januari,2014,4,2,1015,7,60,92,Fog
+00:00,06:00,maandag,6,januari,2014,12,11,1003,13,180,94,Fog
+06:00,12:00,maandag,6,januari,2014,13,8,997,11,180,87,Light rain
+06:00,12:00,maandag,6,januari,2014,13,8,997,11,180,87,Cloudy
+12:00,18:00,maandag,6,januari,2014,6,3,999,14,0,61,Overcast
+18:00,00:00,maandag,6,januari,2014,2,-7,1004,9,290,45,Clear
+00:00,06:00,dinsdag,7,januari,2014,-10,-14,1012,25,290,39,Clear
+06:00,12:00,dinsdag,7,januari,2014,-14,-16,850,25,290,37,Sunny
+12:00,18:00,dinsdag,7,januari,2014,-12,-13,1023,22,270,36,Sunny
+18:00,00:00,dinsdag,7,januari,2014,-13,-13,1027,11,0,29,Clear
+00:00,06:00,woensdag,8,januari,2014,-13,-13,1031,13,290,47,Clear
+06:00,12:00,woensdag,8,januari,2014,-9,-13,1033,13,0,48,Sunny
+12:00,18:00,woensdag,8,januari,2014,-6,-7,860,9,0,39,Sunny
+18:00,00:00,woensdag,8,januari,2014,-6,-6,1033,6,0,40,Clear
+00:00,06:00,donderdag,9,januari,2014,-4,-6,1033,5,0,46,Clear
+06:00,12:00,donderdag,9,januari,2014,-2,-6,1037,5,0,51,Sunny
+12:00,18:00,donderdag,9,januari,2014,0,-1,1036,2,260,37,Sunny
+18:00,00:00,donderdag,9,januari,2014,-1,-2,1037,5,180,46,Clear
+00:00,06:00,vrijdag,10,januari,2014,0,-1,1033,6,60,58,Overcast
+06:00,12:00,vrijdag,10,januari,2014,1,0,1032,6,30,75,Light snow
+06:00,12:00,vrijdag,10,januari,2014,1,0,1032,6,30,75,Ice fog
+12:00,18:00,vrijdag,10,januari,2014,2,1,1029,2,40,88,Fog
+18:00,00:00,vrijdag,10,januari,2014,3,2,1026,7,40,90,Fog
+00:00,06:00,zaterdag,11,januari,2014,10,3,1019,8,40,90,Fog
+06:00,12:00,zaterdag,11,januari,2014,13,10,1012,13,180,92,Fog
+12:00,18:00,zaterdag,11,januari,2014,14,13,999,14,170,92,Fog
+18:00,00:00,zaterdag,11,januari,2014,14,12,996,11,0,87,Mostly cloudy
+00:00,06:00,zondag,12,januari,2014,11,7,998,16,280,64,Passing clouds
+06:00,12:00,zondag,12,januari,2014,7,7,1006,12,290,49,Overcast
+12:00,18:00,zondag,12,januari,2014,7,6,1011,12,0,46,Partly sunny
+18:00,00:00,zondag,12,januari,2014,6,3,1017,10,0,56,Clear
+00:00,06:00,maandag,13,januari,2014,3,3,1020,7,0,62,Clear
+06:00,12:00,maandag,13,januari,2014,9,3,1020,2,60,59,Sunny
+12:00,18:00,maandag,13,januari,2014,10,9,1016,10,0,60,Sunny
+18:00,00:00,maandag,13,januari,2014,10,9,1013,13,180,57,Clear
+00:00,06:00,dinsdag,14,januari,2014,11,9,1011,10,180,64,Overcast
+06:00,12:00,dinsdag,14,januari,2014,10,8,1009,8,150,82,Light rain
+06:00,12:00,dinsdag,14,januari,2014,10,8,1009,8,150,82,Mostly cloudy
+12:00,18:00,dinsdag,14,januari,2014,9,8,1005,7,290,88,Light rain
+12:00,18:00,dinsdag,14,januari,2014,9,8,1005,7,290,88,Fog
+18:00,00:00,dinsdag,14,januari,2014,8,7,1007,6,260,82,Overcast
+00:00,06:00,woensdag,15,januari,2014,7,4,168,1,270,86,Chilly
+12:00,18:00,woensdag,15,januari,2014,6,5,0,0,0,51,Quite cool
+18:00,00:00,woensdag,15,januari,2014,5,5,0,0,0,92,Quite cool
+00:00,06:00,donderdag,16,januari,2014,5,4,0,0,0,76,Chilly
+06:00,12:00,donderdag,16,januari,2014,4,3,0,0,0,77,Chilly
+12:00,18:00,donderdag,16,januari,2014,4,3,844,1,340,68,Chilly
+18:00,00:00,donderdag,16,januari,2014,2,2,676,0,0,70,Chilly
+00:00,06:00,vrijdag,17,januari,2014,2,0,0,0,0,63,Chilly
+06:00,12:00,vrijdag,17,januari,2014,5,1,0,0,0,51,Quite cool
+12:00,18:00,vrijdag,17,januari,2014,7,5,0,0,0,48,Quite cool
+18:00,00:00,vrijdag,17,januari,2014,5,4,0,0,0,53,Chilly
+00:00,06:00,zaterdag,18,januari,2014,4,3,0,0,0,68,Chilly
+06:00,12:00,zaterdag,18,januari,2014,3,1,0,0,0,90,Chilly
+12:00,18:00,zaterdag,18,januari,2014,3,2,0,0,0,67,Chilly
+18:00,00:00,zaterdag,18,januari,2014,0,-2,0,0,0,62,Chilly
+00:00,06:00,zondag,19,januari,2014,-2,-4,0,0,0,67,Chilly
+06:00,12:00,zondag,19,januari,2014,-2,-4,0,0,0,60,Chilly
+12:00,18:00,zondag,19,januari,2014,2,-1,0,8,190,48,Chilly
+18:00,00:00,zondag,19,januari,2014,3,2,0,0,0,52,Chilly
+00:00,06:00,maandag,20,januari,2014,3,2,0,0,0,50,Chilly
+06:00,12:00,maandag,20,januari,2014,5,3,0,0,0,52,Quite cool
+12:00,18:00,maandag,20,januari,2014,7,6,0,0,0,43,Quite cool
+18:00,00:00,maandag,20,januari,2014,5,1,0,0,0,55,Chilly
+00:00,06:00,dinsdag,21,januari,2014,2,-3,0,0,0,42,Chilly
+06:00,12:00,dinsdag,21,januari,2014,-4,-7,0,0,0,66,Cold
+12:00,18:00,dinsdag,21,januari,2014,-8,-9,0,0,0,82,Cold
+18:00,00:00,dinsdag,21,januari,2014,-10,-11,0,0,0,83,Cold
+00:00,06:00,woensdag,22,januari,2014,-11,-13,0,0,0,64,Frigid
+06:00,12:00,woensdag,22,januari,2014,-11,-14,0,0,0,55,Cold
+12:00,18:00,woensdag,22,januari,2014,-8,-9,0,0,0,43,Cold
+18:00,00:00,woensdag,22,januari,2014,-9,-12,0,0,0,49,Cold
+00:00,06:00,donderdag,23,januari,2014,-12,-13,0,0,0,53,Frigid
+06:00,12:00,donderdag,23,januari,2014,-8,-13,0,0,0,52,Cold
+12:00,18:00,donderdag,23,januari,2014,-7,-8,0,0,0,44,Cold
+18:00,00:00,donderdag,23,januari,2014,-7,-9,0,0,0,51,Cold
+00:00,06:00,vrijdag,24,januari,2014,-10,-12,0,0,0,50,Cold
+06:00,12:00,vrijdag,24,januari,2014,-9,-12,0,0,0,44,Cold
+12:00,18:00,vrijdag,24,januari,2014,-7,-8,0,0,0,33,Cold
+18:00,00:00,vrijdag,24,januari,2014,-8,-9,0,0,0,44,Cold
+00:00,06:00,zaterdag,25,januari,2014,-6,-8,0,0,0,46,Cold
+06:00,12:00,zaterdag,25,januari,2014,-3,-6,167,2,270,48,Overcast
+12:00,18:00,zaterdag,25,januari,2014,-2,-4,999,11,0,70,Light snow
+12:00,18:00,zaterdag,25,januari,2014,-2,-4,999,11,0,70,Mostly cloudy
+18:00,00:00,zaterdag,25,januari,2014,-4,-5,997,8,0,71,Clear
+00:00,06:00,zondag,26,januari,2014,-5,-7,1003,18,280,52,Clear
+06:00,12:00,zondag,26,januari,2014,-7,-8,1011,13,280,39,Sunny
+12:00,18:00,zondag,26,januari,2014,-6,-6,1011,2,0,46,Cloudy
+18:00,00:00,zondag,26,januari,2014,1,-4,1010,7,0,50,Overcast
+00:00,06:00,maandag,27,januari,2014,3,-1,1006,4,260,58,Clear
+06:00,12:00,maandag,27,januari,2014,5,3,1003,8,0,55,Partly sunny
+12:00,18:00,maandag,27,januari,2014,7,-2,1008,16,320,40,Overcast
+18:00,00:00,maandag,27,januari,2014,-2,-6,1016,17,310,29,Clear
+00:00,06:00,dinsdag,28,januari,2014,-7,-10,1022,14,310,38,Clear
+06:00,12:00,dinsdag,28,januari,2014,-9,-11,1028,12,310,31,Sunny
+12:00,18:00,dinsdag,28,januari,2014,-7,-8,1026,4,0,18,Scattered clouds
+18:00,00:00,dinsdag,28,januari,2014,-8,-8,1025,8,0,22,Overcast
+00:00,06:00,woensdag,29,januari,2014,-9,-10,1022,10,0,70,Light snow
+00:00,06:00,woensdag,29,januari,2014,-9,-10,1022,10,0,70,Overcast
+06:00,12:00,woensdag,29,januari,2014,-8,-10,1022,10,0,44,Sunny
+12:00,18:00,woensdag,29,januari,2014,-6,-6,1020,12,300,30,Sunny
+18:00,00:00,woensdag,29,januari,2014,-6,-8,1024,8,280,38,Clear
+00:00,06:00,donderdag,30,januari,2014,-7,-9,1028,5,0,42,Clear
+06:00,12:00,donderdag,30,januari,2014,-4,-8,1031,6,0,40,Sunny
+12:00,18:00,donderdag,30,januari,2014,-2,-3,1029,6,0,37,Sunny
+18:00,00:00,donderdag,30,januari,2014,-3,-4,1024,9,170,46,Clear
+00:00,06:00,vrijdag,31,januari,2014,-2,-4,1020,7,260,47,Clear
+06:00,12:00,vrijdag,31,januari,2014,0,-2,1021,11,260,44,Mostly cloudy
+12:00,18:00,vrijdag,31,januari,2014,4,1,1020,8,280,34,Partly sunny
+18:00,00:00,vrijdag,31,januari,2014,3,3,1023,4,270,38,Clear
