@@ -1,0 +1,15 @@
+requests
+spacy
+stanfordcorenlp
+numpy
+tqdm
+pandas
+pyspotlight
+validators
+textdistance
+pyspark
+xlsxwriter
+beautifulsoup4
+html5lib
+fastparquet
+snappy
